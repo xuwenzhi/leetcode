@@ -73,4 +73,4 @@ struct ListNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2) {
 
 # Summary
 
-1. Dont forget recur
+1. Dont forget recursive！
