@@ -1,17 +1,16 @@
 # reverse-integer
 [https://leetcode.com/problems/reverse-integer/](https://leetcode.com/problems/reverse-integer/)
 
-##  my solution
+#  my solution
+
+## First solution
+ 1.  convert to string
+2. convert string to array
+3. loop array from end to start, generate string
+ 4. convert reserved string to result
+5. if overflow return 0
 
 ```
-/**
-* First solution
-* 1.convert to string
-* 2.convert string to array
-* 3.loop array from end to start, generate string
-* 4.convert reserved string to result
-* 5.if overflow return 0
-* /
 func reverse(x int) int {
     var y = x
 	var string_number string
@@ -36,17 +35,14 @@ func reverse(x int) int {
 	}
 	return int(res)
 }
-/**
-* Runtime: 4 ms
-* Memory Usage: 2.2 MB
- */
 ```
-/**
-* Second solution
-* 1.loop the integer with divided 10
-* 2.directly calculate result by (res = res * 10 + remainder)
-* 3.if overflow return 0
-* /
+
+## Second solution
+1.loop the integer with divided 10
+2.directly calculate result by (res = res * 10 + remainder)
+3.if overflow return 0
+
+```
 func reverse(x int) int {
     var tmp_x, tmp_remainder int64
 	var y = x
@@ -68,10 +64,12 @@ func reverse(x int) int {
 	}
 	return int(res)
 }
+
 /**
 * Runtime: 4 ms
 * Memory Usage: 2.2 MB
  */
+
 ```
 
 # Other solution
@@ -97,7 +95,8 @@ public int reverse(int x)
 }
 ```
 
-重点关注下面的代码，这里在出现溢出的时候，也就是超出 [−2^31,  2^31 − 1]  这个范围的时候
+重点关注下面的代码，这里在出现溢出的时候，也就是超出 [−2^31,  2^31 − 1]  这个范围的时候~
+
 ```
 if ((newResult - tail) / 10 != result) { 
     return 0; 
