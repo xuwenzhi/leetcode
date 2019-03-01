@@ -27,7 +27,7 @@ struct ListNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2) {
         p3 = p2;
         p2 = p2->next;
     }
-     
+
     l3 = p3;
     int i = 0;
     while (p1 != NULL && p2 != NULL) {
@@ -36,7 +36,7 @@ struct ListNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2) {
             p1 = p1->next;
         } else {
             p3->next = p2;
-            p2 = p2->next;   
+            p2 = p2->next;
         }
         p3 = p3->next;
     }
@@ -73,4 +73,5 @@ struct ListNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2) {
 
 # Summary
 
-1. Dont forget recursive！
+1. Notice first element pointer.
+2. Dont forget recursive！
