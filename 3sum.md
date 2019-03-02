@@ -50,7 +50,7 @@ function threeSumClosest($nums, $target) {
 
 后来又觉得其实是可以通过 two pointer 的方式取解决，所以画了个图，理论上可以，于是有了下面最新的答案
 
-# TWO Pointer O(nLogn)
+# TWO Pointer O(n^2)
 
 ```
 function threeSumClosest($nums, $target) {
