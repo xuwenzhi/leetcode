@@ -8,3 +8,6 @@
 
 ![http://img.xuwenzhi.com/IMG_0036.jpg](http://img.xuwenzhi.com/IMG_0036.jpg)
 
+![image](http://github.com/xuwenzhi/leetcode/raw/master/images/merge-k-sorted-lists-think1.jpg)
+
+
