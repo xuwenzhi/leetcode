@@ -29,6 +29,8 @@
 
 [remove-duplicates-from-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/remove-duplicates-from-sorted-array.md) **c** 
 
+[longest-common-prefix](https://github.com/xuwenzhi/leetcode/blob/master/longest-common-prefix.md) **golang** **overflow**
+
 ## 链表
 
 [rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/rotate-list.md) **c**
