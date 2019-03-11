@@ -27,6 +27,9 @@
 [search-in-rotated-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/search-in-rotated-sorted-array.md)
 **golang**
 
+[search-in-rotated-sorted-array-ii](https://github.com/xuwenzhi/leetcode/blob/master/search-in-rotated-sorted-array-ii.md)
+**golang** **2 pointer**
+
 [find-first-and-last-element-in-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/find-first-and-last-position-of-element-in-sorted-array.md) **golang** **2 pointer**
 
 [remove-duplicates-from-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/remove-duplicates-from-sorted-array.md) **c**
