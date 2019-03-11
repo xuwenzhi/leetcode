@@ -20,14 +20,16 @@
 
 [search-insert-position](https://github.com/xuwenzhi/leetcode/blob/master/search-insert-position.md) **golang** **2 pointer**
 
+[implement-strstr](https://github.com/xuwenzhi/leetcode/blob/master/implement-strstr.md) **c** **KMP**
+
 ## 数组类
 
-[search-in-rotated-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/search-in-rotated-sorted-array.md) 
+[search-in-rotated-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/search-in-rotated-sorted-array.md)
 **golang**
 
 [find-first-and-last-element-in-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/find-first-and-last-position-of-element-in-sorted-array.md) **golang** **2 pointer**
 
-[remove-duplicates-from-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/remove-duplicates-from-sorted-array.md) **c** 
+[remove-duplicates-from-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/remove-duplicates-from-sorted-array.md) **c**
 
 [longest-common-prefix](https://github.com/xuwenzhi/leetcode/blob/master/longest-common-prefix.md) **golang** **overflow**
 
