@@ -50,3 +50,7 @@
 
 [add-two-numbers](https://github.com/xuwenzhi/leetcode/blo\
 b/master/add-two-numbers.md)
+
+## 栈
+
+[score-of-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/score-of-parentheses.md) **c**
