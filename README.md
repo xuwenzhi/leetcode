@@ -22,6 +22,8 @@
 
 [implement-strstr](https://github.com/xuwenzhi/leetcode/blob/master/implement-strstr.md) **c** **KMP**
 
+[longest-substring-without-repeating-characters](https://github.com/xuwenzhi/leetcode/blob/master/longest-substring-without-repeating-characters.md) **golang**
+
 ## 数组类
 
 [search-in-rotated-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/search-in-rotated-sorted-array.md)
