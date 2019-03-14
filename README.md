@@ -60,6 +60,8 @@
 
 [delete-node-in-a-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/delete-node-in-a-linked-list.md) **golang**
 
+[linked-list-cycle](https://github.com/xuwenzhi/leetcode/blob/master/linked-list-cycle.md) **c** **2 pointer**
+
 ## 栈
 
 [score-of-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/score-of-parentheses.md) **c**
