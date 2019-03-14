@@ -50,13 +50,13 @@
 
 [remove-dumplicates-from-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/remove-duplicates-from-sorted-list.md) **c**
 
-[add-two-numbers](https://github.com/xuwenzhi/leetcode/blo\
-b/master/add-two-numbers.md)
+[add-two-numbers](https://github.com/xuwenzhi/leetcode/blob/master/add-two-numbers.md)
 
-[reverse-linked-list](https://github.com/xuwenzhi/leetcode/blo\
-b/master/reverse-linked-list.md)
-[reverse-linked-list-ii](https://github.com/xuwenzhi/leetcode/blo\
-b/master/reverse-linked-list-ii.md)
+[reverse-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/reverse-linked-list.md)
+
+[reverse-linked-list-ii](https://github.com/xuwenzhi/leetcode/blob/master/reverse-linked-list-ii.md)
+
+[remove-duplicates-from-sorted-list-ii](https://github.com/xuwenzhi/leetcode/blob/master/remove-duplicates-from-sorted-list-ii.md) **c**
 
 
 ## 栈
