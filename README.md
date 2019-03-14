@@ -63,3 +63,8 @@
 ## 栈
 
 [score-of-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/score-of-parentheses.md) **c**
+
+
+## 树
+
+[same-tree](https://github.com/xuwenzhi/leetcode/blob/master/same-tree.md) **c** **recursive**
