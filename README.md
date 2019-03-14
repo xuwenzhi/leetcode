@@ -58,6 +58,7 @@
 
 [remove-duplicates-from-sorted-list-ii](https://github.com/xuwenzhi/leetcode/blob/master/remove-duplicates-from-sorted-list-ii.md) **c**
 
+[delete-node-in-a-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/delete-node-in-a-linked-list.md) **golang**
 
 ## 栈
 
