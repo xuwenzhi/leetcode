@@ -60,7 +60,10 @@
 
 [delete-node-in-a-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/delete-node-in-a-linked-list.md) **golang**
 
-[linked-list-cycle-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list-cycle-ii.md) **golang**
+
+[linked-list-cycle](https://github.com/xuwenzhi/leetcode/blob/master/linked-list-cycle.md) **c** **2 pointer**
+
+[linked-list-cycle-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list-cycle-ii.md) **c** **2 pointer**
 
 ## 栈
 
