@@ -63,3 +63,19 @@ struct ListNode *detectCycle(struct ListNode *head) {
 后来参考了一下这个，主要看一下这个图吧~
 
 ![https://ws4.sinaimg.cn/large/006tNbRwly1fys0mm3y1lj31bd0u01kx.jpg](https://ws4.sinaimg.cn/large/006tNbRwly1fys0mm3y1lj31bd0u01kx.jpg)
+
+
+因为 slow 指针 移动速度是 fast指针的一半
+X1 + X2 + X3 + X2 = 2(X1 + X2)
+
+所以 X1 = X3，然而，并不知道具体的X1和X3究竟是多少，所以把slow赋值为head，fast不动，两个指针都做如下操作即可
+
+```
+slow = head;
+while (slow != fast) {
+	slow = slow->next;
+	fast = fast->next;
+}
+
+return slow;
+```
