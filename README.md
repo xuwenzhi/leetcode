@@ -69,6 +69,10 @@
 
 [reverse-nodes-in-k-group](https://github.com/xuwenzhi/leetcode/blob/master/reverse-nodes-in-k-group.md) **c**
 
+[middle-of-the-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/middle-of-the-linked-list.md) **c** **2 pointer** **easy**
+
+[remove-linked-list-elements](https://github.com/xuwenzhi/leetcode/blob/master/remove-linked-list-elements.md) **c** **2 pointer** **easy**
+
 
 ## 栈
 

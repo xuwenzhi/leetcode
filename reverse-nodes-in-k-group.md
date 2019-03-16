@@ -2,6 +2,10 @@
 
 [https://leetcode.com/problems/reverse-nodes-in-k-group/](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
+# thinking
+
+这题相比 [swap-nodes-in-pairs](https://github.com/xuwenzhi/leetcode/blob/master/swap-nodes-in-pairs.md) 增加了点难度，不过还好，需要注意的就是如果不足 **k** 个链，就不操作就完了
+
 
 ```
 /**
