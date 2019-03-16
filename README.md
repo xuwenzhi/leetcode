@@ -73,6 +73,7 @@
 
 [remove-linked-list-elements](https://github.com/xuwenzhi/leetcode/blob/master/remove-linked-list-elements.md) **c** **2 pointer** **easy**
 
+[add-two-numbers-ii](https://github.com/xuwenzhi/leetcode/blob/master/add-two-numbers-ii.md) **c** **easy**
 
 ## 栈
 
