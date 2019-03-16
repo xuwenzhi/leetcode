@@ -50,11 +50,11 @@
 
 [remove-dumplicates-from-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/remove-duplicates-from-sorted-list.md) **c**
 
-[add-two-numbers](https://github.com/xuwenzhi/leetcode/blob/master/add-two-numbers.md)
+[add-two-numbers](https://github.com/xuwenzhi/leetcode/blob/master/add-two-numbers.md) **c**
 
-[reverse-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/reverse-linked-list.md)
+[reverse-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/reverse-linked-list.md) **c**
 
-[reverse-linked-list-ii](https://github.com/xuwenzhi/leetcode/blob/master/reverse-linked-list-ii.md)
+[reverse-linked-list-ii](https://github.com/xuwenzhi/leetcode/blob/master/reverse-linked-list-ii.md) **c**
 
 [remove-duplicates-from-sorted-list-ii](https://github.com/xuwenzhi/leetcode/blob/master/remove-duplicates-from-sorted-list-ii.md) **c**
 
@@ -63,7 +63,12 @@
 
 [linked-list-cycle](https://github.com/xuwenzhi/leetcode/blob/master/linked-list-cycle.md) **c** **2 pointer**
 
-[linked-list-cycle-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list-cycle-ii.md) **c** **2 pointer**
+[linked-list-cycle-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list-cycle-ii.md) **c** **2 pointer(fast&&slow)**
+
+[swap-nodes-in-pairs](https://github.com/xuwenzhi/leetcode/blob/master/swap-nodes-in-pairs.md) **c**
+
+[reverse-nodes-in-k-group](https://github.com/xuwenzhi/leetcode/blob/master/reverse-nodes-in-k-group.md) **c**
+
 
 ## 栈
 

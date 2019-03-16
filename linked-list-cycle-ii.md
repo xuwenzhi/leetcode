@@ -79,3 +79,40 @@ while (slow != fast) {
 
 return slow;
 ```
+
+# 最终的solution
+
+```
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     struct ListNode *next;
+ * };
+ */
+struct ListNode *detectCycle(struct ListNode *head) {
+    if (head == NULL || head->next == NULL) return false;
+    if (head->next == head) return head;
+    struct ListNode *p, *q, *tail;
+    p = head;
+    q = head;
+    bool is_cycle = false;
+    while(p != NULL && q != NULL) {
+        p = p->next;
+        if (q->next == NULL) return NULL;
+        q = q->next->next;
+        if (p == q) { is_cycle = true; break; }
+    }
+
+    if (!is_cycle) {
+        return NULL;
+    }
+    p = head;
+    while (p != q) {
+        p = p->next;
+        q = q->next;
+    }
+
+    return p;
+}
+```
