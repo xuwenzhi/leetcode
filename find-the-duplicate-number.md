@@ -31,7 +31,31 @@ int findDuplicate(int* nums, int numsSize) {
 }
 ```
 
-## 把数组想象为一个成环的链表，查找成环点(参考[https://blog.csdn.net/monkeyduck/article/details/50439840](https://blog.csdn.net/monkeyduck/article/details/50439840))
+## 二分查找
+
+[[LeetCode] Find the Duplicate Number 寻找重复数](http://www.cnblogs.com/grandyang/p/4843654.html)
+
+```
+class Solution {
+public:
+    int findDuplicate(vector<int>& nums) {
+        int left = 0, right = nums.size();
+        while (left < right){
+            int mid = left + (right - left) / 2, cnt = 0;
+            for (int num : nums) {
+                if (num <= mid) ++cnt;
+            }
+            if (cnt <= mid) left = mid + 1;
+            else right = mid;
+        }
+        return right;
+    }
+};
+```
+
+## 抽象环查找
+
+把数组想象为一个成环的链表，查找成环点(参考[https://blog.csdn.net/monkeyduck/article/details/50439840](https://blog.csdn.net/monkeyduck/article/details/50439840))
 
 相关题目[linked-list-cycle-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list-cycle-ii.md)
 

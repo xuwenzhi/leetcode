@@ -14,6 +14,8 @@
 
 [reverse-integer](https://github.com/xuwenzhi/leetcode/blob/master/reverse-integer.md) **golang**  **overflow**
 
+[palindrome-number](https://github.com/xuwenzhi/leetcode/blob/master/reverse-integer.md) **golang** **2019-3-18**
+
 [single-number](https://github.com/xuwenzhi/leetcode/blob/master/reverse-integer.md) **c** **XOR**
 
 ## 字符串类
@@ -77,6 +79,8 @@
 [add-two-numbers-ii](https://github.com/xuwenzhi/leetcode/blob/master/add-two-numbers-ii.md) **c** **medium**
 
 [remove-nth-node-from-end-of-list](https://github.com/xuwenzhi/leetcode/blob/master/remove-nth-node-from-end-of-list.md) **c** **2019-3-17**
+
+[palindrome-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/remove-nth-node-from-end-of-list.md) **c** **slower faster**
 
 ## 栈
 
