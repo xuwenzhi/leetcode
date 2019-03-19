@@ -86,6 +86,8 @@
 
 [odd-even-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/odd-even-linked-list.md) **c**
 
+[insertion-sort-list](https://github.com/xuwenzhi/leetcode/blob/master/insertion-sort-list.md) **c** **insertion sort**
+
 ## 栈
 
 [score-of-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/score-of-parentheses.md) **c**
