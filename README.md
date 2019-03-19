@@ -84,6 +84,8 @@
 
 [design-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/design-linked-list.md) **c**
 
+[odd-even-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/odd-even-linked-list.md) **c**
+
 ## 栈
 
 [score-of-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/score-of-parentheses.md) **c**
