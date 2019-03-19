@@ -2,6 +2,12 @@
 
 [https://leetcode.com/problems/insertion-sort-list/](https://leetcode.com/problems/insertion-sort-list/)
 
+# NOTE！！
+
+> For God's sake, don't try sorting a linked list during the interview
+
+[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+
 # thinking
 
 这个题有点类似于插入排序，不过这是个单向链表，所以每次找到一个节点后需要从头偏移，所以效率上肯定不会太高。
