@@ -86,6 +86,10 @@
 
 [odd-even-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/odd-even-linked-list.md) **c**
 
+[partition-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/partition-list.md) **c** **2019-3-19**
+
+[reorder-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/reorder-list.md) **c** **slow faster** **2019-3-20**
+
 ## 栈
 
 [score-of-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/score-of-parentheses.md) **c**
