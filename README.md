@@ -96,6 +96,9 @@
 
 [intersection-of-two-linked-lists](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/intersection-of-two-linked-lists.md) **c++**  **2019-3-21**
 
+[convert-sorted-list-to-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/convert-sorted-list-to-binary-search-tree.md) **c** **recursive**
+
+
 ## 栈
 
 [score-of-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/score-of-parentheses.md) **c**
