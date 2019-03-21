@@ -92,7 +92,7 @@
 
 [reorder-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/reorder-list.md) **c** **slow faster** **2019-3-20**
 
-
+[linked-list-components](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/linked-list-components.md) **c++**  **2019-3-21**
 
 
 ## 栈
