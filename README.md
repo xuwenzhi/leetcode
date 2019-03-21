@@ -94,6 +94,7 @@
 
 [linked-list-components](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/linked-list-components.md) **c++**  **2019-3-21**
 
+[intersection-of-two-linked-lists](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/intersection-of-two-linked-lists.md) **c++**  **2019-3-21**
 
 ## 栈
 
