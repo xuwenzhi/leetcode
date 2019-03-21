@@ -92,6 +92,9 @@
 
 [reorder-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/reorder-list.md) **c** **slow faster** **2019-3-20**
 
+
+[split-linked-list-in-parts](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/split-linked-list-in-parts.md) **c** **2019-3-21**
+
 [linked-list-components](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/linked-list-components.md) **c++**  **2019-3-21**
 
 [intersection-of-two-linked-lists](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/intersection-of-two-linked-lists.md) **c++**  **2019-3-21**
