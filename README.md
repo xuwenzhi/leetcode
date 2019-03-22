@@ -101,6 +101,7 @@
 
 [convert-sorted-list-to-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/convert-sorted-list-to-binary-search-tree.md) **c** **recursive**
 
+[flatten-a-multilevel-doubly-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/flatten-a-multilevel-doubly-linked-list.md) **c++** **2019-3-22**
 
 ## 栈
 
