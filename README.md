@@ -103,6 +103,8 @@
 
 [flatten-a-multilevel-doubly-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/flatten-a-multilevel-doubly-linked-list.md) **c++** **2019-3-22**
 
+[copy-list-with-random-pointer](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/copy-list-with-random-pointer.md) **c++** **2019-3-22**
+
 ## 栈
 
 [score-of-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/score-of-parentheses.md) **c**
