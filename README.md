@@ -44,6 +44,9 @@
 
 [rotate-image](https://github.com/xuwenzhi/leetcode/blob/master/rotate-image.md) **c** **matrix**
 
+[search-a-2d-matrix](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix.md) **c** **matrix** **2 pointer**
+
+
 ## 链表
 
 [rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/rotate-list.md) **c**
@@ -104,6 +107,8 @@
 [flatten-a-multilevel-doubly-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/flatten-a-multilevel-doubly-linked-list.md) **c++** **2019-3-22**
 
 [copy-list-with-random-pointer](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/copy-list-with-random-pointer.md) **c++** **2019-3-22**
+
+[sort-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/sort-list.md)
 
 ## 栈
 
