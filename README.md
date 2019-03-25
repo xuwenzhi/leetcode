@@ -44,8 +44,9 @@
 
 [rotate-image](https://github.com/xuwenzhi/leetcode/blob/master/rotate-image.md) **c** **matrix**
 
-[search-a-2d-matrix](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix.md) **c** **matrix** **2 pointer**
+[search-a-2d-matrix](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix.md) **c++** **matrix** **2 pointer**
 
+[search-a-2d-matrix-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix-ii.md) **c++** **matrix** **2 pointer**
 
 ## 链表
 
@@ -73,7 +74,7 @@
 
 [swap-nodes-in-pairs](https://github.com/xuwenzhi/leetcode/blob/master/swap-nodes-in-pairs.md) **c**
 
-[reverse-nodes-in-k-group](https://github.com/xuwenzhi/leetcode/blob/master/reverse-nodes-in-k-group.md) **c**
+[reverse-nodes-in-k-group](https://github.com/xuwenzhi/leetcode/blob/master/reverse-nodes-in-k-group.md) **c** **hard**
 
 [middle-of-the-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/middle-of-the-linked-list.md) **c** **2 pointer** **easy**
 
@@ -95,7 +96,6 @@
 
 [reorder-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/reorder-list.md) **c** **slow faster** **2019-3-20**
 
-
 [split-linked-list-in-parts](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/split-linked-list-in-parts.md) **c** **2019-3-21**
 
 [linked-list-components](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/linked-list-components.md) **c++**  **2019-3-21**
@@ -108,7 +108,7 @@
 
 [copy-list-with-random-pointer](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/copy-list-with-random-pointer.md) **c++** **2019-3-22**
 
-[sort-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/sort-list.md)
+[sort-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/sort-list.md) **c++** **merge sort**
 
 ## 栈
 
@@ -118,3 +118,13 @@
 ## 树
 
 [same-tree](https://github.com/xuwenzhi/leetcode/blob/master/same-tree.md) **c** **recursive**
+
+
+
+# should review
+
+[search-a-2d-matrix-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix-ii.md) **c++** **matrix** **2 pointer**
+
+[merge-k-sorted-lists](https://github.com/xuwenzhi/leetcode/blob/master/merge-k-sorted-lists.md) **c** **分治** **最小堆(优先队列)**
+
+[linked-list-cycle-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list-cycle-ii.md) **c** **2 pointer(fast&&slow)**

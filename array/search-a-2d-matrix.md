@@ -52,7 +52,6 @@ public:
             } else if (matrix[mid_row][mid_col] < target) {
                 low = mid_row * col_size + mid_col + 1;
             } else {
-                cout<<mid_row<<":"<<mid_col<<endl;
                 high = mid_row * col_size + mid_col;
             }
         }
