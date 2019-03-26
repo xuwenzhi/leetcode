@@ -30,7 +30,7 @@ public:
     vector<string> letterCombinations(string digits) {
         vector<string> res;
         if (digits.empty()) return res;
-        combine(digits, 0, res);
+        combine(digits, res);
         return res;
     }
 
@@ -49,7 +49,7 @@ public:
         return vec[index-2];
     }
 
-    void combine(string s, int index, vector<string> &res) {
+    void combine(string s, vector<string> &res) {
         if (s.size() == 0) return;
 		// use for current call.
         vector<string> tmp_res;
@@ -71,7 +71,7 @@ public:
         }
 
         if (s.size() == 1) return ;
-        combine(s.substr(index + 1), index, res);
+        combine(s.substr(1), res);
     }
 };
 ```

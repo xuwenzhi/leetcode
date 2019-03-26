@@ -30,6 +30,10 @@
 
 [letter-combinations-of-a-phone-number](https://github.com/xuwenzhi/leetcode/blob/master/string/letter-combinations-of-a-phone-number.md) **c++** **recursive** **2019-3-26**
 
+[reverse-string](https://github.com/xuwenzhi/leetcode/blob/master/string/reverse-string.md) **c++** **2019-3-26**
+
+[reverse-only-letters](https://github.com/xuwenzhi/leetcode/blob/master/string/reverse-only-letters.md) **c++** **2019-3-26**
+
 ## 数组类
 
 [search-in-rotated-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/search-in-rotated-sorted-array.md)
