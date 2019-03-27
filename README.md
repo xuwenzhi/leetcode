@@ -38,6 +38,8 @@
 
 [add-binary](https://github.com/xuwenzhi/leetcode/blob/master/string/add-binary.md) **c++** **2019-3-27**
 
+[add-strings](https://github.com/xuwenzhi/leetcode/blob/master/string/add-strings.md) **c++** **2019-3-27**
+
 ## 数组类
 
 [search-in-rotated-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/search-in-rotated-sorted-array.md)
