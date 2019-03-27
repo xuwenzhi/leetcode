@@ -34,6 +34,8 @@
 
 [reverse-only-letters](https://github.com/xuwenzhi/leetcode/blob/master/string/reverse-only-letters.md) **c++** **2019-3-26**
 
+[restore-ip-addresses](https://github.com/xuwenzhi/leetcode/blob/master/string/restore-ip-addresses.md) **c++** **2019-3-25**
+
 ## 数组类
 
 [search-in-rotated-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/search-in-rotated-sorted-array.md)
@@ -138,3 +140,5 @@
 [linked-list-cycle-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list-cycle-ii.md) **c** **2 pointer(fast&&slow)**
 
 [find-the-duplicate-number](https://github.com/xuwenzhi/leetcode/blob/master/array/find-the-duplicate-number.md) **c** **cycle**
+
+[restore-ip-addresses](https://github.com/xuwenzhi/leetcode/blob/master/string/restore-ip-addresses.md) **c++** **2019-3-25**
