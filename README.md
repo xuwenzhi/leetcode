@@ -60,6 +60,9 @@
 
 [find-the-duplicate-number](https://github.com/xuwenzhi/leetcode/blob/master/array/find-the-duplicate-number.md) **c** **cycle**
 
+[merge-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/merge-sorted-array.md) **c++**
+
+
 ## 链表
 
 [rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/rotate-list.md) **c**

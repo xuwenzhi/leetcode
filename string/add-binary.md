@@ -2,8 +2,6 @@
 
 [https://leetcode.com/problems/add-binary/](https://leetcode.com/problems/add-binary/)
 
-# thinking
-
 ```
 Given two binary strings, return their sum (also a binary string).
 
@@ -19,6 +17,7 @@ Input: a = "1010", b = "1011"
 Output: "10101"
 ```
 
+# thinking
 
 这个题有点类似于[add-two-numbers-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/add-two-numbers-ii.md)，从右向左依次相加并且再维护一个over变量即可.
 
