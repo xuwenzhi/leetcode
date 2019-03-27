@@ -87,9 +87,9 @@
 
 [delete-node-in-a-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/delete-node-in-a-linked-list.md) **golang**
 
-[linked-list-cycle](https://github.com/xuwenzhi/leetcode/blob/master/linked-list-cycle.md) **c** **2 pointer**
+[linked-list-cycle](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/linked-list-cycle.md) **c** **2 pointer**
 
-[linked-list-cycle-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list-cycle-ii.md) **c** **2 pointer(fast&&slow)**
+[linked-list-cycle-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/linked-list-cycle-ii.md) **c** **2 pointer(fast&&slow)**
 
 [swap-nodes-in-pairs](https://github.com/xuwenzhi/leetcode/blob/master/swap-nodes-in-pairs.md) **c**
 
@@ -103,7 +103,7 @@
 
 [palindrome-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/remove-nth-node-from-end-of-list.md) **c** **slower faster**
 
-[design-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/design-linked-list.md) **c**
+[design-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/design-linked-list.md) **c**
 
 [odd-even-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/odd-even-linked-list.md) **c**
 
