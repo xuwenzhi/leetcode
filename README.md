@@ -67,6 +67,11 @@
 
 [merge-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/merge-sorted-array.md) **c++**
 
+[pascals-triangle(easy)](https://github.com/xuwenzhi/leetcode/blob/master/array/pascals-triangle.md) **c++**
+
+[pascals-triangle-ii(easy)](https://github.com/xuwenzhi/leetcode/blob/master/array/pascals-triangle-ii.md) **c++**
+
+
 
 ## 链表
 
