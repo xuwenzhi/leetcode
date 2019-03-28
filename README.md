@@ -142,7 +142,9 @@
 
 ## 树
 
-[same-tree](https://github.com/xuwenzhi/leetcode/blob/master/same-tree.md) **c** **recursive**
+[[easy]same-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/same-tree.md) **c** **recursive**
+
+[[easy]maximum-depth-of-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-depth-of-binary-tree.md) **c++** **recursive**
 
 
 
