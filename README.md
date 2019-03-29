@@ -152,6 +152,8 @@
 
 [[easy]binary-tree-level-order-traversal-ii](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-level-order-traversal-ii.md) **c++** **BFS** **reverse**
 
+[[easy]average-of-levels-in-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/average-of-levels-in-binary-tree.md) **c++** **BFS** **overflow**
+
 
 
 # should review
