@@ -154,6 +154,8 @@
 
 [[easy]average-of-levels-in-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/average-of-levels-in-binary-tree.md) **c++** **BFS** **overflow**
 
+[[easy]cousins-in-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/cousins-in-binary-tree.md) **c++** **BFS**
+
 
 
 # should review
