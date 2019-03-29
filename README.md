@@ -156,6 +156,8 @@
 
 [[easy]cousins-in-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/cousins-in-binary-tree.md) **c++** **BFS**
 
+[[easy]n-ary-tree-level-order-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/n-ary-tree-level-order-traversal.md) **c++** **BFS**
+
 
 
 # should review
