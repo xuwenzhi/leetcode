@@ -146,6 +146,8 @@
 
 [[easy]maximum-depth-of-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-depth-of-binary-tree.md) **c++** **recursive**
 
+[[easy]minimum-depth-of-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-depth-of-binary-tree.md) **c++** **recursive**
+
 
 
 # should review
