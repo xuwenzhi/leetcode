@@ -24,9 +24,8 @@ Output:
 1-2-3-7-8-11-12-9-10-4-5-6-NULL
 
 We should return the following flattened doubly linked list:
-
-![https://assets.leetcode.com/uploads/2018/10/12/multilevellinkedlistflattened.png](https://assets.leetcode.com/uploads/2018/10/12/multilevellinkedlistflattened.png)
 ```
+![https://assets.leetcode.com/uploads/2018/10/12/multilevellinkedlistflattened.png](https://assets.leetcode.com/uploads/2018/10/12/multilevellinkedlistflattened.png)
 
 # thinking
 

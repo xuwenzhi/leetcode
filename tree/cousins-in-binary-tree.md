@@ -14,19 +14,21 @@ Return true if and only if the nodes corresponding to the values x and y are cou
 
 
 Example 1:
+```
 ![https://assets.leetcode.com/uploads/2019/02/12/q1248-01.png](https://assets.leetcode.com/uploads/2019/02/12/q1248-01.png)
-
+```
 Input: root = [1,2,3,4], x = 4, y = 3
 Output: false
 Example 2:
+```
 ![https://assets.leetcode.com/uploads/2019/02/12/q1248-02.png](https://assets.leetcode.com/uploads/2019/02/12/q1248-02.png)
-
+```
 Input: root = [1,2,3,null,4,null,5], x = 5, y = 4
 Output: true
 Example 3:
-
+```
 ![https://assets.leetcode.com/uploads/2019/02/13/q1248-03.png](https://assets.leetcode.com/uploads/2019/02/13/q1248-03.png)
-
+```
 Input: root = [1,2,3,null,4], x = 2, y = 3
 Output: false
 
