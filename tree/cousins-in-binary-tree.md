@@ -41,7 +41,7 @@ Each node has a unique integer value from 1 to 100.
 
 # thinking
 
-还是采用BFS的遍历方式，因为这个整个树节点的值都是唯一的，所以通过一个简单的**isOneEqual()**方法来进行判断，如果在这其中，对第一个命中的点的父节点targetNode还有depth赋值，所以注意点就是也不要忘记比较深度，如果深度不同，那也就不是cousin了.
+还是采用层序遍历方式，因为这个整个树节点的值都是唯一的，所以通过一个简单的**isOneEqual()**方法来进行判断，如果在这其中，对第一个命中的点的父节点targetNode还有depth赋值，所以注意点就是也不要忘记比较深度，如果深度不同，那也就不是cousin了.
 
 # solution
 
@@ -78,7 +78,6 @@ public:
                 if (tmp->left) {
                     if (isOneEqual(tmp->left->val, x, y)) {
                         if (targetNode) {
-                            cout<<depth<<endl;
                             return targetNode != tmp && depth == index;
                         } else {
                             targetNode = tmp;

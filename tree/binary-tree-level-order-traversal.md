@@ -24,7 +24,7 @@ return its level order traversal as:
 
 # thinking
 
-一个BFS 就可以解决问题了，类似问题。
+一个层序遍历就可以解决问题了，类似问题。
 
 # solution
 

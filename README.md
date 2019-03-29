@@ -148,17 +148,17 @@
 
 [[easy]minimum-depth-of-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-depth-of-binary-tree.md) **c++** **recursive**
 
-[[medium]binary-tree-level-order-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-level-order-traversal.md) **c++** **BFS**
+[[medium]binary-tree-level-order-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-level-order-traversal.md) **c++**
 
-[[easy]binary-tree-level-order-traversal-ii](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-level-order-traversal-ii.md) **c++** **BFS** **reverse**
+[[easy]binary-tree-level-order-traversal-ii](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-level-order-traversal-ii.md) **c++** **reverse**
 
-[[easy]average-of-levels-in-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/average-of-levels-in-binary-tree.md) **c++** **BFS** **overflow**
+[[easy]average-of-levels-in-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/average-of-levels-in-binary-tree.md) **c++**  **overflow**
 
-[[easy]cousins-in-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/cousins-in-binary-tree.md) **c++** **BFS**
+[[easy]cousins-in-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/cousins-in-binary-tree.md) **c++**
 
-[[easy]n-ary-tree-level-order-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/n-ary-tree-level-order-traversal.md) **c++** **BFS**
+[[easy]n-ary-tree-level-order-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/n-ary-tree-level-order-traversal.md) **c++**
 
-
+[[medium]binary-tree-zigzag-level-order-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-zigzag-level-order-traversal.md) **c++**
 
 # should review
 
