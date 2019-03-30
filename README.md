@@ -162,6 +162,9 @@
 
 [[medium]binary-tree-zigzag-level-order-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-zigzag-level-order-traversal.md) **c++**
 
+[[easy]search-in-a-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/search-in-a-binary-search-tree.md) **c++**
+
+
 # should review
 
 [search-a-2d-matrix-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix-ii.md) **c++** **matrix** **2 pointer**
