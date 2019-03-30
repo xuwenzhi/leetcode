@@ -164,6 +164,7 @@
 
 [[easy]search-in-a-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/search-in-a-binary-search-tree.md) **c++**
 
+[[easy]univalued-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/univalued-binary-tree.md) **c++**
 
 # should review
 
