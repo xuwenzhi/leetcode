@@ -166,6 +166,9 @@
 
 [[easy]univalued-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/univalued-binary-tree.md) **c++**
 
+[[medium]flatten-binary-tree-to-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/tree/flatten-binary-tree-to-linked-list.md) **c++** **preorder**
+
+
 # should review
 
 [search-a-2d-matrix-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix-ii.md) **c++** **matrix** **2 pointer**
