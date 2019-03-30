@@ -148,6 +148,8 @@
 
 [[easy]minimum-depth-of-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-depth-of-binary-tree.md) **c++** **recursive**
 
+[[easy]maximum-depth-of-n-ary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-depth-of-n-ary-tree.md) **c++**
+
 [[medium]binary-tree-level-order-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-level-order-traversal.md) **c++**
 
 [[easy]binary-tree-level-order-traversal-ii](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-level-order-traversal-ii.md) **c++** **reverse**
