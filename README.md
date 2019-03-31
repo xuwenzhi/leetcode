@@ -162,15 +162,17 @@
 
 [[medium]binary-tree-zigzag-level-order-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-zigzag-level-order-traversal.md) **c++**
 
-[[easy]search-in-a-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/search-in-a-binary-search-tree.md) **c++**
+[[easy]search-in-a-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/search-in-a-binary-search-tree.md) **c++** **2019-3-29**
 
-[[easy]univalued-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/univalued-binary-tree.md) **c++**
+[[easy]univalued-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/univalued-binary-tree.md) **c++** **2019-3-29**
 
-[[medium]flatten-binary-tree-to-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/tree/flatten-binary-tree-to-linked-list.md) **c++** **preorder**
+[[medium]flatten-binary-tree-to-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/tree/flatten-binary-tree-to-linked-list.md) **c++** **preorder** **2019-3-29**
 
-[[medium]populating-next-right-pointers-in-each-node](https://github.com/xuwenzhi/leetcode/blob/master/tree/populating-next-right-pointers-in-each-node.md) **c++**
+[[medium]populating-next-right-pointers-in-each-node](https://github.com/xuwenzhi/leetcode/blob/master/tree/populating-next-right-pointers-in-each-node.md) **c++** **2019-3-30**
 
-[[medium]binary-tree-right-side-view](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-right-side-view.md) **c++**
+[[medium]binary-tree-right-side-view](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-right-side-view.md) **c++** **2019-3-30**
+
+[[medium]binary-tree-inorder-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-inorder-traversal.md) **c++** **inorder** **2019-3-30**
 
 
 # should review
