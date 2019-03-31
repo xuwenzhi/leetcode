@@ -168,6 +168,7 @@
 
 [[medium]flatten-binary-tree-to-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/tree/flatten-binary-tree-to-linked-list.md) **c++** **preorder**
 
+[[medium]populating-next-right-pointers-in-each-node](https://github.com/xuwenzhi/leetcode/blob/master/tree/populating-next-right-pointers-in-each-node.md) **c++**
 
 # should review
 
