@@ -53,3 +53,27 @@ public:
 Runtime: 4 ms, faster than 100.00% of C++ online submissions for Binary Tree Inorder Traversal.
 
 Memory Usage: 9.4 MB, less than 27.15% of C++ online submissions for Binary Tree Inorder Traversal.
+
+# solution (iteratively)
+
+```
+// Non-recursion
+class Solution {
+public:
+    vector<int> inorderTraversal(TreeNode *root) {
+        vector<int> res;
+        stack<TreeNode*> s;
+        TreeNode *p = root;
+        while (p || !s.empty()) {
+            while (p) {
+                s.push(p);
+                p = p->left;
+            }
+            p = s.top(); s.pop();
+            res.push_back(p->val);
+            p = p->right;
+        }
+        return res;
+    }
+};
+```

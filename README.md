@@ -174,6 +174,7 @@
 
 [[medium]binary-tree-inorder-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-inorder-traversal.md) **c++** **inorder** **2019-3-30**
 
+[[medium]binary-tree-preorder-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-preorder-traversal.md) **c++** **preorder** **2019-3-30**
 
 # should review
 
