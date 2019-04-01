@@ -2,6 +2,7 @@
 
 [https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
+```
 Given a binary tree, return the zigzag level order traversal of its nodes' values. (ie, from left to right, then right to left for the next level and alternate between).
 
 For example:
@@ -19,6 +20,7 @@ return its zigzag level order traversal as:
   [20,9],
   [15,7]
 ]
+```
 
 # thinking
 
@@ -48,7 +50,6 @@ public:
         while (!q.empty()) {
             col.clear();
             qLen = q.size();
-            cout<<index<<endl;
             for (int i = 0; i < qLen; i++) {
                 tmp = q.front();
                 q.pop();
