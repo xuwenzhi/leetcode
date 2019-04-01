@@ -170,15 +170,17 @@
 
 [[medium]populating-next-right-pointers-in-each-node](https://github.com/xuwenzhi/leetcode/blob/master/tree/populating-next-right-pointers-in-each-node.md) **c++** **2019-3-30**
 
-[[medium]binary-tree-right-side-view](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-right-side-view.md) **c++** **2019-3-30**
+[[medium]binary-tree-right-side-view](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-right-side-view.md) **c++** **2019-3-31**
 
-[[medium]binary-tree-inorder-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-inorder-traversal.md) **c++** **inorder** **2019-3-30**
+[[medium]binary-tree-inorder-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-inorder-traversal.md) **c++** **inorder** **2019-3-31**
 
-[[medium]binary-tree-preorder-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-preorder-traversal.md) **c++** **preorder** **2019-3-30**
+[[medium]binary-tree-preorder-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-preorder-traversal.md) **c++** **preorder** **2019-3-31**
 
-[[medium]n-ary-tree-preorder-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/n-ary-tree-preorder-traversal.md) **c++** **preorder** **2019-3-30**
+[[easy]n-ary-tree-preorder-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/n-ary-tree-preorder-traversal.md) **c++** **preorder** **2019-3-31**
 
-[[easy]minimum-distance-between-bst-nodes](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-distance-between-bst-nodes.md) **c++** **2019-3-30**
+[[easy]n-ary-tree-postorder-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/n-ary-tree-postorder-traversal.md) **c++** **postorder** **2019-3-31**
+
+[[easy]minimum-distance-between-bst-nodes](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-distance-between-bst-nodes.md) **c++** **2019-3-31**
 
 # should review
 
