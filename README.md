@@ -137,8 +137,9 @@
 
 ## 栈
 
-[score-of-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/score-of-parentheses.md) **c**
+[[easy]score-of-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/stack/score-of-parentheses.md) **c**
 
+[[easy]implement-stack-using-queues](https://github.com/xuwenzhi/leetcode/blob/master/stack/implement-stack-using-queues.md) **c++** **2019-4-1**
 
 ## 树
 
@@ -187,6 +188,9 @@
 [[medium]validate-binary-search-tree - 是否是合法的二叉搜索树](https://github.com/xuwenzhi/leetcode/blob/master/tree/validate-binary-search-tree.md) **c++** **2019-4-1**
 
 [[easy]find-mode-in-bianry-search-tree - 寻找二叉搜索树的众数](https://github.com/xuwenzhi/leetcode/blob/master/tree/find-mode-in-bianry-search-tree.md) **c++** **2019-4-1**
+
+[[easy]construct-string-from-binary-tree - 二叉树转换包含括号的字符串](https://github.com/xuwenzhi/leetcode/blob/master/tree/construct-string-from-binary-tree.md) **c++** **2019-4-1**
+
 
 # should review
 
