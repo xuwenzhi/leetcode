@@ -184,6 +184,8 @@
 
 [[easy]minimum-distance-between-bst-nodes](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-distance-between-bst-nodes.md) **c++** **2019-3-31**
 
+[[medium]validate-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/validate-binary-search-tree.md) **c++** **2019-4-1**
+
 # should review
 
 [search-a-2d-matrix-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix-ii.md) **c++** **matrix** **2 pointer**
