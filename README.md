@@ -176,6 +176,8 @@
 
 [[medium]binary-tree-preorder-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-preorder-traversal.md) **c++** **preorder** **2019-3-30**
 
+[[medium]n-ary-tree-preorder-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/n-ary-tree-preorder-traversal.md) **c++** **preorder** **2019-3-30**
+
 [[easy]minimum-distance-between-bst-nodes](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-distance-between-bst-nodes.md) **c++** **2019-3-30**
 
 # should review
