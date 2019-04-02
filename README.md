@@ -1,6 +1,5 @@
 # LeetCode
 
-# 分类
 
 ## 数字类
 
@@ -45,34 +44,37 @@
 
 ## 数组类
 
-[search-in-rotated-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/search-in-rotated-sorted-array.md)
+[[Medium]search-in-rotated-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/search-in-rotated-sorted-array.md)
 **golang**
 
-[search-in-rotated-sorted-array-ii](https://github.com/xuwenzhi/leetcode/blob/master/search-in-rotated-sorted-array-ii.md)
+[[Medium]search-in-rotated-sorted-array-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-in-rotated-sorted-array-ii.md)
 **golang** **2 pointer**
 
-[find-first-and-last-element-in-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/find-first-and-last-position-of-element-in-sorted-array.md) **golang** **2 pointer**
+[[Medium]find-first-and-last-element-in-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/find-first-and-last-position-of-element-in-sorted-array.md) **golang** **2 pointer**
 
-[remove-duplicates-from-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/remove-duplicates-from-sorted-array.md) **c**
+[[Easy]remove-duplicates-from-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/remove-duplicates-from-sorted-array.md) **c**
 
-[longest-common-prefix](https://github.com/xuwenzhi/leetcode/blob/master/longest-common-prefix.md) **golang** **overflow**
+[[Easy]longest-common-prefix](https://github.com/xuwenzhi/leetcode/blob/master/array/longest-common-prefix.md) **golang** **overflow**
 
-[rotate-image](https://github.com/xuwenzhi/leetcode/blob/master/rotate-image.md) **c** **matrix**
+[[Medium]rotate-image](https://github.com/xuwenzhi/leetcode/blob/master/array/rotate-image.md) **c** **matrix**
 
-[search-a-2d-matrix](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix.md) **c++** **matrix** **2 pointer**
+[[Medium]search-a-2d-matrix](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix.md) **c++** **matrix** **2 pointer**
 
-[search-a-2d-matrix-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix-ii.md) **c++** **matrix** **2 pointer**
+[[Medium]search-a-2d-matrix-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix-ii.md) **c++** **matrix** **2 pointer**
 
-[[medium]find-the-duplicate-number - 寻找数组的重复数](https://github.com/xuwenzhi/leetcode/blob/master/array/find-the-duplicate-number.md) **c** **cycle**
+[[Medium]find-the-duplicate-number - 寻找数组的重复数](https://github.com/xuwenzhi/leetcode/blob/master/array/find-the-duplicate-number.md) **c** **cycle**
 
-[[medium]array-nesting - 寻找数组中最大的环元素个数](https://github.com/xuwenzhi/leetcode/blob/master/array/array-nesting.md) **c++** **cycle** **2019-4-2**
+[[Medium]array-nesting - 寻找数组中最大的环元素个数](https://github.com/xuwenzhi/leetcode/blob/master/array/array-nesting.md) **c++** **cycle** **2019-4-2**
 
-[merge-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/merge-sorted-array.md) **c++**
+[[easy]merge-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/merge-sorted-array.md) **c++**
 
-[pascals-triangle(easy)](https://github.com/xuwenzhi/leetcode/blob/master/array/pascals-triangle.md) **c++**
+[[easy]pascals-triangle](https://github.com/xuwenzhi/leetcode/blob/master/array/pascals-triangle.md) **c++**
 
-[pascals-triangle-ii(easy)](https://github.com/xuwenzhi/leetcode/blob/master/array/pascals-triangle-ii.md) **c++**
+[[easy]pascals-triangle-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/pascals-triangle-ii.md) **c++**
 
+[[easy]next-greater-element-i - 找到右侧第一个大于本身的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-i.md) **c++** **2019-4-2**
+
+[[Medium]next-greater-element-ii - 找到右侧第一个大于本身的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-ii.md) **c++** **stack** **2019-4-2**
 
 
 ## 链表
