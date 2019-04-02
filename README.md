@@ -76,6 +76,8 @@
 
 [[Medium]next-greater-element-ii - 找到右侧第一个大于本身的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-ii.md) **c++** **stack** **2019-4-2**
 
+[[Medium]next-greater-element-iii - 找到大于自己的最大数](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-iii.md) **c++** **2019-4-3**
+
 
 ## 链表
 
@@ -217,3 +219,6 @@
 [[medium]array-nesting - 寻找数组中最大的环元素个数](https://github.com/xuwenzhi/leetcode/blob/master/array/array-nesting.md) **c++** **cycle** **2019-4-2**
 
 [restore-ip-addresses](https://github.com/xuwenzhi/leetcode/blob/master/string/restore-ip-addresses.md) **c++** **2019-3-25**
+
+[[Medium]next-greater-element-iii - 找到大于自己的最大数](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-iii.md) **c++** **2019-4-3**
+
