@@ -63,7 +63,9 @@
 
 [search-a-2d-matrix-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix-ii.md) **c++** **matrix** **2 pointer**
 
-[find-the-duplicate-number](https://github.com/xuwenzhi/leetcode/blob/master/array/find-the-duplicate-number.md) **c** **cycle**
+[[medium]find-the-duplicate-number - 寻找数组的重复数](https://github.com/xuwenzhi/leetcode/blob/master/array/find-the-duplicate-number.md) **c** **cycle**
+
+[[medium]array-nesting - 寻找数组中最大的环元素个数](https://github.com/xuwenzhi/leetcode/blob/master/array/array-nesting.md) **c++** **cycle** **2019-4-2**
 
 [merge-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/merge-sorted-array.md) **c++**
 
@@ -208,6 +210,8 @@
 
 [linked-list-cycle-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list-cycle-ii.md) **c** **2 pointer(fast&&slow)**
 
-[find-the-duplicate-number](https://github.com/xuwenzhi/leetcode/blob/master/array/find-the-duplicate-number.md) **c** **cycle**
+[[medium]find-the-duplicate-number](https://github.com/xuwenzhi/leetcode/blob/master/array/find-the-duplicate-number.md) **c** **cycle**
+
+[[medium]array-nesting - 寻找数组中最大的环元素个数](https://github.com/xuwenzhi/leetcode/blob/master/array/array-nesting.md) **c++** **cycle** **2019-4-2**
 
 [restore-ip-addresses](https://github.com/xuwenzhi/leetcode/blob/master/string/restore-ip-addresses.md) **c++** **2019-3-25**
