@@ -82,6 +82,8 @@
 
 [[easy]add-to-array-form-of-integer - 计算数组和数字的加和](https://github.com/xuwenzhi/leetcode/blob/master/array/add-to-array-form-of-integer.md) **c++** **add-nums** **2019-4-3**
 
+[[Medium]multiply-strings - 计算字符串相乘](https://github.com/xuwenzhi/leetcode/blob/master/array/multiply-strings.md) **c++** **add-nums** **2019-4-3**
+
 
 ## 链表
 
