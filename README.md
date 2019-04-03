@@ -78,6 +78,9 @@
 
 [[Medium]next-greater-element-iii - 找到大于自己的最大数](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-iii.md) **c++** **2019-4-3**
 
+[[easy]plus-one - 数组末尾加一](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-iii.md) **c++** **over** **2019-4-3**
+
+
 
 ## 链表
 
@@ -221,4 +224,3 @@
 [restore-ip-addresses](https://github.com/xuwenzhi/leetcode/blob/master/string/restore-ip-addresses.md) **c++** **2019-3-25**
 
 [[Medium]next-greater-element-iii - 找到大于自己的最大数](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-iii.md) **c++** **2019-4-3**
-
