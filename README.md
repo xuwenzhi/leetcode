@@ -80,6 +80,7 @@
 
 [[easy]plus-one - 数组末尾加一](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-iii.md) **c++** **over** **2019-4-3**
 
+[[easy]add-to-array-form-of-integer - 计算数组和数字的加和](https://github.com/xuwenzhi/leetcode/blob/master/array/add-to-array-form-of-integer.md) **c++** **add-nums** **2019-4-3**
 
 
 ## 链表
@@ -92,9 +93,9 @@
 
 [remove-dumplicates-from-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/remove-duplicates-from-sorted-list.md) **c**
 
-[add-two-numbers](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/add-two-numbers.md) **c**
+[add-two-numbers](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/add-two-numbers.md) **c** **add-num**
 
-[add-two-numbers-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/add-two-numbers-ii.md) **c** **medium**
+[add-two-numbers-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/add-two-numbers-ii.md) **c** **medium** **add-num**
 
 [reverse-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/reverse-linked-list.md) **c**
 
