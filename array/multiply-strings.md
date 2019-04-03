@@ -27,7 +27,7 @@ You must not use any built-in BigInteger library or convert the inputs to intege
 
 所以后来呢，楼下抽根烟，想了想。其实把整个相乘过程划分成单个数相乘就好，比如 **"123" * "456"***，**假如先不考虑进位问题**，每个数字都要乘一遍另外的字符串，乘完之后位置其实是固定的，如图
 
-![https://github.com/xuwenzhi/leetcode/raw/master/images/multiply-strings.jpg](https://github.com/xuwenzhi/leetcode/raw/master/images/multiply-strings.jpg)
+![https://github.com/xuwenzhi/leetcode/raw/master/images/multiply-strings.jpeg](https://github.com/xuwenzhi/leetcode/raw/master/images/multiply-strings.jpeg)
 
 经过处理完成之后就得到了 [18,27,28,13,4]，这样的数组，最后再做一次进位即可了.
 

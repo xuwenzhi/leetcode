@@ -41,6 +41,7 @@
 
 [detect-capital](https://github.com/xuwenzhi/leetcode/blob/master/string/detect-capital.md) **c++** **2019-3-27**
 
+[[Easy]valid-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/string/valid-parentheses.md) **c++** **stack** **2019-4-3**
 
 ## 数组类
 
