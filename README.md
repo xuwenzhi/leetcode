@@ -85,6 +85,8 @@
 
 [[Medium]multiply-strings - 计算字符串相乘](https://github.com/xuwenzhi/leetcode/blob/master/array/multiply-strings.md) **c++** **add-nums** **2019-4-3**
 
+[[Easy]baseball-game - 计分](https://github.com/xuwenzhi/leetcode/blob/master/array/baseball-game.md) **c++** **accumulate** **2019-4-4**
+
 
 ## 链表
 
