@@ -163,6 +163,8 @@
 
 [[easy]same-tree - 是否相同的树](https://github.com/xuwenzhi/leetcode/blob/master/tree/same-tree.md) **c** **recursive**
 
+[[easy]symmetric-tree - 是否是对称的树](https://github.com/xuwenzhi/leetcode/blob/master/tree/symmetric-tree.md) **c++** **recursive** **2019-4-5**
+
 [[easy]maximum-depth-of-binary-tree - 二叉树的最大深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-depth-of-binary-tree.md) **c++** **recursive**
 
 [[easy]minimum-depth-of-binary-tree - 二叉树的最小深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-depth-of-binary-tree.md) **c++** **recursive**
