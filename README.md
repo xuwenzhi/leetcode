@@ -215,6 +215,11 @@
 
 [[medium]binary-search-tree-iterator - BST迭代器](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-search-tree-iterator.md) **c++** **2019-4-1**
 
+[[Easy]path-sum](https://github.com/xuwenzhi/leetcode/blob/master/tree/path-sum.md) **c++** **2019-4-1**
+
+[[Medium]path-sum-ii](https://github.com/xuwenzhi/leetcode/blob/master/tree/path-sum-ii.md) **c++** **2019-4-1**
+
+
 # design
 
 [[medium]flatten-nested-list-iterator - 打平复杂列表](https://github.com/xuwenzhi/leetcode/blob/master/design/flatten-nested-list-iterator.md) **c++** **2019-4-2**
