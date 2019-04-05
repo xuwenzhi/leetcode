@@ -209,9 +209,16 @@
 
 [[easy]find-mode-in-bianry-search-tree - 寻找二叉搜索树的众数](https://github.com/xuwenzhi/leetcode/blob/master/tree/find-mode-in-bianry-search-tree.md) **c++** **2019-4-1**
 
+[[easy]second-minimum-node-in-a-binary-tree - 寻找二叉树中倒数第二小的数](https://github.com/xuwenzhi/leetcode/blob/master/tree/second-minimum-node-in-a-binary-tree.md) **c++** **2019-4-5**
+
 [[easy]construct-string-from-binary-tree - 二叉树转换包含括号的字符串](https://github.com/xuwenzhi/leetcode/blob/master/tree/construct-string-from-binary-tree.md) **c++** **2019-4-1**
 
 [[medium]binary-search-tree-iterator - BST迭代器](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-search-tree-iterator.md) **c++** **2019-4-1**
+
+[[Easy]path-sum](https://github.com/xuwenzhi/leetcode/blob/master/tree/path-sum.md) **c++** **2019-4-1**
+
+[[Medium]path-sum-ii](https://github.com/xuwenzhi/leetcode/blob/master/tree/path-sum-ii.md) **c++** **2019-4-1**
+
 
 # design
 
