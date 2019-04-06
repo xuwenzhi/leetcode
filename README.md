@@ -213,6 +213,9 @@
 
 [[medium]binary-search-tree-iterator - BST迭代器](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-search-tree-iterator.md) **c++** **2019-4-1**
 
+
+[[medium]sum-root-to-leaf-numbers](https://github.com/xuwenzhi/leetcode/blob/master/tree/sum-root-to-leaf-numbers.md) **c++** **2019-4-6**
+
 # design
 
 [[medium]flatten-nested-list-iterator - 打平复杂列表](https://github.com/xuwenzhi/leetcode/blob/master/design/flatten-nested-list-iterator.md) **c++** **2019-4-2**
