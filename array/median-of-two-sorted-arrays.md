@@ -25,9 +25,12 @@ The median is (2 + 3)/2 = 2.5
 
 # thinking
 
-既然两个数组是已经排好序的，题目也要求时间复杂度是O(log(m+n))，不过实际上应该有更好的方案，比如实际上我只需要遍历一半即可 **(m+n)/2**。不考虑m+n到底是偶数还是奇数，创建一个数组用于保存**(m+n)/2 + 1**就完事了。
+两个数组是已经排好序的，题目也要求时间复杂度是O(log(m+n))，这让人联想到可以通过二分查找解决。
 
-Notice:不过越想我这方案有点暴力.
+我的方案是这样的，只需要遍历一半 **(m+n)/2**。不考虑m+n到底是偶数还是奇数，创建一个数组用于保存**(m+n)/2 + 1**就完事了。
+
+Notice:不过越想我这方案有点暴力，而且貌似也没有满足题目要求.
+更多参考[Share my O(log(min(m,n)) solution with explanation](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/2481/Share-my-O(log(min(mn))-solution-with-explanation)
 
 # solution
 
