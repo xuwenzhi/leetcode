@@ -231,8 +231,9 @@
 
 [[Easy]path-sum-iii](https://github.com/xuwenzhi/leetcode/blob/master/tree/path-sum-iii.md) **c++** **2019-4-6**
 
-[[medium]sum-root-to-leaf-numbers](https://github.com/xuwenzhi/leetcode/blob/master/tree/sum-root-to-leaf-numbers.md) **c++** **2019-4-6**
+[[Medium]sum-root-to-leaf-numbers](https://github.com/xuwenzhi/leetcode/blob/master/tree/sum-root-to-leaf-numbers.md) **c++** **2019-4-6**
 
+[[Easy]sum-of-root-to-leaf-binary-numbers](https://github.com/xuwenzhi/leetcode/blob/master/tree/sum-of-root-to-leaf-binary-numbers.md) **c++** **2019-4-9**
 
 # design
 
