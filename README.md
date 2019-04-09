@@ -235,6 +235,8 @@
 
 [[Easy]sum-of-root-to-leaf-binary-numbers](https://github.com/xuwenzhi/leetcode/blob/master/tree/sum-of-root-to-leaf-binary-numbers.md) **c++** **2019-4-9**
 
+[[Medium]binary-tree-pruning](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-pruning.md) **c++** **tree operation** **2019-4-9**
+
 # design
 
 [[medium]flatten-nested-list-iterator - 打平复杂列表](https://github.com/xuwenzhi/leetcode/blob/master/design/flatten-nested-list-iterator.md) **c++** **2019-4-2**
