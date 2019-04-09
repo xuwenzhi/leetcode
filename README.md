@@ -225,6 +225,8 @@
 
 [[medium]binary-search-tree-iterator - BST迭代器](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-search-tree-iterator.md) **c++** **2019-4-1**
 
+[[Easy]binary-tree-paths](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-paths.md) **c++** **tree preorder** **2019-4-9**
+
 [[Easy]path-sum](https://github.com/xuwenzhi/leetcode/blob/master/tree/path-sum.md) **c++** **2019-4-5**
 
 [[Medium]path-sum-ii](https://github.com/xuwenzhi/leetcode/blob/master/tree/path-sum-ii.md) **c++** **2019-4-5**
