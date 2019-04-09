@@ -173,7 +173,6 @@
 
 [[easy]balanced-binary-tree - 是否是完全二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/balanced-binary-tree.md) **c++** **level** **2019-4-9**
 
-
 [[easy]maximum-depth-of-binary-tree - 二叉树的最大深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-depth-of-binary-tree.md) **c++** **recursive**
 
 [[easy]minimum-depth-of-binary-tree - 二叉树的最小深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-depth-of-binary-tree.md) **c++** **recursive**
@@ -202,19 +201,21 @@
 
 [[medium]binary-tree-right-side-view - 提取二叉树每层最右节点](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-right-side-view.md) **c++** **2019-3-31**
 
-[[medium]binary-tree-inorder-traversal - 中序遍历二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-inorder-traversal.md) **c++** **inorder** **2019-3-31**
+[[Medium]binary-tree-inorder-traversal - 中序遍历二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-inorder-traversal.md) **c++** **inorder** **2019-3-31**
 
-[[medium]binary-tree-preorder-traversal - 先序遍历二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-preorder-traversal.md) **c++** **preorder** **2019-3-31**
+[[Medium]binary-tree-preorder-traversal - 先序遍历二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-preorder-traversal.md) **c++** **preorder** **2019-3-31**
 
-[[easy]n-ary-tree-preorder-traversal - 先序遍历树](https://github.com/xuwenzhi/leetcode/blob/master/tree/n-ary-tree-preorder-traversal.md) **c++** **preorder** **2019-3-31**
+[[Easy]n-ary-tree-preorder-traversal - 先序遍历树](https://github.com/xuwenzhi/leetcode/blob/master/tree/n-ary-tree-preorder-traversal.md) **c++** **preorder** **2019-3-31**
 
-[[easy]n-ary-tree-postorder-traversal - 后续遍历树](https://github.com/xuwenzhi/leetcode/blob/master/tree/n-ary-tree-postorder-traversal.md) **c++** **postorder** **2019-3-31**
+[[Easy]n-ary-tree-postorder-traversal - 后续遍历树](https://github.com/xuwenzhi/leetcode/blob/master/tree/n-ary-tree-postorder-traversal.md) **c++** **postorder** **2019-3-31**
 
-[[hard]binary-tree-postorder-traversal - 后续遍历二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-postorder-traversal.md) **c++** **postorder** **2019-4-1**
+[[Hard]binary-tree-postorder-traversal - 后续遍历二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-postorder-traversal.md) **c++** **postorder** **2019-4-1**
 
-[[easy]minimum-distance-between-bst-nodes - 寻找二叉搜索树节点间最小差值](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-distance-between-bst-nodes.md) **c++** **2019-3-31**
+[[Easy]increasing-order-search-tree - 中序重新处理树](https://github.com/xuwenzhi/leetcode/blob/master/tree/increasing-order-search-tree.md) **c++** **inorder** **2019-4-9**
 
-[[medium]validate-binary-search-tree - 是否是合法的二叉搜索树](https://github.com/xuwenzhi/leetcode/blob/master/tree/validate-binary-search-tree.md) **c++** **2019-4-1**
+[[Easy]minimum-distance-between-bst-nodes - 寻找二叉搜索树节点间最小差值](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-distance-between-bst-nodes.md) **c++** **2019-3-31**
+
+[[Medium]validate-binary-search-tree - 是否是合法的二叉搜索树](https://github.com/xuwenzhi/leetcode/blob/master/tree/validate-binary-search-tree.md) **c++** **2019-4-1**
 
 [[easy]find-mode-in-bianry-search-tree - 寻找二叉搜索树的众数](https://github.com/xuwenzhi/leetcode/blob/master/tree/find-mode-in-bianry-search-tree.md) **c++** **2019-4-1**
 
