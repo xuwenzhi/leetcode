@@ -71,21 +71,21 @@
 
 [[Medium]array-nesting - 寻找数组中最大的环元素个数](https://github.com/xuwenzhi/leetcode/blob/master/array/array-nesting.md) **c++** **cycle** **2019-4-2**
 
-[[easy]merge-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/merge-sorted-array.md) **c++**
+[[Easy]merge-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/merge-sorted-array.md) **c++**
 
-[[easy]pascals-triangle](https://github.com/xuwenzhi/leetcode/blob/master/array/pascals-triangle.md) **c++**
+[[Easy]pascals-triangle](https://github.com/xuwenzhi/leetcode/blob/master/array/pascals-triangle.md) **c++**
 
-[[easy]pascals-triangle-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/pascals-triangle-ii.md) **c++**
+[[Easy]pascals-triangle-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/pascals-triangle-ii.md) **c++**
 
-[[easy]next-greater-element-i - 找到右侧第一个大于本身的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-i.md) **c++** **2019-4-2**
+[[Easy]next-greater-element-i - 找到右侧第一个大于本身的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-i.md) **c++** **2019-4-2**
 
 [[Medium]next-greater-element-ii - 找到右侧第一个大于本身的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-ii.md) **c++** **stack** **2019-4-2**
 
 [[Medium]next-greater-element-iii - 找到大于自己的最大数](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-iii.md) **c++** **2019-4-3**
 
-[[easy]plus-one - 数组末尾加一](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-iii.md) **c++** **over** **2019-4-3**
+[[Easy]plus-one - 数组末尾加一](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-iii.md) **c++** **over** **2019-4-3**
 
-[[easy]add-to-array-form-of-integer - 计算数组和数字的加和](https://github.com/xuwenzhi/leetcode/blob/master/array/add-to-array-form-of-integer.md) **c++** **add-nums** **2019-4-3**
+[[Easy]add-to-array-form-of-integer - 计算数组和数字的加和](https://github.com/xuwenzhi/leetcode/blob/master/array/add-to-array-form-of-integer.md) **c++** **add-nums** **2019-4-3**
 
 [[Medium]multiply-strings - 计算字符串相乘](https://github.com/xuwenzhi/leetcode/blob/master/array/multiply-strings.md) **c++** **add-nums** **2019-4-3**
 
@@ -158,48 +158,50 @@
 
 ## 栈
 
-[[easy]score-of-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/stack/score-of-parentheses.md) **c**
+[[Easy]score-of-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/stack/score-of-parentheses.md) **c**
 
-[[easy]implement-stack-using-queues](https://github.com/xuwenzhi/leetcode/blob/master/stack/implement-stack-using-queues.md) **c++** **2019-4-1**
+[[Easy]implement-stack-using-queues](https://github.com/xuwenzhi/leetcode/blob/master/stack/implement-stack-using-queues.md) **c++** **2019-4-1**
 
 ## 队列
-[[easy]implement-queue-using-stacks](https://github.com/xuwenzhi/leetcode/blob/master/stack/implement-queue-using-stacks.md) **c++** **2019-4-1**
+[[Easy]implement-queue-using-stacks](https://github.com/xuwenzhi/leetcode/blob/master/stack/implement-queue-using-stacks.md) **c++** **2019-4-1**
 
 ## 树
 
-[[easy]same-tree - 是否相同的树](https://github.com/xuwenzhi/leetcode/blob/master/tree/same-tree.md) **c** **recursive**
+[[Easy]same-tree - 是否相同的树](https://github.com/xuwenzhi/leetcode/blob/master/tree/same-tree.md) **c** **recursive**
 
-[[easy]symmetric-tree - 是否是对称的树](https://github.com/xuwenzhi/leetcode/blob/master/tree/symmetric-tree.md) **c++** **recursive** **2019-4-5**
+[[Easy]symmetric-tree - 是否是对称的树](https://github.com/xuwenzhi/leetcode/blob/master/tree/symmetric-tree.md) **c++** **recursive** **2019-4-5**
 
-[[easy]balanced-binary-tree - 是否是完全二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/balanced-binary-tree.md) **c++** **level** **2019-4-9**
+[[Easy]balanced-binary-tree - 是否是完全二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/balanced-binary-tree.md) **c++** **level** **2019-4-9**
 
-[[easy]maximum-depth-of-binary-tree - 二叉树的最大深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-depth-of-binary-tree.md) **c++** **recursive**
+[[Easy]maximum-depth-of-binary-tree - 二叉树的最大深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-depth-of-binary-tree.md) **c++** **recursive**
 
-[[easy]minimum-depth-of-binary-tree - 二叉树的最小深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-depth-of-binary-tree.md) **c++** **recursive**
+[[Easy]minimum-depth-of-binary-tree - 二叉树的最小深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-depth-of-binary-tree.md) **c++** **recursive**
 
-[[easy]maximum-depth-of-n-ary-tree - 数的最大深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-depth-of-n-ary-tree.md) **c++**
+[[Easy]maximum-depth-of-n-ary-tree - 数的最大深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-depth-of-n-ary-tree.md) **c++**
 
-[[medium]binary-tree-level-order-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-level-order-traversal.md) **c++**
+[[Medium]binary-tree-level-order-traversal](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-level-order-traversal.md) **c++**
 
-[[easy]binary-tree-level-order-traversal-ii](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-level-order-traversal-ii.md) **c++** **reverse**
+[[Easy]binary-tree-level-order-traversal-ii](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-level-order-traversal-ii.md) **c++** **reverse**
 
-[[easy]average-of-levels-in-binary-tree 层序遍历每层平均数](https://github.com/xuwenzhi/leetcode/blob/master/tree/average-of-levels-in-binary-tree.md) **c++**  **overflow**
+[[Easy]average-of-levels-in-binary-tree 层序遍历每层平均数](https://github.com/xuwenzhi/leetcode/blob/master/tree/average-of-levels-in-binary-tree.md) **c++**  **overflow**
 
-[[easy]cousins-in-binary-tree - cousin关系的二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/cousins-in-binary-tree.md) **c++**
+[[Easy]cousins-in-binary-tree - cousin关系的二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/cousins-in-binary-tree.md) **c++**
 
-[[easy]n-ary-tree-level-order-traversal - 层序遍历树](https://github.com/xuwenzhi/leetcode/blob/master/tree/n-ary-tree-level-order-traversal.md) **c++**
+[[Easy]n-ary-tree-level-order-traversal - 层序遍历树](https://github.com/xuwenzhi/leetcode/blob/master/tree/n-ary-tree-level-order-traversal.md) **c++** **bfs**
 
-[[medium]binary-tree-zigzag-level-order-traversal - 从左到右从右到左交替层序遍历](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-zigzag-level-order-traversal.md) **c++**
+[[Medium]find-largest-value-in-each-tree-row.md - 提取二叉树每层最大值](https://github.com/xuwenzhi/leetcode/blob/master/tree/find-largest-value-in-each-tree-row.md.md) **c++** **bfs**
 
-[[easy]search-in-a-binary-search-tree - 搜索二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/search-in-a-binary-search-tree.md) **c++** **2019-3-29**
+[[Medium]binary-tree-zigzag-level-order-traversal - 从左到右从右到左交替层序遍历](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-zigzag-level-order-traversal.md) **c++** **bfs**
 
-[[easy]univalued-binary-tree - 二叉树所有节点值是否都一样](https://github.com/xuwenzhi/leetcode/blob/master/tree/univalued-binary-tree.md) **c++** **2019-3-29**
+[[Easy]search-in-a-binary-search-tree - 搜索二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/search-in-a-binary-search-tree.md) **c++** **2019-3-29**
 
-[[medium]flatten-binary-tree-to-linked-list - 打平二叉树为链表](https://github.com/xuwenzhi/leetcode/blob/master/tree/flatten-binary-tree-to-linked-list.md) **c++** **preorder** **2019-3-29**
+[[Easy]univalued-binary-tree - 二叉树所有节点值是否都一样](https://github.com/xuwenzhi/leetcode/blob/master/tree/univalued-binary-tree.md) **c++** **2019-3-29**
 
-[[medium]populating-next-right-pointers-in-each-node - 使二叉树每层成链](https://github.com/xuwenzhi/leetcode/blob/master/tree/populating-next-right-pointers-in-each-node.md) **c++** **2019-3-30**
+[[Medium]flatten-binary-tree-to-linked-list - 打平二叉树为链表](https://github.com/xuwenzhi/leetcode/blob/master/tree/flatten-binary-tree-to-linked-list.md) **c++** **preorder** **2019-3-29**
 
-[[medium]binary-tree-right-side-view - 提取二叉树每层最右节点](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-right-side-view.md) **c++** **2019-3-31**
+[[Medium]populating-next-right-pointers-in-each-node - 使二叉树每层成链](https://github.com/xuwenzhi/leetcode/blob/master/tree/populating-next-right-pointers-in-each-node.md) **c++** **2019-3-30**
+
+[[Medium]binary-tree-right-side-view - 提取二叉树每层最右节点](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-right-side-view.md) **c++** **2019-3-31**
 
 [[Medium]binary-tree-inorder-traversal - 中序遍历二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-inorder-traversal.md) **c++** **inorder** **2019-3-31**
 
@@ -217,13 +219,13 @@
 
 [[Medium]validate-binary-search-tree - 是否是合法的二叉搜索树](https://github.com/xuwenzhi/leetcode/blob/master/tree/validate-binary-search-tree.md) **c++** **2019-4-1**
 
-[[easy]find-mode-in-bianry-search-tree - 寻找二叉搜索树的众数](https://github.com/xuwenzhi/leetcode/blob/master/tree/find-mode-in-bianry-search-tree.md) **c++** **2019-4-1**
+[[Easy]find-mode-in-bianry-search-tree - 寻找二叉搜索树的众数](https://github.com/xuwenzhi/leetcode/blob/master/tree/find-mode-in-bianry-search-tree.md) **c++** **2019-4-1**
 
-[[easy]second-minimum-node-in-a-binary-tree - 寻找二叉树中倒数第二小的数](https://github.com/xuwenzhi/leetcode/blob/master/tree/second-minimum-node-in-a-binary-tree.md) **c++** **2019-4-5**
+[[Easy]second-minimum-node-in-a-binary-tree - 寻找二叉树中倒数第二小的数](https://github.com/xuwenzhi/leetcode/blob/master/tree/second-minimum-node-in-a-binary-tree.md) **c++** **2019-4-5**
 
-[[easy]construct-string-from-binary-tree - 二叉树转换包含括号的字符串](https://github.com/xuwenzhi/leetcode/blob/master/tree/construct-string-from-binary-tree.md) **c++** **2019-4-1**
+[[Easy]construct-string-from-binary-tree - 二叉树转换包含括号的字符串](https://github.com/xuwenzhi/leetcode/blob/master/tree/construct-string-from-binary-tree.md) **c++** **2019-4-1**
 
-[[medium]binary-search-tree-iterator - BST迭代器](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-search-tree-iterator.md) **c++** **2019-4-1**
+[[Medium]binary-search-tree-iterator - BST迭代器](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-search-tree-iterator.md) **c++** **2019-4-1**
 
 [[Easy]binary-tree-paths](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-paths.md) **c++** **tree preorder** **2019-4-9**
 
