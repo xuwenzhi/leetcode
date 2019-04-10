@@ -243,9 +243,11 @@
 
 [[Easy]lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/lowest-common-ancestor-of-a-binary-search-tree.md) **c++** **LCA** **BST** **2019-4-10**
 
+[[Medium]lowest-common-ancestor-of-a-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/lowest-common-ancestor-of-a-binary-tree.md) **c++** **LCA** **BST** **2019-4-10**
+
 # design
 
-[[medium]flatten-nested-list-iterator - 打平复杂列表](https://github.com/xuwenzhi/leetcode/blob/master/design/flatten-nested-list-iterator.md) **c++** **2019-4-2**
+[[Medium]flatten-nested-list-iterator - 打平复杂列表](https://github.com/xuwenzhi/leetcode/blob/master/design/flatten-nested-list-iterator.md) **c++** **2019-4-2**
 
 # should review
 
@@ -262,3 +264,5 @@
 [restore-ip-addresses](https://github.com/xuwenzhi/leetcode/blob/master/string/restore-ip-addresses.md) **c++** **2019-3-25**
 
 [[Medium]next-greater-element-iii - 找到大于自己的最大数](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-iii.md) **c++** **2019-4-3**
+
+[[Medium]lowest-common-ancestor-of-a-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/lowest-common-ancestor-of-a-binary-tree.md) **c++** **LCA** **BST** **2019-4-10**
