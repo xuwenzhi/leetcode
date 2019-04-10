@@ -241,6 +241,8 @@
 
 [[Medium]binary-tree-pruning](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-pruning.md) **c++** **tree operation** **2019-4-9**
 
+[[Easy]lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/lowest-common-ancestor-of-a-binary-search-tree.md) **c++** **LCA** **BST** **2019-4-10**
+
 # design
 
 [[medium]flatten-nested-list-iterator - 打平复杂列表](https://github.com/xuwenzhi/leetcode/blob/master/design/flatten-nested-list-iterator.md) **c++** **2019-4-2**
