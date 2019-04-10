@@ -227,6 +227,8 @@
 
 [[Easy]binary-tree-paths](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-paths.md) **c++** **tree preorder** **2019-4-9**
 
+[[Medium]smallest-string-starting-from-leaf 最小的从叶子到根节点路径](https://github.com/xuwenzhi/leetcode/blob/master/tree/smallest-string-starting-from-leaf.md) **c++** **2019-4-10**
+
 [[Easy]path-sum](https://github.com/xuwenzhi/leetcode/blob/master/tree/path-sum.md) **c++** **2019-4-5**
 
 [[Medium]path-sum-ii](https://github.com/xuwenzhi/leetcode/blob/master/tree/path-sum-ii.md) **c++** **2019-4-5**
