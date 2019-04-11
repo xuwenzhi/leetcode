@@ -1,81 +1,61 @@
 # 3 sum
 
-[https://leetcode.com/problems/3sum-closest/](https://leetcode.com/problems/3sum-closest/)
-
-# My Solution
+[https://leetcode.com/problems/3sum/](https://leetcode.com/problems/3sum/)
 
 ```
- /**
-* @param Integer[] $nums
-* @param Integer $target
-* @return Integer
-*/
-function threeSumClosest($nums, $target) {
-	if (empty($nums)) {
-	    return 0;
-	}
-	sort($nums);
-	$length = count($nums);
-		$min = PHP_INT_MAX;
-		$sign = true;
-		for ($i = 0; $i < $length; $i ++) {
-			for ($j = $i + 1; $j < $length; $j ++) {
-				for ($k = $j + 1; $k < $length; $k ++) {
-					$range = $target - $nums[$i] - $nums[$j] - $nums[$k];
-					if (abs($range) < $min){
-						if ($range < 0)
-						{
-							$min = -$range;
-							$sign = true;
-						}else{
-							$min = $range;
-							$sign = false;
-						}
-					}
-				}
-			}
-	}
-	if ($sign) {
-		return $target + $min;
-	}else {
-		return $target - $min;
-	}
-}
-// O(n^3)
+Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
+
+Note:
+
+The solution set must not contain duplicate triplets.
+
+Example:
+
+Given array nums = [-1, 0, 1, 2, -1, -4],
+
+A solution set is:
+[
+  [-1, 0, 1],
+  [-1, -1, 2]
+]
 ```
 
-# My Thinking
+# thinking
 
-最开始是希望通过 two pointer 的思路去解决这个问题，但是实现起来不够理想，所以放弃了，上面的解决方案应该算是最 low 的了~
+果断 **2 pointer解决**
 
-后来又觉得其实是可以通过 two pointer 的方式取解决，所以画了个图，理论上可以，于是有了下面最新的答案
+# solution
 
-# TWO Pointer O(n^2)
+```php
+# O(NLogN) Runtime O(1) Space
+# @param {Integer[]} nums
+# @return {Integer[][]}
+def three_sum(nums)
+  result = []
+  nums.sort!
 
+  for index in 0..nums.length-1 do
+    low = index + 1
+    high = nums.length - 1
+    while (low < high)
+      sum = 0 - nums[index]
+      if (sum == nums[low] + nums[high]) then
+        result[result.length] = [nums[index], nums[low], nums[high]]
+        while (low < high && nums[low] == nums[low+1])
+          low = low + 1
+        end
+        while (low < high && nums[high] == nums[high-1])
+          high=high - 1
+        end
+        low = low + 1
+        high = high - 1
+      elsif (sum < nums[low] + nums[high])
+        high = high - 1
+      else
+        low = low + 1
+      end
+    end
+  end
+  result.uniq
+end
 ```
-function threeSumClosest($nums, $target) {
-	if (empty($nums)) {
-	    return 0;
-	}
-	sort($nums);
-	$length = count($nums);
-	$closest = $nums[0] + $nums[1] + $nums[2];
-	for ($i = 0; $i < $length; $i ++) {
-	    $low  = $i + 1;
-	    $high = $length - 1;
-	    while ($low < $high) {
-		if ($nums[$i] + $nums[$low] + $nums[$high] == $target) {
-		    return $target;
-		} else if ($nums[$i] + $nums[$low] + $nums[$high] < $target) {
-		    $closest = ($target - ($nums[$i] + $nums[$low] + $nums[$high])) < abs($closest - $target) ? $nums[$i] + $nums[$low] + $nums[$high] : $closest;
-		    $low++;
-		} else {
-		    $closest = (($nums[$i] + $nums[$low] + $nums[$high]) - $target) < abs($closest - $target) ? $nums[$i] + $nums[$low] + $nums[$high] : $closest;
-		    $high--;
-		}
-	    }
-	}
-	return $closest;
-}
-```
-

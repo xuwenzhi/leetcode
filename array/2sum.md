@@ -15,6 +15,12 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
 
+# thinking
+
+第一种就是brute force，那样的话，O(n) Runtime, O(1) Space，不过还有其他的方式，使用hashmap，存储遍历过的点，然后进行匹配。
+
+# solution (ruby)
+
 ```ruby
 # coding: utf-8
 # @param {Integer[]} nums
@@ -32,13 +38,12 @@ def two_sum(nums, target)
   end
   result
 end
-puts two_sum([3,2,4], 6).to_s;
 ```
-
 
 # solution (c++ hashmap)
 
 ```c++
+// O(n) Runtime O(n) Space
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -52,7 +57,7 @@ public:
             map.insert(std::pair(nums[i], i));
             i++;
         }
-        
+
         return res;
     }
 };

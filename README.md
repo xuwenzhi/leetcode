@@ -41,7 +41,11 @@
 
 [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
 
-[[Easy]3sum](https://github.com/xuwenzhi/leetcode/blob/master/array/3sum.md) **php** **2 pointer**
+[[Easy]two-sum-ii-input-array-is-sorted](https://github.com/xuwenzhi/leetcode/blob/master/array/two-sum-ii-input-array-is-sorted.md) **c++** **2 pointer**
+
+[[Easy]two-sum-iv-input-is-a-bst](https://github.com/xuwenzhi/leetcode/blob/master/array/two-sum-iv-input-is-a-bst.md) **c++** **2 pointer** **bst**
+
+[[Medium]3sum](https://github.com/xuwenzhi/leetcode/blob/master/array/3sum.md) **php** **2 pointer**
 
 [[Medium]3sum-closest](https://github.com/xuwenzhi/leetcode/blob/master/array/3sum-closest.md) **php** **2 pointer**
 
