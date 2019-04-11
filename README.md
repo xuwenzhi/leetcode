@@ -3,16 +3,6 @@
 
 ## 数字类
 
-[[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/integer/2sum.md) **ruby** **2 pointer**
-
-[[Medium]add-two-numbers](https://github.com/xuwenzhi/leetcode/blob/master/integer/add-two-numbers.md) **ruby**
-
-[[Easy]3sum](https://github.com/xuwenzhi/leetcode/blob/master/integer/3sum.md) **php** **2 pointer**
-
-[[Medium]3sum-closest](https://github.com/xuwenzhi/leetcode/blob/master/integer/3sum-closest.md) **php** **2 pointer**
-
-[[Medium]4sum](https://github.com/xuwenzhi/leetcode/blob/master/integer/4sum.md) **php** **2 pointer**
-
 [[Easy]reverse-integer](https://github.com/xuwenzhi/leetcode/blob/master/integer/reverse-integer.md) **golang**  **overflow**
 
 [[Easy]palindrome-number](https://github.com/xuwenzhi/leetcode/blob/master/integer/palindrome-number.md) **golang** **2019-3-18**
@@ -48,6 +38,14 @@
 [[Easy]valid-palindrome - 回文字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/valid-palindrome.md) **c++** **2 pointer** **2019-4-8**
 
 ## 数组类
+
+[[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
+
+[[Easy]3sum](https://github.com/xuwenzhi/leetcode/blob/master/array/3sum.md) **php** **2 pointer**
+
+[[Medium]3sum-closest](https://github.com/xuwenzhi/leetcode/blob/master/array/3sum-closest.md) **php** **2 pointer**
+
+[[Medium]4sum](https://github.com/xuwenzhi/leetcode/blob/master/array/4sum.md) **php** **2 pointer**
 
 [[Medium]search-in-rotated-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/search-in-rotated-sorted-array.md)
 **golang**
