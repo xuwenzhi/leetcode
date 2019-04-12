@@ -6,8 +6,6 @@
 
 [[Easy]reverse-integer](https://github.com/xuwenzhi/leetcode/blob/master/integer/reverse-integer.md) **golang**  **overflow**
 
-:fire: [[Medium]string-to-integer-atoi](https://github.com/xuwenzhi/leetcode/blob/master/integer/string-to-integer-atoi.md) **c++**  **overflow** **atoi**
-
 [[Easy]palindrome-number](https://github.com/xuwenzhi/leetcode/blob/master/integer/palindrome-number.md) **golang** **2019-3-18**
 
 [[Easy]single-number](https://github.com/xuwenzhi/leetcode/blob/master/integer/reverse-integer.md) **c** **XOR**
@@ -41,6 +39,8 @@
 [[Easy]valid-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/string/valid-parentheses.md) **c++** **stack** **2019-4-3**
 
 :fire: [[Easy]valid-palindrome - 回文字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/valid-palindrome.md) **c++** **2 pointer** **2019-4-8**
+
+:fire: [[Medium]string-to-integer-atoi](https://github.com/xuwenzhi/leetcode/blob/master/integer/string-to-integer-atoi.md) **c++**  **overflow** **atoi**
 
 ## 数组类
 

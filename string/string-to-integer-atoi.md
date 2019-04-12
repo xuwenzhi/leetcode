@@ -91,3 +91,44 @@ public:
 //Runtime: 12 ms, faster than 79.92% of C++ online submissions for String to Integer (atoi).
 //Memory Usage: 8.4 MB, less than 100.00% of C++ online submissions for String to Integer (atoi).
 ```
+
+# solution (optimize)
+
+```c++
+// O(n) Runtime O(1) Space
+class Solution {
+public:
+    bool isInteger(char c) {
+        if (c >= '0' && c <= '9') return true;
+        return false;
+    }
+
+    int myAtoi(string str) {
+        int len = str.size();
+        if (!len) return 0;
+        int indicator = 1, i = 0;
+        long res = 0;
+        while (i < len && str[i] == ' ') {
+            i++;
+        }
+        if (i < len && (str[i] == '-' || str[i] == '+')) {
+            if (str[i] == '-') indicator = -1;
+            else indicator = 1;
+            i++;
+        }
+        if (i == len) return 0;
+
+        while (i < len) {
+            if (!isInteger(str[i])) break;
+            res = res * 10 + (str[i] - '0');
+            if (indicator * res > INT_MAX) {res = INT_MAX; break;}
+            if (indicator * res < INT_MIN) {res = INT_MIN; break;}
+            i++;
+        }
+
+        return indicator * res;
+    }
+};
+//Runtime: 8 ms, faster than 99.69% of C++ online submissions for String to Integer (atoi).
+//Memory Usage: 8.4 MB, less than 100.00% of C++ online submissions for String to Integer (atoi).
+```
