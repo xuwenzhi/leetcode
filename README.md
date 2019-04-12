@@ -1,9 +1,12 @@
 # LeetCode
 
+以下带有 :fire: 为LeetCode Clean Book 经典题目。
 
 ## 数字类
 
 [[Easy]reverse-integer](https://github.com/xuwenzhi/leetcode/blob/master/integer/reverse-integer.md) **golang**  **overflow**
+
+:fire: [[Medium]string-to-integer-atoi](https://github.com/xuwenzhi/leetcode/blob/master/integer/string-to-integer-atoi.md) **c++**  **overflow** **atoi**
 
 [[Easy]palindrome-number](https://github.com/xuwenzhi/leetcode/blob/master/integer/palindrome-number.md) **golang** **2019-3-18**
 
@@ -15,7 +18,7 @@
 
 [[Easy]search-insert-position](https://github.com/xuwenzhi/leetcode/blob/master/string/search-insert-position.md) **golang** **2 pointer**
 
-[[Easy]implement-strstr](https://github.com/xuwenzhi/leetcode/blob/master/string/implement-strstr.md) **c** **KMP**
+:fire: [[Easy]implement-strstr](https://github.com/xuwenzhi/leetcode/blob/master/string/implement-strstr.md) **c** **KMP**
 
 [[Medium]longest-substring-without-repeating-characters](https://github.com/xuwenzhi/leetcode/blob/master/string/longest-substring-without-repeating-characters.md) **golang**
 
@@ -35,15 +38,17 @@
 
 [[Easy]valid-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/string/valid-parentheses.md) **c++** **stack** **2019-4-3**
 
-[[Easy]valid-palindrome - 回文字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/valid-palindrome.md) **c++** **2 pointer** **2019-4-8**
+:fire: [[Easy]valid-palindrome - 回文字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/valid-palindrome.md) **c++** **2 pointer** **2019-4-8**
 
 ## 数组类
 
-[[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
+:fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
 
-[[Easy]two-sum-ii-input-array-is-sorted](https://github.com/xuwenzhi/leetcode/blob/master/array/two-sum-ii-input-array-is-sorted.md) **c++** **2 pointer**
+:fire: [[Easy]two-sum-ii-input-array-is-sorted](https://github.com/xuwenzhi/leetcode/blob/master/array/two-sum-ii-input-array-is-sorted.md) **c++** **2 pointer**
 
 [[Easy]two-sum-iv-input-is-a-bst](https://github.com/xuwenzhi/leetcode/blob/master/array/two-sum-iv-input-is-a-bst.md) **c++** **2 pointer** **bst**
+
+:fire: [[Easy]two-sum-iii-data-structure-design](https://github.com/xuwenzhi/leetcode/blob/master/array/two-sum-iv-input-is-a-bst.md) **c++** **2 pointer** **design**
 
 [[Medium]3sum](https://github.com/xuwenzhi/leetcode/blob/master/array/3sum.md) **php** **2 pointer**
 

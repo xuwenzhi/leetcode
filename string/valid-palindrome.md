@@ -26,6 +26,7 @@ Output: false
 # solution
 
 ```c++
+// O(n) Runtime O(1) Space
 class Solution {
 public:
     bool isEqual(char c1, char c2) {

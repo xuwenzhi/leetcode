@@ -9,7 +9,7 @@
 3. 我的实现不是完全的KMP，算是简单版**KMP**
 
 ```c
-/** 最坏 O(M * N)
+/** 最坏 O(mn)
  * 例如 在 0000000000000000001 中查找 01
  */
 int strStr(char* haystack, char* needle) {
