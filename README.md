@@ -24,9 +24,11 @@
 
 [[Medium]letter-combinations-of-a-phone-number](https://github.com/xuwenzhi/leetcode/blob/master/string/letter-combinations-of-a-phone-number.md) **c++** **recursive** **2019-3-26**
 
-[[Easy]reverse-string](https://github.com/xuwenzhi/leetcode/blob/master/string/reverse-string.md) **c++** **2019-3-26**
+[[Easy]reverse-string](https://github.com/xuwenzhi/leetcode/blob/master/string/reverse-string.md) **c++** **2019-3-26** **reverse**
 
-[[Easy]reverse-only-letters](https://github.com/xuwenzhi/leetcode/blob/master/string/reverse-only-letters.md) **c++** **2019-3-26**
+[[Easy]reverse-only-letters](https://github.com/xuwenzhi/leetcode/blob/master/string/reverse-only-letters.md) **c++** **2019-3-26** **reverse**
+
+:fire:[[Medium]reverse-words-in-a-string](https://github.com/xuwenzhi/leetcode/blob/master/string/reverse-words-in-a-string.md) **c++** **2019-4-11** **reverse**
 
 [[Medium]restore-ip-addresses](https://github.com/xuwenzhi/leetcode/blob/master/string/restore-ip-addresses.md) **c++** **2019-3-25**
 
