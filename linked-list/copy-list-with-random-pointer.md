@@ -35,6 +35,7 @@ You must return the copy of the given head as a reference to the cloned list.
 # solution
 
 ```
+// O(n) Runtime O(1) Space.
 /*
 // Definition for a Node.
 class Node {
@@ -89,13 +90,6 @@ public:
         return dummy->next;
     }
 };
+//Runtime: 36 ms, faster than 99.96% of C++ online submissions for Copy List with Random Pointer.
+//Memory Usage: 21.9 MB, less than 5.21% of C++ online submissions for Copy List with Random Pointer.
 ```
-
-
-Success
-
-Details
-
-Runtime: 36 ms, faster than 99.96% of C++ online submissions for Copy List with Random Pointer.
-
-Memory Usage: 21.9 MB, less than 5.21% of C++ online submissions for Copy List with Random Pointer.

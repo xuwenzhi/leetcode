@@ -4,11 +4,13 @@
 
 ## 数字类
 
-[[Easy]reverse-integer](https://github.com/xuwenzhi/leetcode/blob/master/integer/reverse-integer.md) **golang**  **overflow**
+:fire:[[Easy]reverse-integer](https://github.com/xuwenzhi/leetcode/blob/master/integer/reverse-integer.md) **golang**  **overflow**
 
-[[Easy]palindrome-number](https://github.com/xuwenzhi/leetcode/blob/master/integer/palindrome-number.md) **golang** **2019-3-18**
+:fire:[[Easy]palindrome-number](https://github.com/xuwenzhi/leetcode/blob/master/integer/palindrome-number.md) **golang** **2019-3-18**
 
-[[Easy]single-number](https://github.com/xuwenzhi/leetcode/blob/master/integer/reverse-integer.md) **c** **XOR**
+[[Easy]single-number](https://github.com/xuwenzhi/leetcode/blob/master/integer/reverse-integer.md) **c** **XOR** **BIT**
+
+[[Easy]sum-of-two-integers](https://github.com/xuwenzhi/leetcode/blob/master/integer/sum-of-two-integers.md) **c** **BIT**
 
 ## 字符串类
 
@@ -92,7 +94,7 @@
 
 [[Medium]next-greater-element-iii - 找到大于自己的最大数](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-iii.md) **c++** **2019-4-3**
 
-[[Easy]plus-one - 数组末尾加一](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-iii.md) **c++** **over** **2019-4-3**
+:fire:[[Easy]plus-one - 数组末尾加一](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-iii.md) **c++** **over** **2019-4-3**
 
 [[Easy]add-to-array-form-of-integer - 计算数组和数字的加和](https://github.com/xuwenzhi/leetcode/blob/master/array/add-to-array-form-of-integer.md) **c++** **add-nums** **2019-4-3**
 
@@ -107,13 +109,13 @@
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
 
-[[Easy]merge-two-sorted-lists](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/merge-two-sorted-lists.md) **c**
+:fire:[[Easy]merge-two-sorted-lists](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/merge-two-sorted-lists.md) **c**
 
-[[Hard]merge-k-sorted-lists](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/merge-k-sorted-lists.md) **c** **分治** **最小堆(优先队列)**
+:fire:[[Hard]merge-k-sorted-lists](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/merge-k-sorted-lists.md) **c** **分治** **最小堆(优先队列)**
 
 [[Easy]remove-duplicates-from-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/remove-duplicates-from-sorted-list.md) **c**
 
-[[Medium]add-two-numbers](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/add-two-numbers.md) **c** **add-num**
+:fire:[[Medium]add-two-numbers](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/add-two-numbers.md) **c** **add-num**
 
 [[Medium]add-two-numbers-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/add-two-numbers-ii.md) **c** **medium** **add-num**
 
@@ -129,7 +131,7 @@
 
 [[Medium]linked-list-cycle-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/linked-list-cycle-ii.md) **c** **2 pointer(fast&&slow)**
 
-[[Medium]swap-nodes-in-pairs](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/swap-nodes-in-pairs.md) **c**
+:fire:[[Medium]swap-nodes-in-pairs](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/swap-nodes-in-pairs.md) **c**
 
 [[Hard]reverse-nodes-in-k-group](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/reverse-nodes-in-k-group.md) **c** **hard**
 
@@ -161,7 +163,7 @@
 
 [[Medium]flatten-a-multilevel-doubly-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/flatten-a-multilevel-doubly-linked-list.md) **c++** **2019-3-22**
 
-[[Medium]copy-list-with-random-pointer](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/copy-list-with-random-pointer.md) **c++** **2019-3-22**
+:fire:[[Medium]copy-list-with-random-pointer](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/copy-list-with-random-pointer.md) **c++** **2019-3-22**
 
 [[Medium]sort-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/sort-list.md) **c++** **merge sort**
 
