@@ -21,6 +21,8 @@
 
 [[Easy]divisor-game](https://github.com/xuwenzhi/leetcode/blob/master/math/divisor-game.md) **c**
 
+[[Easy]count-primes - 计算素数的数量](https://github.com/xuwenzhi/leetcode/blob/master/math/count-primes.md) **c**
+
 ## 字符串类
 
 [[Medium]length-of-last-word](https://github.com/xuwenzhi/leetcode/blob/master/string/length-of-last-word.md) **c**
