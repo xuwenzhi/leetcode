@@ -113,6 +113,8 @@
 
 [[Hard]median-of-two-sorted-arrays -  计算两个排序数组的中值](https://github.com/xuwenzhi/leetcode/blob/master/array/median-of-two-sorted-arrays.md) **c++** **median** **2019-4-8**
 
+[[Medium]longest-arithmetic-sequence -  最长的排序序列](https://github.com/xuwenzhi/leetcode/blob/master/array/longest-arithmetic-sequence.md) **c++** **2019-4-13** **dp**
+
 
 ## 链表
 
