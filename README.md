@@ -12,9 +12,14 @@
 
 [[Easy]sum-of-two-integers](https://github.com/xuwenzhi/leetcode/blob/master/integer/sum-of-two-integers.md) **c** **BIT**
 
-[[Easy]ugly-number](https://github.com/xuwenzhi/leetcode/blob/master/integer/ugly-number.md) **c**
 
-[[Easy]ugly-number-ii](https://github.com/xuwenzhi/leetcode/blob/master/integer/ugly-number-ii.md) **c**
+## Math
+
+[[Easy]ugly-number](https://github.com/xuwenzhi/leetcode/blob/master/math/ugly-number.md) **c**
+
+[[Easy]ugly-number-ii](https://github.com/xuwenzhi/leetcode/blob/master/math/ugly-number-ii.md) **c**
+
+[[Easy]divisor-game](https://github.com/xuwenzhi/leetcode/blob/master/math/divisor-game.md) **c**
 
 ## 字符串类
 
@@ -261,6 +266,8 @@
 [[Easy]lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/lowest-common-ancestor-of-a-binary-search-tree.md) **c++** **LCA** **BST** **2019-4-10**
 
 [[Medium]lowest-common-ancestor-of-a-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/lowest-common-ancestor-of-a-binary-tree.md) **c++** **LCA** **BST** **2019-4-10**
+
+[[Medium]maximum-difference-between-node-and-ancestor](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-difference-between-node-and-ancestor.md) **c++** **2019-4-14**
 
 # design
 
