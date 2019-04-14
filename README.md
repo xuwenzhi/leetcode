@@ -12,6 +12,10 @@
 
 [[Easy]sum-of-two-integers](https://github.com/xuwenzhi/leetcode/blob/master/integer/sum-of-two-integers.md) **c** **BIT**
 
+[[Easy]ugly-number](https://github.com/xuwenzhi/leetcode/blob/master/integer/ugly-number.md) **c**
+
+[[Easy]ugly-number-ii](https://github.com/xuwenzhi/leetcode/blob/master/integer/ugly-number-ii.md) **c**
+
 ## 字符串类
 
 [[Medium]length-of-last-word](https://github.com/xuwenzhi/leetcode/blob/master/string/length-of-last-word.md) **c**
