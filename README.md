@@ -2,16 +2,17 @@
 
 以下带有 :fire: 为LeetCode Clean Book 经典题目。
 
+## Bit Manipulation
+
+:fire:[[Easy]single-number](https://github.com/xuwenzhi/leetcode/blob/master/bit/reverse-integer.md) **c** **XOR**
+
+[[Easy]sum-of-two-integers](https://github.com/xuwenzhi/leetcode/blob/master/bit/sum-of-two-integers.md) **c** **overflow**
+
 ## 数字类
 
 :fire:[[Easy]reverse-integer](https://github.com/xuwenzhi/leetcode/blob/master/integer/reverse-integer.md) **golang**  **overflow**
 
 :fire:[[Easy]palindrome-number](https://github.com/xuwenzhi/leetcode/blob/master/integer/palindrome-number.md) **golang** **2019-3-18**
-
-[[Easy]single-number](https://github.com/xuwenzhi/leetcode/blob/master/integer/reverse-integer.md) **c** **XOR** **BIT**
-
-[[Easy]sum-of-two-integers](https://github.com/xuwenzhi/leetcode/blob/master/integer/sum-of-two-integers.md) **c** **BIT**
-
 
 ## Math
 

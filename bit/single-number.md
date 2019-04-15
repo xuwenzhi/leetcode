@@ -2,12 +2,24 @@
 
 [https://leetcode.com/problems/single-number/](https://leetcode.com/problems/single-number/)
 
-# relative
+```
+Given a non-empty array of integers, every element appears twice except for one. Find that single one.
 
-[Single Number ii](https://leetcode.com/problems/single-number-ii/)
+Note:
 
-[Single Number iii](https://leetcode.com/problems/single-number-iii/)
+Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
 
+Example 1:
+
+Input: [2,2,1]
+Output: 1
+Example 2:
+
+Input: [4,1,2,1,2]
+Output: 4
+```
+
+# thinking
 
 这个解决方案就是最优的了，充分利用了XOR的特性。
 
@@ -26,3 +38,8 @@ int singleNumber(int* nums, int numsSize) {
     return res;
 }
 ```
+# relative
+
+[Single Number ii](https://leetcode.com/problems/single-number-ii/)
+
+[Single Number iii](https://leetcode.com/problems/single-number-iii/)
