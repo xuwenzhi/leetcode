@@ -59,3 +59,17 @@ public:
 # bit manipulation application
 
 [A summary: how to use bit manipulation to solve problems easily and efficiently](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/)
+
+
+
+# solution (strange in c)
+
+> operator [] is another way to say add in c language. (it may be considered as syntax suger)
+
+[32 bytes C Solution (use [] operator as add)](https://leetcode.com/problems/sum-of-two-integers/discuss/84320/)
+
+```c
+int getSum(int a, int b) {
+    return &a[(char*)b];
+}
+```

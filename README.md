@@ -172,8 +172,6 @@
 
 [[Easy]intersection-of-two-linked-lists](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/intersection-of-two-linked-lists.md) **c++**  **2019-3-21**
 
-[[Medium]convert-sorted-list-to-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/convert-sorted-list-to-binary-search-tree.md) **c** **recursive**
-
 [[Medium]flatten-a-multilevel-doubly-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/flatten-a-multilevel-doubly-linked-list.md) **c++** **2019-3-22**
 
 :fire:[[Medium]copy-list-with-random-pointer](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/copy-list-with-random-pointer.md) **c++** **2019-3-22**
@@ -195,11 +193,11 @@
 
 [[Easy]symmetric-tree - 是否是对称的树](https://github.com/xuwenzhi/leetcode/blob/master/tree/symmetric-tree.md) **c++** **recursive** **2019-4-5**
 
-[[Easy]balanced-binary-tree - 是否是完全二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/balanced-binary-tree.md) **c++** **level** **2019-4-9**
+:fire:[[Easy]balanced-binary-tree - 是否是完全二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/balanced-binary-tree.md) **c++** **level** **2019-4-9**
 
-[[Easy]maximum-depth-of-binary-tree - 二叉树的最大深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-depth-of-binary-tree.md) **c++** **recursive**
+:fire:[[Easy]maximum-depth-of-binary-tree - 二叉树的最大深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-depth-of-binary-tree.md) **c++** **recursive**
 
-[[Easy]minimum-depth-of-binary-tree - 二叉树的最小深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-depth-of-binary-tree.md) **c++** **recursive**
+:fire:[[Easy]minimum-depth-of-binary-tree - 二叉树的最小深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-depth-of-binary-tree.md) **c++** **recursive** **bfs**
 
 [[Easy]maximum-depth-of-n-ary-tree - 数的最大深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-depth-of-n-ary-tree.md) **c++**
 
@@ -241,7 +239,7 @@
 
 [[Easy]minimum-distance-between-bst-nodes - 寻找二叉搜索树节点间最小差值](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-distance-between-bst-nodes.md) **c++** **2019-3-31**
 
-[[Medium]validate-binary-search-tree - 是否是合法的二叉搜索树](https://github.com/xuwenzhi/leetcode/blob/master/tree/validate-binary-search-tree.md) **c++** **2019-4-1**
+:fire:[[Medium]validate-binary-search-tree - 是否是合法的二叉搜索树](https://github.com/xuwenzhi/leetcode/blob/master/tree/validate-binary-search-tree.md) **c++** **2019-4-1**
 
 [[Easy]find-mode-in-bianry-search-tree - 寻找二叉搜索树的众数](https://github.com/xuwenzhi/leetcode/blob/master/tree/find-mode-in-bianry-search-tree.md) **c++** **2019-4-1**
 
@@ -265,6 +263,8 @@
 
 [[Easy]sum-of-root-to-leaf-binary-numbers](https://github.com/xuwenzhi/leetcode/blob/master/tree/sum-of-root-to-leaf-binary-numbers.md) **c++** **2019-4-9**
 
+[[Hard]binary-tree-maximum-path-sum](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-maximum-path-sum.md) **c++** **2019-4-15** **pathsum**
+
 [[Medium]binary-tree-pruning](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-pruning.md) **c++** **tree operation** **2019-4-9**
 
 [[Easy]lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/lowest-common-ancestor-of-a-binary-search-tree.md) **c++** **LCA** **BST** **2019-4-10**
@@ -272,6 +272,10 @@
 [[Medium]lowest-common-ancestor-of-a-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/lowest-common-ancestor-of-a-binary-tree.md) **c++** **LCA** **BST** **2019-4-10**
 
 [[Medium]maximum-difference-between-node-and-ancestor](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-difference-between-node-and-ancestor.md) **c++** **2019-4-14**
+
+:fire::[[Medium]convert-sorted-list-to-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/convert-sorted-list-to-binary-search-tree.md) **c** **recursive**
+
+:fire:[[Easy]convert-sorted-array-to-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/convert-sorted-array-to-binary-search-tree.md) **c** **recursive**
 
 # design
 
@@ -294,3 +298,5 @@
 [[Medium]next-greater-element-iii - 找到大于自己的最大数](https://github.com/xuwenzhi/leetcode/blob/master/array/next-greater-element-iii.md) **c++** **2019-4-3**
 
 [[Medium]lowest-common-ancestor-of-a-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/lowest-common-ancestor-of-a-binary-tree.md) **c++** **LCA** **BST** **2019-4-10**
+
+:fire:[[Easy]minimum-depth-of-binary-tree - 二叉树的最小深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-depth-of-binary-tree.md) **c++** **recursive** **bfs**
