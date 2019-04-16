@@ -4,7 +4,9 @@
 
 ## Bit Manipulation
 
-:fire:[[Easy]single-number](https://github.com/xuwenzhi/leetcode/blob/master/bit/reverse-integer.md) **c** **XOR**
+:fire:[[Easy]single-number](https://github.com/xuwenzhi/leetcode/blob/master/bit/single-number.md) **c** **XOR**
+
+:fire:[[Medium]single-number-ii](https://github.com/xuwenzhi/leetcode/blob/master/bit/single-number-ii.md) **c** **XOR**
 
 [[Easy]sum-of-two-integers](https://github.com/xuwenzhi/leetcode/blob/master/bit/sum-of-two-integers.md) **c** **overflow**
 
@@ -301,3 +303,5 @@
 [[Medium]lowest-common-ancestor-of-a-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/lowest-common-ancestor-of-a-binary-tree.md) **c++** **LCA** **BST** **2019-4-10**
 
 :fire:[[Easy]minimum-depth-of-binary-tree - 二叉树的最小深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-depth-of-binary-tree.md) **c++** **recursive** **bfs**
+
+:fire:[[Medium]single-number-ii](https://github.com/xuwenzhi/leetcode/blob/master/bit/single-number-ii.md) **c** **XOR**

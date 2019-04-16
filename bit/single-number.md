@@ -25,9 +25,10 @@ Output: 4
 
 当然，如果使用一些额外的数据来存储，也是可以的，只不过时间复杂度会更多.
 
-# solution
+# solution (XOR)
 
 ```
+// O(n) Runtime, O(1) Space.
 int singleNumber(int* nums, int numsSize) {
     int res = 0;
 
@@ -37,7 +38,39 @@ int singleNumber(int* nums, int numsSize) {
 
     return res;
 }
+//Runtime: 4 ms
+//Memory Usage: 7.9 MB
 ```
+
+# solution (HashMap)
+```
+// O(n) Runtime, O(n) Space.
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        unordered_map<int, int> map;
+        for (int i = 0;i<nums.size();i++) {
+            if (map.find(nums[i]) != map.end()) {
+                cout<<nums[i]<<endl;
+                map[nums[i]] ++;
+                continue;
+            }
+            map.insert(std::make_pair(nums[i], 1));
+        }
+
+        for (auto i : map) {
+            if (i.second == 1) {
+                return i.first;
+            }
+        }
+        return 0;
+    }
+};
+//Runtime: 72 ms, faster than 5.15% of C++ online submissions for Single Number.
+//Memory Usage: 11.4 MB, less than 16.09% of C++ online submissions for Single Number.
+```
+
+
 # relative
 
 [Single Number ii](https://leetcode.com/problems/single-number-ii/)
