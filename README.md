@@ -92,7 +92,9 @@
 
 [[Medium]rotate-image](https://github.com/xuwenzhi/leetcode/blob/master/array/rotate-image.md) **c** **matrix**
 
-[[Medium]spiral-matrix](https://github.com/xuwenzhi/leetcode/blob/master/array/spiral-matrix.md) **c** **matrix**
+:fire:[[Medium]spiral-matrix - 螺旋遍历矩阵](https://github.com/xuwenzhi/leetcode/blob/master/array/spiral-matrix.md) **c** **matrix**
+
+[[Medium]spiral-matrix-ii - 构造螺旋矩阵](https://github.com/xuwenzhi/leetcode/blob/master/array/spiral-matrix-ii.md) **c** **matrix**
 
 [[Medium]search-a-2d-matrix](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix.md) **c++** **matrix** **2 pointer**
 
