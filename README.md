@@ -16,6 +16,10 @@
 
 :fire:[[Easy]palindrome-number](https://github.com/xuwenzhi/leetcode/blob/master/integer/palindrome-number.md) **golang** **2019-3-18**
 
+[[Easy]roman-to-integer - 罗马转阿拉伯](https://github.com/xuwenzhi/leetcode/blob/master/integer/roman-to-integer.md) **golang** **2019-3-18**
+
+:fire:[[Medium]integer-to-roman - 阿拉伯转罗马](https://github.com/xuwenzhi/leetcode/blob/master/integer/integer-to-roman.md) **c++** **2019-4-16**
+
 ## Math
 
 [[Easy]ugly-number](https://github.com/xuwenzhi/leetcode/blob/master/math/ugly-number.md) **c**
