@@ -22,6 +22,7 @@ Output: 0
 ```
 
 # thinking
+Similar problem [find-minimum-in-rotated-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/find-minimum-in-rotated-sorted-array.md)
 
 我的解决方案是从左和右两边分别向另一个方向进发，当发现后一个值小于前一个值时，就得到结果了。
 
