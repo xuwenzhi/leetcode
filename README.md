@@ -130,6 +130,9 @@
 
 [[Medium]longest-arithmetic-sequence -  最长的排序序列](https://github.com/xuwenzhi/leetcode/blob/master/array/longest-arithmetic-sequence.md) **c++** **2019-4-13** **dp**
 
+[[Medium]find-minimum-in-rotated-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/find-minimum-in-rotated-sorted-array.md) **c++** **2019-4-17**
+
+[[Hard]find-minimum-in-rotated-sorted-array-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/find-minimum-in-rotated-sorted-array-ii.md) **c++** **2019-4-17**
 
 ## 链表
 
