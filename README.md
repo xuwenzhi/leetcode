@@ -88,6 +88,8 @@
 
 [[Medium]rotate-image](https://github.com/xuwenzhi/leetcode/blob/master/array/rotate-image.md) **c** **matrix**
 
+[[Medium]spiral-matrix](https://github.com/xuwenzhi/leetcode/blob/master/array/spiral-matrix.md) **c** **matrix**
+
 [[Medium]search-a-2d-matrix](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix.md) **c++** **matrix** **2 pointer**
 
 [[Medium]search-a-2d-matrix-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix-ii.md) **c++** **matrix** **2 pointer**
