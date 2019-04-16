@@ -20,6 +20,8 @@
 
 :fire:[[Medium]integer-to-roman - 阿拉伯转罗马](https://github.com/xuwenzhi/leetcode/blob/master/integer/integer-to-roman.md) **c++** **2019-4-16**
 
+[[Easy]fibonacci-number - 斐波那契数列](https://github.com/xuwenzhi/leetcode/blob/master/integer/fibonacci-number.md) **c++** **2019-4-16** **dp**
+
 ## Math
 
 [[Easy]ugly-number](https://github.com/xuwenzhi/leetcode/blob/master/math/ugly-number.md) **c**
@@ -34,7 +36,7 @@
 
 [[Medium]length-of-last-word](https://github.com/xuwenzhi/leetcode/blob/master/string/length-of-last-word.md) **c**
 
-[[Easy]search-insert-position](https://github.com/xuwenzhi/leetcode/blob/master/string/search-insert-position.md) **golang** **2 pointer**
+:fire:[[Easy]search-insert-position](https://github.com/xuwenzhi/leetcode/blob/master/string/search-insert-position.md) **golang** **2 pointer**
 
 :fire: [[Easy]implement-strstr](https://github.com/xuwenzhi/leetcode/blob/master/string/implement-strstr.md) **c** **KMP**
 
