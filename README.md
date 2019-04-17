@@ -202,6 +202,8 @@
 
 :fire:[[Easy]min-stack](https://github.com/xuwenzhi/leetcode/blob/master/stack/min-stack.md) **c++** **2019-4-17**
 
+:fire:[[Medium]evaluate-reverse-polish-notation](https://github.com/xuwenzhi/leetcode/blob/master/stack/evaluate-reverse-polish-notation.md) **c++** **2019-4-17**
+
 ## 队列
 [[Easy]implement-queue-using-stacks](https://github.com/xuwenzhi/leetcode/blob/master/stack/implement-queue-using-stacks.md) **c++** **2019-4-1**
 
