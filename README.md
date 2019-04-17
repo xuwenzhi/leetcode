@@ -200,6 +200,8 @@
 
 [[Easy]implement-stack-using-queues](https://github.com/xuwenzhi/leetcode/blob/master/stack/implement-stack-using-queues.md) **c++** **2019-4-1**
 
+:fire:[[Easy]min-stack](https://github.com/xuwenzhi/leetcode/blob/master/stack/min-stack.md) **c++** **2019-4-17**
+
 ## 队列
 [[Easy]implement-queue-using-stacks](https://github.com/xuwenzhi/leetcode/blob/master/stack/implement-queue-using-stacks.md) **c++** **2019-4-1**
 
