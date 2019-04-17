@@ -293,6 +293,10 @@
 
 :fire:[[Easy]convert-sorted-array-to-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/convert-sorted-array-to-binary-search-tree.md) **c** **recursive**
 
+# dynamic programing
+
+[[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/tree/climbing-stairs.md) **c++**
+
 # design
 
 [[Medium]flatten-nested-list-iterator - 打平复杂列表](https://github.com/xuwenzhi/leetcode/blob/master/design/flatten-nested-list-iterator.md) **c++** **2019-4-2**
