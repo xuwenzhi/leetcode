@@ -301,6 +301,8 @@
 
 [[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/tree/climbing-stairs.md) **c++**
 
+[[Medium]unique-paths](https://github.com/xuwenzhi/leetcode/blob/master/tree/unique-paths.md) **c++**
+
 # design
 
 [[Medium]flatten-nested-list-iterator - 打平复杂列表](https://github.com/xuwenzhi/leetcode/blob/master/design/flatten-nested-list-iterator.md) **c++** **2019-4-2**
