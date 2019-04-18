@@ -299,13 +299,15 @@
 
 # dynamic programing
 
-[[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/dp/climbing-stairs.md) **c++** **2019-4-18**
+:fire:[[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/dp/climbing-stairs.md) **c++** **2019-4-18**
 
-[[Medium]unique-paths](https://github.com/xuwenzhi/leetcode/blob/master/dp/unique-paths.md) **c++** **2019-4-18**
+:fire:[[Medium]unique-paths](https://github.com/xuwenzhi/leetcode/blob/master/dp/unique-paths.md) **c++** **2019-4-18**
 
-[[Medium]unique-paths-ii](https://github.com/xuwenzhi/leetcode/blob/master/dp/unique-paths-ii.md) **c++** **2019-4-18**
+:fire:[[Medium]unique-paths-ii](https://github.com/xuwenzhi/leetcode/blob/master/dp/unique-paths-ii.md) **c++** **2019-4-18**
 
-[[Easy]maximum-subarray](https://github.com/xuwenzhi/leetcode/blob/master/dp/maximum-subarray.md) **c++** **2019-4-18**
+:fire:[[Easy]maximum-subarray](https://github.com/xuwenzhi/leetcode/blob/master/dp/maximum-subarray.md) **c++** **2019-4-18**
+
+:fire:[[Medium]maximum-product-subarray](https://github.com/xuwenzhi/leetcode/blob/master/dp/maximum-product-subarray.md) **c++** **2019-4-19**
 
 # design
 
