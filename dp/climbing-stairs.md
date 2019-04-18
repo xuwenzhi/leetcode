@@ -33,6 +33,7 @@ Explanation: There are three ways to climb to the top.
 # solution
 
 ```c++
+// O(n) Runtime, O(n) Space.
 class Solution {
 public:
     int climbStairs(int n) {
@@ -54,4 +55,26 @@ public:
 };
 //Runtime: 4 ms, faster than 100.00% of C++ online submissions for Climbing Stairs.
 //Memory Usage: 8.7 MB, less than 25.13% of C++ online submissions for Climbing Stairs.
+```
+
+
+# solution (iteration)
+
+```c+
+// O(n) Runtime, O(1) Space.
+class Solution {
+public:
+    int climbStairs(int n) {
+        int first = 1, second = 1;
+        for (int i=2;i<=n;i++) {
+            int tmp = first + second;
+            first = second;
+            second = tmp;
+        }
+
+        return second;
+    }
+};
+//Runtime: 4 ms, faster than 100.00% of C++ online submissions for Climbing Stairs.
+//Memory Usage: 8.2 MB, less than 98.04% of C++ online submissions for Climbing Stairs.
 ```
