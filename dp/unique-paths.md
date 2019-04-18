@@ -31,7 +31,7 @@ Output: 28
 
 # thinking
 
-由于只能从左边或者上边移动到终点，所以状态转移方程为 **dp[i][j] = dp[i-1][j] + dp[i][j-1]**，
+由于只能从左边或者上边移动到终点，所以状态转移方程为**dp[i][j] = dp[i-1][j] + dp[i][j-1]**。
 
 # solution (top to bottom dynamic programing)
 
@@ -57,7 +57,9 @@ public:
 
 
 # solution (top to bottom, using 1d array)
-// O(m*n) Runtime, O(n) Space.
+
+```
+// O(mn) Runtime, O(n) Space.
 class Solution {
 public:
     int uniquePaths(int m, int n) {
