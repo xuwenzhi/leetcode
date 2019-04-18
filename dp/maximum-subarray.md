@@ -50,6 +50,9 @@ if (dp[i-1] > 0) {
 }
 ```
 
+This problem's importance is : f(k) = max(f(k-1) + A[k], A[k])
+
+
 # solution (iteration dp)
 
 ```c++
