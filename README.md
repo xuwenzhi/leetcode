@@ -299,9 +299,13 @@
 
 # dynamic programing
 
-[[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/tree/climbing-stairs.md) **c++**
+[[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/tree/climbing-stairs.md) **c++** **2019-4-18**
 
-[[Medium]unique-paths](https://github.com/xuwenzhi/leetcode/blob/master/tree/unique-paths.md) **c++**
+[[Medium]unique-paths](https://github.com/xuwenzhi/leetcode/blob/master/tree/unique-paths.md) **c++** **2019-4-18**
+
+[[Medium]unique-paths-ii](https://github.com/xuwenzhi/leetcode/blob/master/tree/unique-paths-ii.md) **c++** **2019-4-18**
+
+[[Easy]maximum-subarray](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-subarray.md) **c++** **2019-4-18**
 
 # design
 
