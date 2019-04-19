@@ -311,6 +311,8 @@
 
 [[Easy]house-robber - 打家劫舍](https://github.com/xuwenzhi/leetcode/blob/master/dp/house-robber.md) **c++** **2019-4-19**
 
+[[Medium]minimum-path-sum - 路径最小值](https://github.com/xuwenzhi/leetcode/blob/master/dp/minimum-path-sum.md) **c++** **2019-4-19**
+
 # design
 
 [[Medium]flatten-nested-list-iterator - 打平复杂列表](https://github.com/xuwenzhi/leetcode/blob/master/design/flatten-nested-list-iterator.md) **c++** **2019-4-2**
