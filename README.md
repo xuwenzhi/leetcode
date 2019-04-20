@@ -311,6 +311,10 @@
 
 [[Easy]house-robber - 打家劫舍](https://github.com/xuwenzhi/leetcode/blob/master/dp/house-robber.md) **c++** **2019-4-19**
 
+[[Medium]house-robber-ii - 打家劫舍II](https://github.com/xuwenzhi/leetcode/blob/master/dp/house-robber-ii.md) **c++** **2019-4-19**
+
+[[Medium]house-robber-iii - 打家劫舍III](https://github.com/xuwenzhi/leetcode/blob/master/dp/house-robber-iii.md) **c++** **2019-4-20**
+
 [[Medium]minimum-path-sum - 路径最小值](https://github.com/xuwenzhi/leetcode/blob/master/dp/minimum-path-sum.md) **c++** **2019-4-19**
 
 # design
