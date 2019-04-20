@@ -319,6 +319,8 @@
 
 # design
 
+[[Easy]two-sum-iii-data-structure-design - two-sum设计](https://github.com/xuwenzhi/leetcode/blob/master/design/two-sum-iii-data-structure-design.md) **c++** **2019-4-20**
+
 [[Medium]flatten-nested-list-iterator - 打平复杂列表](https://github.com/xuwenzhi/leetcode/blob/master/design/flatten-nested-list-iterator.md) **c++** **2019-4-2**
 
 # should review
