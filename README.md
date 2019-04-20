@@ -342,3 +342,5 @@
 :fire:[[Easy]minimum-depth-of-binary-tree - 二叉树的最小深度](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-depth-of-binary-tree.md) **c++** **recursive** **bfs**
 
 :fire:[[Medium]single-number-ii](https://github.com/xuwenzhi/leetcode/blob/master/bit/single-number-ii.md) **c** **XOR**
+
+[[Medium]house-robber-iii - 打家劫舍III](https://github.com/xuwenzhi/leetcode/blob/master/dp/house-robber-iii.md) **c++** **2019-4-20**
