@@ -327,6 +327,8 @@
 
 [[Medium]longest-palindromic-substring - 最长回文子字符串](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/longest-palindromic-substring.md) **c++** **2019-4-21**
 
+[[Medium]pour-water - 倒水](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/pour-water.md) **c++** **2019-4-25**
+
 # should review
 
 [search-a-2d-matrix-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix-ii.md) **c++** **matrix** **2 pointer**
