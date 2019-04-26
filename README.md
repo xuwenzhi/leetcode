@@ -323,6 +323,11 @@
 
 [[Medium]flatten-nested-list-iterator - 打平复杂列表](https://github.com/xuwenzhi/leetcode/blob/master/design/flatten-nested-list-iterator.md) **c++** **2019-4-2**
 
+[[Medium]peeking-iterator - 顶端迭代器](https://github.com/xuwenzhi/leetcode/blob/master/design/peeking-iterator.md) **c++** **2019-4-26** **iterator**
+
+[[Medium]zigzag-iterator - 遍历交叉数组](https://github.com/xuwenzhi/leetcode/blob/master/design/zigzag-iterator.md) **c++** **design** **array** **2019-4-26**
+
+
 # Airbnb
 
 [[Medium]longest-palindromic-substring - 最长回文子字符串](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/longest-palindromic-substring.md) **c++** **2019-4-21**
@@ -331,7 +336,6 @@
 
 [[Medium]flatten-2d-vector - 打平2维数组](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/flatten-2d-vector.md) **c++** **design** **array** **2019-4-26**
 
-[[Medium]zigzag-iterator - 遍历交叉数组](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/zigzag-iterator.md) **c++** **design** **array** **2019-4-26**
 
 # should review
 
