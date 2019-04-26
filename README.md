@@ -331,6 +331,8 @@
 
 [[Medium]flatten-2d-vector - 打平2维数组](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/flatten-2d-vector.md) **c++** **design** **array** **2019-4-26**
 
+[[Medium]zigzag-iterator - 遍历交叉数组](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/zigzag-iterator.md) **c++** **design** **array** **2019-4-26**
+
 # should review
 
 [search-a-2d-matrix-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix-ii.md) **c++** **matrix** **2 pointer**
