@@ -327,6 +327,8 @@
 
 [[Medium]zigzag-iterator - 遍历交叉数组](https://github.com/xuwenzhi/leetcode/blob/master/design/zigzag-iterator.md) **c++** **design** **array** **2019-4-26**
 
+[[Medium]implement-trie-prefix-tree - Trie树](https://github.com/xuwenzhi/leetcode/blob/master/design/implement-trie-prefix-tree.md) **c++** **trie** **字典树** **前缀树** **2019-4-28**
+
 
 # Airbnb
 
