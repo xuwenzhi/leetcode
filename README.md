@@ -338,6 +338,8 @@
 
 [[Medium]flatten-2d-vector - 打平2维数组](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/flatten-2d-vector.md) **c++** **design** **array** **2019-4-26**
 
+[[Medium]add-and-search-word-data-structure-design](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/add-and-search-word-data-structure-design.md) **c++** **design** **trie** **2019-4-28**
+
 
 # should review
 
