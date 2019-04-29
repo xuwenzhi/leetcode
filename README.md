@@ -136,6 +136,9 @@
 
 [[Easy]move-zeros - 移动0至末尾](https://github.com/xuwenzhi/leetcode/blob/master/array/move-zeros.md) **c++** **2019-4-29**
 
+[[Medium]product-of-array-except-self - 计算除自己以外的乘积](https://github.com/xuwenzhi/leetcode/blob/master/array/product-of-array-except-self.md) **c++** **2019-4-29** **two pointer**
+
+
 ## 链表
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
