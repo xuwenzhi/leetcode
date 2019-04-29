@@ -64,6 +64,8 @@
 
 :fire: [[Medium]string-to-integer-atoi](https://github.com/xuwenzhi/leetcode/blob/master/integer/string-to-integer-atoi.md) **c++**  **overflow** **atoi**
 
+[[Easy]jewels-and-stones](https://github.com/xuwenzhi/leetcode/blob/master/integer/jewels-and-stones.md) **c++**  **hash** **2019-5-29**
+
 ## 数组类
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
