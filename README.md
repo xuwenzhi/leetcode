@@ -302,6 +302,8 @@
 
 :fire:[[Easy]convert-sorted-array-to-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/convert-sorted-array-to-binary-search-tree.md) **c** **recursive**
 
+[[Easy]merge-two-binary-trees](https://github.com/xuwenzhi/leetcode/blob/master/tree/merge-two-binary-trees.md) **c** **merge**
+
 # dynamic programing
 
 :fire:[[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/dp/climbing-stairs.md) **c++** **2019-4-18**
