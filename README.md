@@ -134,6 +134,8 @@
 
 [[Hard]find-minimum-in-rotated-sorted-array-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/find-minimum-in-rotated-sorted-array-ii.md) **c++** **2019-4-17**
 
+[[Easy]move-zeros - 移动0至末尾](https://github.com/xuwenzhi/leetcode/blob/master/array/move-zeros.md) **c++** **2019-4-29**
+
 ## 链表
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
