@@ -62,9 +62,11 @@
 
 :fire: [[Easy]valid-palindrome - 回文字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/valid-palindrome.md) **c++** **2 pointer** **2019-4-8**
 
-:fire: [[Medium]string-to-integer-atoi](https://github.com/xuwenzhi/leetcode/blob/master/integer/string-to-integer-atoi.md) **c++**  **overflow** **atoi**
+:fire: [[Medium]string-to-integer-atoi](https://github.com/xuwenzhi/leetcode/blob/master/string/string-to-integer-atoi.md) **c++**  **overflow** **atoi**
 
-[[Easy]jewels-and-stones](https://github.com/xuwenzhi/leetcode/blob/master/integer/jewels-and-stones.md) **c++**  **hash** **2019-5-29**
+[[Easy]jewels-and-stones](https://github.com/xuwenzhi/leetcode/blob/master/string/jewels-and-stones.md) **c++**  **hash** **2019-5-29**
+
+[[Easy]find-all-anagrams-in-a-string - 找到所有乱序字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/find-all-anagrams-in-a-string.md) **c++**  **hash** **slide window** **2019-5-30**
 
 ## 数组类
 
