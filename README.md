@@ -66,9 +66,10 @@
 
 [[Easy]jewels-and-stones](https://github.com/xuwenzhi/leetcode/blob/master/string/jewels-and-stones.md) **c++**  **hash** **2019-5-29**
 
+[[Easy]valid-anagram - 是否是相同乱序字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/valid-anagram.md) **c++**  **hash** **slide window** **2019-5-30**
+
 [[Easy]find-all-anagrams-in-a-string - 找到所有乱序字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/find-all-anagrams-in-a-string.md) **c++**  **hash** **slide window** **2019-5-30**
 
-[[Easy]valid-anagram - 是否是相同乱序字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/valid-anagram.md) **c++**  **hash** **slide window** **2019-5-30**
 
 ## 数组类
 
@@ -143,6 +144,8 @@
 [[Easy]move-zeros - 移动0至末尾](https://github.com/xuwenzhi/leetcode/blob/master/array/move-zeros.md) **c++** **2019-4-29**
 
 [[Medium]product-of-array-except-self - 计算除自己以外的乘积](https://github.com/xuwenzhi/leetcode/blob/master/array/product-of-array-except-self.md) **c++** **2019-4-29** **two pointer**
+
+[[Medium]jump-game - 跳步游戏](https://github.com/xuwenzhi/leetcode/blob/master/array/jump-game.md) **c++** **2019-4-30** **greedy**
 
 
 ## 链表
