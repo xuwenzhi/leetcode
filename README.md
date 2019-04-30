@@ -68,6 +68,8 @@
 
 [[Easy]find-all-anagrams-in-a-string - 找到所有乱序字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/find-all-anagrams-in-a-string.md) **c++**  **hash** **slide window** **2019-5-30**
 
+[[Easy]valid-anagram - 是否是相同乱序字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/valid-anagram.md) **c++**  **hash** **slide window** **2019-5-30**
+
 ## 数组类
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
