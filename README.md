@@ -147,6 +147,8 @@
 
 [[Medium]jump-game - 跳步游戏](https://github.com/xuwenzhi/leetcode/blob/master/array/jump-game.md) **c++** **2019-4-30** **greedy**
 
+[[Hard]jump-game-ii - 跳步游戏II](https://github.com/xuwenzhi/leetcode/blob/master/array/jump-game-ii.md) **c++** **2019-5-1** **greedy**
+
 
 ## 链表
 
