@@ -313,9 +313,11 @@
 
 :fire:[[Easy]convert-sorted-array-to-binary-search-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/convert-sorted-array-to-binary-search-tree.md) **c** **recursive**
 
-[[Easy]merge-two-binary-trees](https://github.com/xuwenzhi/leetcode/blob/master/tree/merge-two-binary-trees.md) **c** **merge**
+[[Easy]merge-two-binary-trees](https://github.com/xuwenzhi/leetcode/blob/master/tree/merge-two-binary-trees.md) **c++** **merge** **2019-4-30**
 
-[[Easy]invert-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/invert-binary-tree.md) **c** **invert**
+[[Easy]invert-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/invert-binary-tree.md) **c++** **invert** **2019-4-30**
+
+[[Easy]diameter-of-binary-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/diameter-of-binary-tree.md) **c++** **height** **2019-5-2**
 
 # dynamic programing
 
