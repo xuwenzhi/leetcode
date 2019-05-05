@@ -321,6 +321,8 @@
 
 [[Medium]convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/xuwenzhi/leetcode/blob/master/tree/convert-binary-search-tree-to-sorted-doubly-linked-list.md) **c++** **height** **2019-5-2**
 
+[[Medium]binary-search-tree-to-greater-sum-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-search-tree-to-greater-sum-tree.md) **c++** **greater** **2019-5-5**
+
 # dynamic programing
 
 :fire:[[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/dp/climbing-stairs.md) **c++** **2019-4-18**
