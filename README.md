@@ -149,6 +149,9 @@
 
 [[Hard]jump-game-ii - 跳步游戏II](https://github.com/xuwenzhi/leetcode/blob/master/array/jump-game-ii.md) **c++** **2019-5-1** **greedy**
 
+[[Easy]majority-element - 求众数](https://github.com/xuwenzhi/leetcode/blob/master/array/majority-element.md) **c++** **hashtable** **摩尔投票算法** **2019-5-5**
+
+[[Medium]majority-element-ii - 求众数II](https://github.com/xuwenzhi/leetcode/blob/master/array/majority-element-ii.md) **c++** **摩尔投票算法** **2019-5-5**
 
 ## 链表
 
