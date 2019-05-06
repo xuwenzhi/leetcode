@@ -326,6 +326,9 @@
 
 [[Medium]binary-search-tree-to-greater-sum-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-search-tree-to-greater-sum-tree.md) **c++** **greater** **2019-5-5**
 
+[[Easy]convert-bst-to-greater-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/convert-bst-to-greater-tree.md) **c++** **greater** **2019-5-6**
+
+
 # dynamic programing
 
 :fire:[[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/dp/climbing-stairs.md) **c++** **2019-4-18**
