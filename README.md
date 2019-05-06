@@ -22,6 +22,10 @@
 
 [[Easy]fibonacci-number - 斐波那契数列](https://github.com/xuwenzhi/leetcode/blob/master/integer/fibonacci-number.md) **c++** **2019-4-16** **dp**
 
+[[Easy]hamming-distance - 汉明距离](https://github.com/xuwenzhi/leetcode/blob/master/integer/hamming-distance.md) **c++** **2019-5-7**
+
+[[Easy]number-of-1-bits - 数字二进制位1的数量](https://github.com/xuwenzhi/leetcode/blob/master/integer/number-of-1-bits.md) **c++** **2019-5-7**
+
 ## Math
 
 [[Easy]ugly-number](https://github.com/xuwenzhi/leetcode/blob/master/math/ugly-number.md) **c**
@@ -327,7 +331,6 @@
 [[Medium]binary-search-tree-to-greater-sum-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-search-tree-to-greater-sum-tree.md) **c++** **greater** **2019-5-5**
 
 [[Easy]convert-bst-to-greater-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/convert-bst-to-greater-tree.md) **c++** **greater** **2019-5-6**
-
 
 # dynamic programing
 
