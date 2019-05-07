@@ -160,6 +160,8 @@
 
 [[Medium]kth-largest-element-in-an-array - 第K大的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/kth-largest-element-in-an-array.md) **c++** **sort** **partial_sort** **heap** **2019-5-7**
 
+[[Easy]third-maximum-number - 第3大的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/third-maximum-number.md) **c++** **sort** **unique** **2019-5-7**
+
 ## 链表
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
