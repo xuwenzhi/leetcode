@@ -158,6 +158,8 @@
 
 [[Medium]majority-element-ii - 求众数II](https://github.com/xuwenzhi/leetcode/blob/master/array/majority-element-ii.md) **c++** **摩尔投票算法** **2019-5-5**
 
+[[Medium]kth-largest-element-in-an-array - 第K大的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/kth-largest-element-in-an-array.md) **c++** **sort** **partial_sort** **heap** **2019-5-7**
+
 ## 链表
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
