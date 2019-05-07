@@ -160,7 +160,7 @@
 
 [[Medium]kth-largest-element-in-an-array - 第K大的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/kth-largest-element-in-an-array.md) **c++** **sort** **partial_sort** **heap** **2019-5-7**
 
-[[Easy]third-maximum-number - 第3大的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/third-maximum-number.md) **c++** **sort** **unique** **2019-5-7**
+[[Easy]third-maximum-number - 第3大的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/third-maximum-number.md) **c++** **sort** **unique** **set** **2019-5-7**
 
 ## 链表
 
@@ -372,6 +372,8 @@
 [[Medium]zigzag-iterator - 遍历交叉数组](https://github.com/xuwenzhi/leetcode/blob/master/design/zigzag-iterator.md) **c++** **design** **array** **2019-4-26**
 
 [[Medium]implement-trie-prefix-tree - Trie树](https://github.com/xuwenzhi/leetcode/blob/master/design/implement-trie-prefix-tree.md) **c++** **trie** **字典树** **前缀树** **2019-4-28**
+
+[[Easy]kth-largest-element-in-a-stream - 第K个最大的数](https://github.com/xuwenzhi/leetcode/blob/master/design/kth-largest-element-in-a-stream.md) **c++** **kth** **heap** **2019-5-7**
 
 
 # Airbnb
