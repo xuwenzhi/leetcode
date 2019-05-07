@@ -332,7 +332,9 @@
 
 [[Easy]convert-bst-to-greater-tree](https://github.com/xuwenzhi/leetcode/blob/master/tree/convert-bst-to-greater-tree.md) **c++** **greater** **2019-5-6**
 
-[[Medium]find-leaves-of-binary-tree - 寻找叶子节点](https://github.com/xuwenzhi/leetcode/blob/master/tree/find-leaves-of-binary-tree.md) **c++** **leaves** **2019-5-7**
+[[Medium]find-leaves-of-binary-tree - 寻找叶子节点](https://github.com/xuwenzhi/leetcode/blob/master/tree/find-leaves-of-binary-tree.md) **c++** **leaves** **2019-5-6**
+
+[[Medium]find-bottom-left-tree-value - 寻找左下节点值](https://github.com/xuwenzhi/leetcode/blob/master/tree/find-bottom-left-tree-value.md) **c++** **2019-5-7**
 
 # dynamic programing
 
