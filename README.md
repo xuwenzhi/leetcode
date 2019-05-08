@@ -10,7 +10,7 @@
 
 [[Easy]sum-of-two-integers](https://github.com/xuwenzhi/leetcode/blob/master/bit/sum-of-two-integers.md) **c** **overflow**
 
-## 数字类
+## Integer
 
 :fire:[[Easy]reverse-integer](https://github.com/xuwenzhi/leetcode/blob/master/integer/reverse-integer.md) **golang**  **overflow**
 
@@ -36,7 +36,7 @@
 
 [[Easy]count-primes - 计算素数的数量](https://github.com/xuwenzhi/leetcode/blob/master/math/count-primes.md) **c**
 
-## 字符串类
+## String
 
 [[Medium]length-of-last-word](https://github.com/xuwenzhi/leetcode/blob/master/string/length-of-last-word.md) **c**
 
@@ -76,7 +76,7 @@
 
 [[Medium]group-anagrams - 对乱序字符串分组](https://github.com/xuwenzhi/leetcode/blob/master/string/group-anagrams.md) **c++**  **hash** **slide window** **2019-5-7**
 
-## 数组类
+## Array
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
 
@@ -164,7 +164,9 @@
 
 [[Easy]third-maximum-number - 第3大的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/third-maximum-number.md) **c++** **sort** **unique** **set** **2019-5-7**
 
-## 链表
+[[Medium]subarray-sum-equals-k - 子数组和为K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/subarray-sum-equals-k.md) **c++** **hashtable** **2019-5-8**
+
+## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
 
@@ -224,7 +226,7 @@
 
 [[Medium]sort-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/sort-list.md) **c++** **merge sort**
 
-## 栈
+## Stack
 
 [[Easy]score-of-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/stack/score-of-parentheses.md) **c**
 
@@ -234,10 +236,10 @@
 
 :fire:[[Medium]evaluate-reverse-polish-notation](https://github.com/xuwenzhi/leetcode/blob/master/stack/evaluate-reverse-polish-notation.md) **c++** **2019-4-17**
 
-## 队列
+## Queue
 [[Easy]implement-queue-using-stacks](https://github.com/xuwenzhi/leetcode/blob/master/stack/implement-queue-using-stacks.md) **c++** **2019-4-1**
 
-## 树
+## Tree
 
 [[Easy]same-tree - 是否相同的树](https://github.com/xuwenzhi/leetcode/blob/master/tree/same-tree.md) **c** **recursive**
 
@@ -412,3 +414,5 @@
 :fire:[[Medium]single-number-ii](https://github.com/xuwenzhi/leetcode/blob/master/bit/single-number-ii.md) **c** **XOR**
 
 [[Medium]house-robber-iii - 打家劫舍III](https://github.com/xuwenzhi/leetcode/blob/master/dp/house-robber-iii.md) **c++** **2019-4-20**
+
+[[Medium]subarray-sum-equals-k - 子数组和为K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/subarray-sum-equals-k.md) **c++** **hashtable** **2019-5-8**
