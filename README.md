@@ -148,7 +148,9 @@
 
 [[Easy]move-zeros - 移动0至末尾](https://github.com/xuwenzhi/leetcode/blob/master/array/move-zeros.md) **c++** **2019-4-29**
 
-[[Medium]product-of-array-except-self - 计算除自己以外的乘积](https://github.com/xuwenzhi/leetcode/blob/master/array/product-of-array-except-self.md) **c++** **2019-4-29** **two pointer**
+[[Easy]find-pivot-index - 计算中值](https://github.com/xuwenzhi/leetcode/blob/master/array/find-pivot-index.md) **c++** **2019-5-8** **left right**
+
+[[Medium]product-of-array-except-self - 计算除自己以外的乘积](https://github.com/xuwenzhi/leetcode/blob/master/array/product-of-array-except-self.md) **c++** **2019-4-29** **left right**
 
 [[Medium]jump-game - 跳步游戏](https://github.com/xuwenzhi/leetcode/blob/master/array/jump-game.md) **c++** **2019-4-30** **greedy**
 
