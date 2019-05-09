@@ -168,6 +168,11 @@
 
 [[Medium]find-all-numbers-disappeared-in-an-array - 寻找消失的数字](https://github.com/xuwenzhi/leetcode/blob/master/array/find-all-numbers-disappeared-in-an-array.md) **c++** **2019-5-8**
 
+[[Hard]first-missing-positive - 第一个消失的正数](https://github.com/xuwenzhi/leetcode/blob/master/array/first-missing-positive.md) **c++** **2019-5-9** **swap**
+
+[[Medium]combination-sum - 组合之和](https://github.com/xuwenzhi/leetcode/blob/master/array/combination-sum.md) **c++** **2019-5-9**
+
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
@@ -418,3 +423,5 @@
 [[Medium]house-robber-iii - 打家劫舍III](https://github.com/xuwenzhi/leetcode/blob/master/dp/house-robber-iii.md) **c++** **2019-4-20**
 
 [[Medium]subarray-sum-equals-k - 子数组和为K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/subarray-sum-equals-k.md) **c++** **hashtable** **2019-5-8**
+
+[[Medium]combination-sum - 组合之和](https://github.com/xuwenzhi/leetcode/blob/master/array/combination-sum.md) **c++** **2019-5-9**
