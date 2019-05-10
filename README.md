@@ -174,6 +174,8 @@
 
 [[Medium]combination-sum-ii - 组合之和II](https://github.com/xuwenzhi/leetcode/blob/master/array/combination-sum-ii.md) **c++** **2019-5-9**
 
+[[Medium]combinations - 组合项](https://github.com/xuwenzhi/leetcode/blob/master/array/combinations.md) **c++** **2019-5-10**
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
