@@ -373,6 +373,9 @@
 
 [[Medium]minimum-path-sum - 路径最小值](https://github.com/xuwenzhi/leetcode/blob/master/dp/minimum-path-sum.md) **c++** **2019-4-19**
 
+[[Medium]longest-increasing-subsequence - 最长递增子序列](https://github.com/xuwenzhi/leetcode/blob/master/dp/longest-increasing-subsequence.md) **c++** **2019-5-10**
+
+
 # design
 
 [[Easy]two-sum-iii-data-structure-design - two-sum设计](https://github.com/xuwenzhi/leetcode/blob/master/design/two-sum-iii-data-structure-design.md) **c++** **2019-4-20**
@@ -398,6 +401,9 @@
 
 [[Medium]add-and-search-word-data-structure-design](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/add-and-search-word-data-structure-design.md) **c++** **design** **trie** **2019-4-28**
 
+[[Medium]combination-sum - 组合之和](https://github.com/xuwenzhi/leetcode/blob/master/array/combination-sum.md) **c++** **2019-5-9**
+
+[[Medium]longest-increasing-subsequence - 最长递增子序列](https://github.com/xuwenzhi/leetcode/blob/master/dp/longest-increasing-subsequence.md) **c++** **2019-5-10** **dp** **binary search**
 
 # should review
 
@@ -426,3 +432,5 @@
 [[Medium]subarray-sum-equals-k - 子数组和为K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/subarray-sum-equals-k.md) **c++** **hashtable** **2019-5-8**
 
 [[Medium]combination-sum - 组合之和](https://github.com/xuwenzhi/leetcode/blob/master/array/combination-sum.md) **c++** **2019-5-9**
+
+[[Medium]longest-increasing-subsequence - 最长递增子序列](https://github.com/xuwenzhi/leetcode/blob/master/dp/longest-increasing-subsequence.md) **c++** **2019-5-10**
