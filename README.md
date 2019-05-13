@@ -359,6 +359,8 @@
 
 :fire:[[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/dp/climbing-stairs.md) **c++** **2019-4-18**
 
+[[Easy]min-cost-climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/dp/min-cost-climbing-stairs.md) **c++** **2019-5-13**
+
 :fire:[[Medium]unique-paths](https://github.com/xuwenzhi/leetcode/blob/master/dp/unique-paths.md) **c++** **2019-4-18**
 
 :fire:[[Medium]unique-paths-ii](https://github.com/xuwenzhi/leetcode/blob/master/dp/unique-paths-ii.md) **c++** **2019-4-18**
