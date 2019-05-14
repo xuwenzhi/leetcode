@@ -180,6 +180,8 @@
 
 [[Medium]permutations-ii - 全排列II](https://github.com/xuwenzhi/leetcode/blob/master/array/permutations-ii.md) **c++** **permutations** **2019-5-14**
 
+[[Medium]next-permutations - 下一个全排列](https://github.com/xuwenzhi/leetcode/blob/master/array/next-permutations.md) **c++** **permutations** **2019-5-14**
+
 [[Easy]robot-bounded-in-circle - 机器人是否能回到原点](https://github.com/xuwenzhi/leetcode/blob/master/array/robot-bounded-in-circle.md) **c++** **2019-5-12**
 
 
