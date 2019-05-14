@@ -109,6 +109,49 @@ public:
 //Memory Usage: 10.2 MB, less than 21.44% of C++ online submissions for Permutations.
 ```
 
+# solution (select swap)
+
+这种解法就比较有意思了，有点类似于选择排序的位置，不过这个思路是，让nums的所有数字都和begin位置swap一下，然后依次得到结果
+
+
+[1,2,3]
+
+循环1 : [1,2,3]
+
+由于begin最初为0，第一个切换点就是1，此时1的位置固定不动,然后进入递归，得到结果 [1,2,3][1,3,2]
+
+循环2 : [1,2,3]，此时将1和2进行swap，nums为[2,1,3]，2的位置固定不动，进入递归，得到结果 [2,1,3][2,3,1]
+
+... 以此类推
+
+```c++
+class Solution {
+public:
+    vector<vector<int>> permute(vector<int>& nums) {
+        vector<vector<int>> res;
+
+        permute(nums, 0, res);
+
+        return res;
+    }
+
+    void permute(vector<int>& nums, int begin, vector<vector<int>>& res) {
+        if (begin >= nums.size()) {
+            res.push_back(nums);
+            return;
+        }
+
+        for (int i=begin;i<nums.size();i++) {
+            swap(nums[i], nums[begin]);
+            permute(nums, begin+1, res);
+            swap(nums[i], nums[begin]);
+        }
+    }
+};
+//Runtime: 12 ms, faster than 98.08% of C++ online submissions for Permutations.
+//Memory Usage: 9.4 MB, less than 74.49% of C++ online submissions for Permutations.
+```
+
 # solution (stl next_permutation)
 
 这里使用是STL内置的[next_permutation()](http://www.cplusplus.com/reference/algorithm/next_permutation/?kw=next_permutation)用于生成全排列的函数，不过需要先对数组进行排序，所以至于这个办法的效果好不好，关键要看具体case.
