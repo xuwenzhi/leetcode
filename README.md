@@ -176,6 +176,8 @@
 
 [[Medium]combinations - 组合项](https://github.com/xuwenzhi/leetcode/blob/master/array/combinations.md) **c++** **2019-5-10**
 
+[[Easy]robot-bounded-in-circle - 机器人是否能回到原点](https://github.com/xuwenzhi/leetcode/blob/master/array/robot-bounded-in-circle.md) **c++** **2019-5-12**
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
