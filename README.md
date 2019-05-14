@@ -176,7 +176,10 @@
 
 [[Medium]combinations - 组合项](https://github.com/xuwenzhi/leetcode/blob/master/array/combinations.md) **c++** **2019-5-10**
 
+[[Medium]permutations - 全排列](https://github.com/xuwenzhi/leetcode/blob/master/array/permutations.md) **c++** **permutations** **2019-5-14**
+
 [[Easy]robot-bounded-in-circle - 机器人是否能回到原点](https://github.com/xuwenzhi/leetcode/blob/master/array/robot-bounded-in-circle.md) **c++** **2019-5-12**
+
 
 ## Linked-List
 
