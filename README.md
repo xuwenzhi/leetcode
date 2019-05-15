@@ -182,6 +182,10 @@
 
 [[Medium]next-permutations - 下一个全排列](https://github.com/xuwenzhi/leetcode/blob/master/array/next-permutations.md) **c++** **permutations** **2019-5-14**
 
+[[Medium]permutation-sequence - 第K个全排列](https://github.com/xuwenzhi/leetcode/blob/master/array/permutation-sequence.md) **c++** **n!** **2019-5-15**
+
+[[Easy]arranging-coins - 排列硬币](https://github.com/xuwenzhi/leetcode/blob/master/array/arranging-coins.md) **c++** **n!** **2019-5-15**
+
 [[Easy]robot-bounded-in-circle - 机器人是否能回到原点](https://github.com/xuwenzhi/leetcode/blob/master/array/robot-bounded-in-circle.md) **c++** **2019-5-12**
 
 
