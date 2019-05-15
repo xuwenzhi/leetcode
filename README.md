@@ -26,6 +26,10 @@
 
 [[Easy]number-of-1-bits - 数字二进制位1的数量](https://github.com/xuwenzhi/leetcode/blob/master/integer/number-of-1-bits.md) **c++** **2019-5-7**
 
+[[Easy]happy-number - 快乐数字](https://github.com/xuwenzhi/leetcode/blob/master/integer/happy-number.md) **c++** **hashtable** **2019-5-15**
+
+[[Easy]guess-number-higher-or-lower - 猜数游戏](https://github.com/xuwenzhi/leetcode/blob/master/integer/guess-number-higher-or-lower.md) **c++** **binary search** **2019-5-15**
+
 ## Math
 
 [[Easy]ugly-number](https://github.com/xuwenzhi/leetcode/blob/master/math/ugly-number.md) **c**
