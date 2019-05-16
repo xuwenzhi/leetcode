@@ -26,6 +26,7 @@ All inputs are guaranteed to be non-empty strings.
 Trie, 也就是前缀树或者字典树，详细见维基[Trie](https://zh.wikipedia.org/wiki/Trie)
 
 ![https://upload.wikimedia.org/wikipedia/commons/b/be/Trie_example.svg](https://upload.wikimedia.org/wikipedia/commons/b/be/Trie_example.svg)
+
 图片来自维基百科
 
 # solution (Regular)
