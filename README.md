@@ -30,6 +30,8 @@
 
 [[Easy]guess-number-higher-or-lower - 猜数游戏](https://github.com/xuwenzhi/leetcode/blob/master/integer/guess-number-higher-or-lower.md) **c++** **binary search** **2019-5-15**
 
+[[Easy]first-bad-version - 第一个坏版本](https://github.com/xuwenzhi/leetcode/blob/master/integer/first-bad-version.md) **c++** **binary search** **2019-5-16**
+
 ## Math
 
 [[Easy]ugly-number](https://github.com/xuwenzhi/leetcode/blob/master/math/ugly-number.md) **c**
