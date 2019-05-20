@@ -42,6 +42,10 @@
 
 [[Easy]count-primes - 计算素数的数量](https://github.com/xuwenzhi/leetcode/blob/master/math/count-primes.md) **c**
 
+[[Easy]sqrtx - 对X开方](https://github.com/xuwenzhi/leetcode/blob/master/math/sqrtx.md) **c** **binary search** **Newton's Method**
+
+[[Easy]valid-perfect-square - 有效的完全平方数](https://github.com/xuwenzhi/leetcode/blob/master/math/valid-perfect-square.md) **c** **binary search**
+
 ## String
 
 [[Medium]length-of-last-word](https://github.com/xuwenzhi/leetcode/blob/master/string/length-of-last-word.md) **c**
