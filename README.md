@@ -200,6 +200,7 @@
 
 [[Medium]merge-intervals - 合并重叠数组](https://github.com/xuwenzhi/leetcode/blob/master/array/merge-intervals.md) **c++** **2019-5-21**
 
+[[Easy]meeting-rooms - 会议室](https://github.com/xuwenzhi/leetcode/blob/master/array/meeting-rooms.md) **c++** **2019-5-21**
 
 ## Linked-List
 

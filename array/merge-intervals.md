@@ -18,6 +18,10 @@ Explanation: Intervals [1,4] and [4,5] are considered overlapping.
 NOTE: input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.
 ```
 
+# prerequisites
+
+[https://github.com/xuwenzhi/leetcode/blob/master/array/meeting-rooms.md](https://github.com/xuwenzhi/leetcode/blob/master/array/meeting-rooms.md)
+
 # solution (sort)
 
 分析这个题还需要注意有几个情况，比如下面这些case
