@@ -422,6 +422,7 @@
 
 [[Easy]kth-largest-element-in-a-stream - 第K个最大的数](https://github.com/xuwenzhi/leetcode/blob/master/design/kth-largest-element-in-a-stream.md) **c++** **kth** **heap** **2019-5-7**
 
+[[Hard]lru-cahce - 最少使用缓存器](https://github.com/xuwenzhi/leetcode/blob/master/design/lru-cache.md) **c++** **list<pair<int,int>>** **unordered_map** **2019-5-22**
 
 # Airbnb
 
