@@ -15,9 +15,9 @@ Follow up:
 If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
 ```
 
-# thinking
+# solution
 
-使用非DP的方式实现.
+这个解法实际上是[最大子数列问题-Kadane's algorithm](https://zh.wikipedia.org/wiki/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E5%88%97%E9%97%AE%E9%A2%98)
 
 ```c++
 // O(n) Runtime, O(1) Space.
@@ -28,8 +28,8 @@ public:
         int ans=nums[0],i,sum=0;
         for(i=0; i<n; i++){
             sum += nums[i];
-            ans = max(sum,ans);
-            sum = max(sum,0);
+            ans = max(sum, ans);
+            sum = max(0, sum); // 要在这里进行max化，如果case为[-1],会输出0
         }
         return ans;
     }
