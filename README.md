@@ -448,7 +448,7 @@
 
 [search-a-2d-matrix-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix-ii.md) **c++** **matrix** **2 pointer**
 
-[merge-k-sorted-lists](https://github.com/xuwenzhi/leetcode/blob/master/merge-k-sorted-lists.md) **c** **分治** **最小堆(优先队列)**
+[merge-k-sorted-lists](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/merge-k-sorted-lists.md) **c** **分治** **最小堆(优先队列)**
 
 [linked-list-cycle-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list-cycle-ii.md) **c** **2 pointer(fast&&slow)**
 
