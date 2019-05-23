@@ -25,8 +25,6 @@ cache.get(1);       // returns -1 (not found)
 cache.get(3);       // returns 3
 cache.get(4);       // returns 4
 ```
-
-
 # solution 
 
 使用一个**list<pair<int,int>>**和一个**unordered_map<int, list<pair<int,int>>::iterator>** 解决，特别注意的是map的value是list的一个迭代器。
@@ -47,6 +45,29 @@ cache.get(4);       // returns 4
 
 3. 因为还有**capacity**的限制，如果此时的 **list.size() > capacity** 的话，还需要干掉list的尾部和map中对应的k-v。
 
+以这个case为例，list中value的变化为:
+
+**["LRUCache","put","put","get","put","get","put","get","get","get"]
+[[2],[1,1],[2,2],[1],[3,3],[2],[4,4],[1],[3],[4]]**
+
+```
+put 1,1
+ 1
+put 2,2
+ 2 1
+get 1
+ 1 2
+put 3,3
+ 3 1
+get 2 //return -1
+put 4,4
+ 4 3
+get 1 //return -1
+get 3
+ 3 4
+get 4
+ 4 3
+```
 
 ```c++
 class LRUCache {
@@ -126,4 +147,6 @@ public:
 [rbegin 和 end 区别](https://www.cnblogs.com/grandyang/p/4537277.html)
 
 [C++三种容器：list、vector和deque的区别](https://blog.csdn.net/gogokongyin/article/details/51178378)
+
+[list::splice](http://www.cplusplus.com/reference/list/list/splice/)
 

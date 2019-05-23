@@ -424,6 +424,10 @@
 
 [[Hard]lru-cahce - 最少使用缓存器](https://github.com/xuwenzhi/leetcode/blob/master/design/lru-cache.md) **c++** **list<pair<int,int>>** **unordered_map** **2019-5-22**
 
+[[Easy]design-compressed-string-iterator - 压缩字符串迭代器](https://github.com/xuwenzhi/leetcode/blob/master/design/design-compressed-string-iterator.md) **c++** **compress** **2019-5-23**
+
+
+
 # Airbnb
 
 [[Medium]longest-palindromic-substring - 最长回文子字符串](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/longest-palindromic-substring.md) **c++** **2019-4-21**
