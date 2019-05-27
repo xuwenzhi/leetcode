@@ -86,6 +86,8 @@
 
 [[Medium]group-anagrams - 对乱序字符串分组](https://github.com/xuwenzhi/leetcode/blob/master/string/group-anagrams.md) **c++**  **hash** **slide window** **2019-5-7**
 
+[[Medium]grumpy-bookstore-owner - 坏脾气的书店老板](https://github.com/xuwenzhi/leetcode/blob/master/string/grumpy-bookstore-owner.md) **c++** **slide window** **2019-5-26**
+
 ## Array
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
@@ -192,6 +194,8 @@
 
 [[Medium]next-permutations - 下一个全排列](https://github.com/xuwenzhi/leetcode/blob/master/array/next-permutations.md) **c++** **permutations** **2019-5-14**
 
+[[Medium]previous-permutation-with-one-swap - 上一个全排列](https://github.com/xuwenzhi/leetcode/blob/master/array/previous-permutation-with-one-swap.md) **c++** **permutations** **2019-5-26**
+
 [[Medium]permutation-sequence - 第K个全排列](https://github.com/xuwenzhi/leetcode/blob/master/array/permutation-sequence.md) **c++** **n!** **2019-5-15**
 
 [[Easy]arranging-coins - 排列硬币](https://github.com/xuwenzhi/leetcode/blob/master/array/arranging-coins.md) **c++** **n!** **2019-5-15**
@@ -203,6 +207,8 @@
 [[Easy]meeting-rooms - 会议室](https://github.com/xuwenzhi/leetcode/blob/master/array/meeting-rooms.md) **c++** **minheap** **2019-5-21**
 
 [[Medium]meeting-rooms-ii - 会议室](https://github.com/xuwenzhi/leetcode/blob/master/array/meeting-rooms-ii.md) **c++** **map** **minheap** **2019-5-21**
+
+[[Easy]height-checker](https://github.com/xuwenzhi/leetcode/blob/master/array/height-checker.md) **c++** **2019-5-26**
 
 ## Linked-List
 
