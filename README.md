@@ -34,7 +34,11 @@
 
 [[Easy]complement-of-base-10-integer - 2进制翻转](https://github.com/xuwenzhi/leetcode/blob/master/integer/complement-of-base-10-integer.md) **c++** **binary** **2019-5-28**
 
+[[Easy]power-of-two - 2的幂次方](https://github.com/xuwenzhi/leetcode/blob/master/integer/power-of-two.md) **c++** **2019-5-28**
 
+[[Easy]power-of-three - 3的幂次方](https://github.com/xuwenzhi/leetcode/blob/master/integer/power-of-three.md) **c++** **2019-5-28**
+
+[[Easy]power-of-four - 4的幂次方](https://github.com/xuwenzhi/leetcode/blob/master/integer/power-of-four.md) **c++** **2019-5-28**
 
 ## Math
 
