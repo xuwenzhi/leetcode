@@ -57,7 +57,7 @@ public:
         int max_sub = accumulate(customers.begin(), customers.begin()+X, 0);
         int except = cal(customers, grumpy, 0, X-1);
         
-        res = max_sub + cal(customers, grumpy, 0, X-1);
+        res = max_sub + except;
         for (int i=1;i<=l-X;i++) {
             max_sub = max_sub + customers[i+X-1] - customers[i-1];
             if (!grumpy[i-1]) except += customers[i-1];

@@ -210,6 +210,11 @@
 
 [[Easy]height-checker](https://github.com/xuwenzhi/leetcode/blob/master/array/height-checker.md) **c++** **2019-5-26**
 
+[[Easy]squares-of-a-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/squares-of-a-sorted-array.md) **c++** **2019-5-27**
+
+[[Medium]sort-transformed-array](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-transformed-array.md) **c++**  **palabalo** **2019-5-27**
+
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
