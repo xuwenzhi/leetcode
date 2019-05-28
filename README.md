@@ -32,6 +32,10 @@
 
 [[Easy]first-bad-version - 第一个坏版本](https://github.com/xuwenzhi/leetcode/blob/master/integer/first-bad-version.md) **c++** **binary search** **2019-5-16**
 
+[[Easy]complement-of-base-10-integer - 2进制翻转](https://github.com/xuwenzhi/leetcode/blob/master/integer/complement-of-base-10-integer.md) **c++** **binary** **2019-5-28**
+
+
+
 ## Math
 
 [[Easy]ugly-number](https://github.com/xuwenzhi/leetcode/blob/master/math/ugly-number.md) **c**
