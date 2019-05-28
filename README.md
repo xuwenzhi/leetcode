@@ -98,7 +98,6 @@
 
 [[Easy]find-the-difference - 找到两个字符串的不同](https://github.com/xuwenzhi/leetcode/blob/master/string/find-the-difference.md) **c++** **counter** **2019-5-26**
 
-
 ## Array
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
@@ -224,6 +223,12 @@
 [[Easy]squares-of-a-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/squares-of-a-sorted-array.md) **c++** **2019-5-27**
 
 [[Medium]sort-transformed-array](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-transformed-array.md) **c++**  **palabalo** **2019-5-27**
+
+[[Easy]contains-duplicate](https://github.com/xuwenzhi/leetcode/blob/master/array/contains-duplicate.md) **c++**  **hashtable** **2019-5-28**
+
+[[Easy]contains-duplicate-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/contains-duplicate-ii.md) **c++**  **hashtable** **2019-5-28**
+
+[[Medium]contains-duplicate-iii](https://github.com/xuwenzhi/leetcode/blob/master/array/contains-duplicate-iii.md) **c++**  **map** **2019-5-28**
 
 
 ## Linked-List
