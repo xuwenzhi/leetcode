@@ -96,6 +96,9 @@
 
 [[Medium]grumpy-bookstore-owner - 坏脾气的书店老板](https://github.com/xuwenzhi/leetcode/blob/master/string/grumpy-bookstore-owner.md) **c++** **slide window** **2019-5-26**
 
+[[Easy]find-the-difference - 找到两个字符串的不同](https://github.com/xuwenzhi/leetcode/blob/master/string/find-the-difference.md) **c++** **counter** **2019-5-26**
+
+
 ## Array
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
