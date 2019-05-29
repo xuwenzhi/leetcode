@@ -44,7 +44,7 @@ public:
         return res;
     }
     
-    void combine(vector<int> &nums, int start, int &k, vector<int> pre, vector<vector<int>> &res) {
+    void combine(vector<int> &nums, int start, int &k, vector<int> pre,     vector<vector<int>> &res) {
         if (pre.size() >= k) {
             res.push_back(pre);
             return;
