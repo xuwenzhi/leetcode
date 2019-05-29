@@ -210,6 +210,8 @@
 
 [[Medium]subsets - 子序列](https://github.com/xuwenzhi/leetcode/blob/master/array/subsets.md) **c++** **2019-5-29**
 
+[[Medium]subsets-ii - 子序列II](https://github.com/xuwenzhi/leetcode/blob/master/array/subsets-ii.md) **c++** **2019-5-29**
+
 [[Easy]arranging-coins - 排列硬币](https://github.com/xuwenzhi/leetcode/blob/master/array/arranging-coins.md) **c++** **n!** **2019-5-15**
 
 [[Easy]robot-bounded-in-circle - 机器人是否能回到原点](https://github.com/xuwenzhi/leetcode/blob/master/array/robot-bounded-in-circle.md) **c++** **2019-5-12**
