@@ -230,6 +230,10 @@
 
 [[Medium]contains-duplicate-iii](https://github.com/xuwenzhi/leetcode/blob/master/array/contains-duplicate-iii.md) **c++**  **map** **2019-5-28**
 
+[[Medium]find-all-duplicates-in-an-array - 找到数组中所有重复的数字](https://github.com/xuwenzhi/leetcode/blob/master/array/find-all-duplicates-in-an-array.md) **c++** **2019-5-29**
+
+[[Easy]shortest-unsorted-continuous-subarray - 未排序的连续子数组](https://github.com/xuwenzhi/leetcode/blob/master/array/shortest-unsorted-continuous-subarray.md) **c++** **2019-5-29**
+
 
 ## Linked-List
 

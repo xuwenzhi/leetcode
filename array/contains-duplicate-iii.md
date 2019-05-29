@@ -60,6 +60,8 @@ public:
 使用map存储数组的value-key，并且使用两个指针**i,j**，i在前，j在后，两者**相距k**,
 使用map的好处是可以直接定位到 **nums[i] - t** 这个位置，因为map是排序的。
 
+有点滑动窗口的意思。
+
 ```c++
 class Solution {
 public:
@@ -68,7 +70,10 @@ public:
         int l = nums.size();
         for (int i=0,j=0;i<l;i++) {
             if (i - j > k) m.erase(nums[j++]);
-            auto it = m.lower_bound((long)nums[i]-t);
+            // |x - nums[i]| <= t  ==> -t <= x - nums[i] <= t;
+            // x-nums[i] >= -t ==> x >= nums[i]-t
+            // 注意这里求 X 的过程。
+            auto it = m.lower_bound((long)nums[i]-t); 
             if (it != m.end() && abs(it->first - nums[i]) <= t) return true;
             m[nums[i]] = i;
         }
