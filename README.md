@@ -184,7 +184,9 @@
 
 [[Medium]kth-largest-element-in-an-array - 第K大的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/kth-largest-element-in-an-array.md) **c++** **sort** **partial_sort** **heap** **2019-5-7**
 
-[[Medium]top-k-frequent-elements - 出现次数最多的前K个数](https://github.com/xuwenzhi/leetcode/blob/master/array/top-k-frequent-elements.md) **c++** **multimap** **2019-5-30**
+[[Medium]top-k-frequent-elements - top-k个高频数字](https://github.com/xuwenzhi/leetcode/blob/master/array/top-k-frequent-elements.md) **c++** **multimap** **2019-5-30**
+
+[[Medium]top-k-frequent-words - top-k个高频词](https://github.com/xuwenzhi/leetcode/blob/master/array/top-k-frequent-words.md) **c++** **multimap** **2019-5-31**
 
 [[Easy]third-maximum-number - 第3大的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/third-maximum-number.md) **c++** **sort** **unique** **set** **2019-5-7**
 
