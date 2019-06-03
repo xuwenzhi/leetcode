@@ -10,6 +10,10 @@
 
 [[Easy]sum-of-two-integers](https://github.com/xuwenzhi/leetcode/blob/master/bit/sum-of-two-integers.md) **c** **overflow**
 
+[[Medium]counting-bits](https://github.com/xuwenzhi/leetcode/blob/master/bit/counting-bits.md) **c++**
+
+
+
 ## Integer
 
 :fire:[[Easy]reverse-integer](https://github.com/xuwenzhi/leetcode/blob/master/integer/reverse-integer.md) **golang**  **overflow**
