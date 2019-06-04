@@ -12,8 +12,6 @@
 
 [[Medium]counting-bits](https://github.com/xuwenzhi/leetcode/blob/master/bit/counting-bits.md) **c++**
 
-
-
 ## Integer
 
 :fire:[[Easy]reverse-integer](https://github.com/xuwenzhi/leetcode/blob/master/integer/reverse-integer.md) **golang**  **overflow**
@@ -200,7 +198,9 @@
 
 [[Easy]third-maximum-number - 第3大的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/third-maximum-number.md) **c++** **sort** **unique** **set** **2019-5-7**
 
-[[Medium]subarray-sum-equals-k - 子数组和为K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/subarray-sum-equals-k.md) **c++** **hashtable** **2019-5-8**
+[[Medium]subarray-sum-equals-k - 子数组和为K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/subarray-sum-equals-k.md) **c++** **prefixsum** **hashtable** **2019-5-8**
+
+[[Medium]maximum-size-subarray-sum-equals-k - 子数组和为K的长度](https://github.com/xuwenzhi/leetcode/blob/master/array/maximum-size-subarray-sum-equals-k.md) **c++** **prefixsum** **hashtable** **2019-6-4**
 
 [[Medium]find-all-numbers-disappeared-in-an-array - 寻找消失的数字](https://github.com/xuwenzhi/leetcode/blob/master/array/find-all-numbers-disappeared-in-an-array.md) **c++** **2019-5-8**
 
