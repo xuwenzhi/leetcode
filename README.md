@@ -311,6 +311,9 @@
 
 [[Medium]sort-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/sort-list.md) **c++** **merge sort**
 
+[[Medium]next-greater-node-in-linked-list - 链表中第一个大于当前节点的值](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/next-greater-node-in-linked-list.md) **c++** **stack** **2019-6-24**
+
+
 ## Stack
 
 [[Easy]score-of-parentheses](https://github.com/xuwenzhi/leetcode/blob/master/stack/score-of-parentheses.md) **c**
