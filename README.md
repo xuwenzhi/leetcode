@@ -100,6 +100,8 @@
 
 [[Medium]grumpy-bookstore-owner - 坏脾气的书店老板](https://github.com/xuwenzhi/leetcode/blob/master/string/grumpy-bookstore-owner.md) **c++** **slide window** **2019-5-26**
 
+[[Medium]minimum-size-subarray-sum - 和为sum的最小连续子数组](https://github.com/xuwenzhi/leetcode/blob/master/string/minimum-size-subarray-sum.md) **c++** **slide window** **2019-6-4**
+
 [[Easy]find-the-difference - 找到两个字符串的不同](https://github.com/xuwenzhi/leetcode/blob/master/string/find-the-difference.md) **c++** **counter** **2019-5-26**
 
 [[Medium]decode-string - 解压字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/decode-string.md) **c++** **compress** **2019-6-4**
@@ -476,7 +478,7 @@
 
 [[Easy]design-compressed-string-iterator - 压缩字符串迭代器](https://github.com/xuwenzhi/leetcode/blob/master/design/design-compressed-string-iterator.md) **c++** **compress** **2019-5-23**
 
-
+[[Easy]logger-rate-limiter - 日志限流器](https://github.com/xuwenzhi/leetcode/blob/master/design/logger-rate-limiter.md) **c++** **hashtable** **2019-6-24**
 
 # Airbnb
 
