@@ -102,6 +102,10 @@
 
 [[Easy]find-the-difference - 找到两个字符串的不同](https://github.com/xuwenzhi/leetcode/blob/master/string/find-the-difference.md) **c++** **counter** **2019-5-26**
 
+[[Medium]decode-string - 解压字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/decode-string.md) **c++** **compress** **2019-6-4**
+
+[[Easy]backspace-string-compare - 比较可回退字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/backspace-string-compare.md) **c++** **2019-6-4**
+
 ## Array
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
