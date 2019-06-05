@@ -106,6 +106,8 @@
 
 [[Easy]backspace-string-compare - 比较可回退字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/backspace-string-compare.md) **c++** **2019-6-4**
 
+[[Easy]unique-email-addresses - 唯一的邮件地址](https://github.com/xuwenzhi/leetcode/blob/master/string/unique-email-addresses.md) **c++** **2019-6-5**
+
 ## Array
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
@@ -487,7 +489,6 @@
 [[Medium]range-sum-query-2d-immutable - 可变2维数组和区间](https://github.com/xuwenzhi/leetcode/blob/master/design/range-sum-query-2d-immutable.md) **c++** **presum** **2019-6-5**
 
 [[Hard]range-sum-query-2d-mutable - 可变2维数组和区间HARD](https://github.com/xuwenzhi/leetcode/blob/master/design/range-sum-query-2d-mutable.md) **c++** **presum** **2019-6-5**
-
 
 
 # Airbnb
