@@ -198,9 +198,9 @@
 
 [[Easy]third-maximum-number - 第3大的元素](https://github.com/xuwenzhi/leetcode/blob/master/array/third-maximum-number.md) **c++** **sort** **unique** **set** **2019-5-7**
 
-[[Medium]subarray-sum-equals-k - 子数组和为K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/subarray-sum-equals-k.md) **c++** **prefixsum** **hashtable** **2019-5-8**
+[[Medium]subarray-sum-equals-k - 子数组和为K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/subarray-sum-equals-k.md) **c++** **presum** **hashtable** **2019-5-8**
 
-[[Medium]maximum-size-subarray-sum-equals-k - 子数组和为K的长度](https://github.com/xuwenzhi/leetcode/blob/master/array/maximum-size-subarray-sum-equals-k.md) **c++** **prefixsum** **hashtable** **2019-6-4**
+[[Medium]maximum-size-subarray-sum-equals-k - 子数组和为K的长度](https://github.com/xuwenzhi/leetcode/blob/master/array/maximum-size-subarray-sum-equals-k.md) **c++** **presum** **hashtable** **2019-6-4**
 
 [[Medium]find-all-numbers-disappeared-in-an-array - 寻找消失的数字](https://github.com/xuwenzhi/leetcode/blob/master/array/find-all-numbers-disappeared-in-an-array.md) **c++** **2019-5-8**
 
@@ -478,7 +478,17 @@
 
 [[Easy]design-compressed-string-iterator - 压缩字符串迭代器](https://github.com/xuwenzhi/leetcode/blob/master/design/design-compressed-string-iterator.md) **c++** **compress** **2019-5-23**
 
-[[Easy]logger-rate-limiter - 日志限流器](https://github.com/xuwenzhi/leetcode/blob/master/design/logger-rate-limiter.md) **c++** **hashtable** **2019-6-24**
+[[Easy]logger-rate-limiter - 日志限流器](https://github.com/xuwenzhi/leetcode/blob/master/design/logger-rate-limiter.md) **c++** **hashtable** **2019-6-4**
+
+[[Easy]range-sum-query-immutable - 可变数组和区间](https://github.com/xuwenzhi/leetcode/blob/master/design/range-sum-query-immutable.md) **c++** **presum** **2019-6-4**
+
+[[Medium]range-sum-query-mutable - 可变数组和区间](https://github.com/xuwenzhi/leetcode/blob/master/design/range-sum-query-mutable.md) **c++** **presum** **group** **2019-6-5**
+
+[[Medium]range-sum-query-2d-immutable - 可变2维数组和区间](https://github.com/xuwenzhi/leetcode/blob/master/design/range-sum-query-2d-immutable.md) **c++** **presum** **2019-6-5**
+
+[[Hard]range-sum-query-2d-mutable - 可变2维数组和区间HARD](https://github.com/xuwenzhi/leetcode/blob/master/design/range-sum-query-2d-mutable.md) **c++** **presum** **2019-6-5**
+
+
 
 # Airbnb
 
