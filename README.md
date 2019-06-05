@@ -110,6 +110,8 @@
 
 [[Easy]to-lower-case - 实现lower-case](https://github.com/xuwenzhi/leetcode/blob/master/string/to-lower-case.md) **c++** **2019-6-5**
 
+[[Easy]read-n-characters-given-read4 - 使用read4读取buffer](https://github.com/xuwenzhi/leetcode/blob/master/string/read-n-characters-given-read4.md) **c++** **2019-6-5**
+
 ## Array
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
