@@ -108,6 +108,8 @@
 
 [[Easy]unique-email-addresses - 唯一的邮件地址](https://github.com/xuwenzhi/leetcode/blob/master/string/unique-email-addresses.md) **c++** **2019-6-5**
 
+[[Easy]to-lower-case - 实现lower-case](https://github.com/xuwenzhi/leetcode/blob/master/string/to-lower-case.md) **c++** **2019-6-5**
+
 ## Array
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
