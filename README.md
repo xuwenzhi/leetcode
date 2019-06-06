@@ -112,6 +112,12 @@
 
 [[Easy]read-n-characters-given-read4 - 使用read4读取buffer](https://github.com/xuwenzhi/leetcode/blob/master/string/read-n-characters-given-read4.md) **c++** **2019-6-5**
 
+[[Hard]read-n-characters-given-read4-ii-call-multiple-times - 多次使用read4读取buffer](https://github.com/xuwenzhi/leetcode/blob/master/string/read-n-characters-given-read4-ii-call-multiple-times.md) **c++** **2019-6-6**
+
+[[Easy]unique-morse-code-words - 唯一的摩斯密码](https://github.com/xuwenzhi/leetcode/blob/master/string/unique-morse-code-words.md) **c++** **hashtable** **2019-6-6**
+
+[[Easy]student-attendance-record-i - 学生的出席记录](https://github.com/xuwenzhi/leetcode/blob/master/string/student-attendance-record-i.md) **c++** **2019-6-6**
+
 ## Array
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
