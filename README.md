@@ -449,6 +449,8 @@
 
 [[Medium]find-bottom-left-tree-value - 寻找左下节点值](https://github.com/xuwenzhi/leetcode/blob/master/tree/find-bottom-left-tree-value.md) **c++** **2019-5-7**
 
+[[Medium]populating-next-right-pointers-in-each-node-ii - 层序连接二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/populating-next-right-pointers-in-each-node-ii.md) **c++** **bfs** **2019-6-7**
+
 # dynamic programing
 
 :fire:[[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/dp/climbing-stairs.md) **c++** **2019-4-18**
