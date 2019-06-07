@@ -510,6 +510,9 @@
 
 [[Hard]find-median-from-data-stream - 寻找数据流的中位数](https://github.com/xuwenzhi/leetcode/blob/master/design/find-median-from-data-stream.md) **c++** **median** **2019-6-6**
 
+[[Medium]time-based-key-value-store - 时间戳k-v存储器](https://github.com/xuwenzhi/leetcode/blob/master/design/time-based-key-value-store.md) **c++** **hashtable** **2019-6-7**
+
+
 # Airbnb
 
 [[Medium]longest-palindromic-substring - 最长回文子字符串](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/longest-palindromic-substring.md) **c++** **2019-4-21**

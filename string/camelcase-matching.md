@@ -88,4 +88,10 @@ public:
         return res;
     }
 };
+//Runtime: 4 ms, faster than 95.61% of C++ online submissions for Camelcase Matching.
+//Memory Usage: 8.8 MB, less than 9.38% of C++ online submissions for Camelcase Matching.
 ```
+
+# refer
+
+[JavaC++Python-Check-Subsequence-and-Regax](https://leetcode.com/problems/camelcase-matching/discuss/270029/)
