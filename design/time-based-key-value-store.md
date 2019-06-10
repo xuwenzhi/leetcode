@@ -93,6 +93,38 @@ public:
 //Memory Usage: 134.4 MB, less than 87.08% of C++ online submissions for Time Based Key-Value Store.
 ```
 
+# solution (hashtable + map) 
+
+这种是Hashtable+map的方式，和上面的相比是把vector改为map，也就是把vector的线性结构改为树形结构，本质上两者是一样的，
+
+```c++
+// Author: Huahua, running time: 200 ms
+class TimeMap {
+public:
+  /** Initialize your data structure here. */
+  TimeMap() {}
+ 
+  void set(string key, string value, int timestamp) {
+    s_[key].emplace(timestamp, std::move(value));
+  }
+ 
+  string get(string key, int timestamp) {
+    auto m = s_.find(key);
+    if (m == s_.end()) return "";
+    auto it = m->second.upper_bound(timestamp);
+    // 没有比要查找的时间戳小的，比如map中的timestamp[2,3,4]，现在要查找1，那么就直接返回空
+    if (it == begin(m->second)) return "";
+    // 这里就直接返回it的前一个元素即可
+    return prev(it)->second;
+  }
+private:
+  unordered_map<string, map<int, string>> s_; 
+};
+
+```
+
 # refer
 
 [https://zhanghuimeng.github.io/post/leetcode-981-time-based-key-value-store/](https://zhanghuimeng.github.io/post/leetcode-981-time-based-key-value-store/)
+
+[花花酱 LeetCode 981. Time Based Key-Value Store](https://zxi.mytechroad.com/blog/hashtable/leetcode-981-time-based-key-value-store/)

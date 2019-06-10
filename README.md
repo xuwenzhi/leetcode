@@ -281,7 +281,9 @@
 
 [[Easy]remove-duplicates-from-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/remove-duplicates-from-sorted-list.md) **c**
 
-:fire:[[Medium]add-two-numbers](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/add-two-numbers.md) **c** **add-num**
+:fire:[[Medium]add-two-numbers](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/add-two-numbers.md) **c** **add-num** **over**
+
+[[Medium]plus-one-linked-list 链表末尾加1](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/plus-one-linked-list.md) **c++** **over** **2019-6-10**
 
 [[Medium]add-two-numbers-ii](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/add-two-numbers-ii.md) **c** **medium** **add-num**
 
@@ -331,7 +333,9 @@
 
 [[Medium]sort-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/sort-list.md) **c++** **merge sort**
 
-[[Medium]next-greater-node-in-linked-list - 链表中第一个大于当前节点的值](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/next-greater-node-in-linked-list.md) **c++** **stack** **2019-6-24**
+[[Medium]next-greater-node-in-linked-list - 链表中第一个大于当前节点的值](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/next-greater-node-in-linked-list.md) **c++** **stack** **2019-5-24**
+
+[[Medium]insert-into-a-cyclic-sorted-list - 排序成环链表插值](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/insert-into-a-cyclic-sorted-list.md) **c++** **2019-6-10**
 
 
 ## Stack
