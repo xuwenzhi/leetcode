@@ -126,6 +126,9 @@
 
 [[Easy]excel-sheet-column-title - 数字转Excel行](https://github.com/xuwenzhi/leetcode/blob/master/string/excel-sheet-column-title.md) **c++** **2019-6-11**
 
+[[Easy]most-common-word - 出现最多次的单词](https://github.com/xuwenzhi/leetcode/blob/master/string/most-common-word.md) **c++** **2019-6-13**
+
+
 ## Array
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
@@ -538,11 +541,14 @@
 
 # SQL
 
-[[Easy]combine-two-tables - 合并两个表](https://github.com/xuwenzhi/leetcode/blob/master/sql/combine-two-tables.md) **c++** **left join** **2019-6-13**
+[[Easy]combine-two-tables - 合并两个表](https://github.com/xuwenzhi/leetcode/blob/master/sql/combine-two-tables.md) **sql** **left join** **2019-6-13**
 
-[[Easy]employee-bonus - 员工奖金](https://github.com/xuwenzhi/leetcode/blob/master/sql/employee-bonus.md) **c++** **left join** **2019-6-13**
+[[Easy]employee-bonus - 员工奖金](https://github.com/xuwenzhi/leetcode/blob/master/sql/employee-bonus.md) **sql** **left join** **2019-6-13**
 
-[[Easy]shortest-distance-in-a-line - 员工奖金](https://github.com/xuwenzhi/leetcode/blob/master/sql/shortest-distance-in-a-line.md) **c++** **min** **2019-6-13**
+[[Easy]shortest-distance-in-a-line - 员工奖金](https://github.com/xuwenzhi/leetcode/blob/master/sql/shortest-distance-in-a-line.md) **sql** **min** **2019-6-13**
+
+[[Easy]classes-more-than-5-students - 超过5个学生选择的课程](https://github.com/xuwenzhi/leetcode/blob/master/sql/classes-more-than-5-students.md) **sql** **groupby having** **2019-6-13**
+
 
 # should review
 
