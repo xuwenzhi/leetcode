@@ -122,7 +122,9 @@
 
 [[Medium]camelcase-matching - 驼峰匹配](https://github.com/xuwenzhi/leetcode/blob/master/string/camelcase-matching.md) **c++** **2019-6-7**
 
+[[Easy]excel-sheet-column-number - Excel行转数字](https://github.com/xuwenzhi/leetcode/blob/master/string/excel-sheet-column-number.md) **c++** **2019-6-10**
 
+[[Easy]excel-sheet-column-title - 数字转Excel行](https://github.com/xuwenzhi/leetcode/blob/master/string/excel-sheet-column-title.md) **c++** **2019-6-11**
 
 ## Array
 
@@ -270,6 +272,7 @@
 
 [[Easy]shortest-unsorted-continuous-subarray - 未排序的连续子数组](https://github.com/xuwenzhi/leetcode/blob/master/array/shortest-unsorted-continuous-subarray.md) **c++** **2019-5-29**
 
+[[Easy]island-perimeter - 计算岛的周长](https://github.com/xuwenzhi/leetcode/blob/master/array/island-perimeter.md) **c++** **2019-6-13**
 
 ## Linked-List
 
@@ -532,6 +535,14 @@
 [[Medium]combination-sum - 组合之和](https://github.com/xuwenzhi/leetcode/blob/master/array/combination-sum.md) **c++** **2019-5-9**
 
 [[Medium]longest-increasing-subsequence - 最长递增子序列](https://github.com/xuwenzhi/leetcode/blob/master/dp/longest-increasing-subsequence.md) **c++** **2019-5-10** **dp** **binary search**
+
+# SQL
+
+[[Easy]combine-two-tables - 合并两个表](https://github.com/xuwenzhi/leetcode/blob/master/sql/combine-two-tables.md) **c++** **left join** **2019-6-13**
+
+[[Easy]employee-bonus - 员工奖金](https://github.com/xuwenzhi/leetcode/blob/master/sql/employee-bonus.md) **c++** **left join** **2019-6-13**
+
+[[Easy]shortest-distance-in-a-line - 员工奖金](https://github.com/xuwenzhi/leetcode/blob/master/sql/shortest-distance-in-a-line.md) **c++** **min** **2019-6-13**
 
 # should review
 
