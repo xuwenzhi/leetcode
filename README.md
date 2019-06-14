@@ -42,6 +42,10 @@
 
 [[Easy]power-of-four - 4的幂次方](https://github.com/xuwenzhi/leetcode/blob/master/integer/power-of-four.md) **c++** **2019-5-28**
 
+[[Easy]number-complement - 数字的补码](https://github.com/xuwenzhi/leetcode/blob/master/integer/number-complement.md) **c++** **2019-6-14**
+
+[[Easy]binary-number-with-alternating-bits - 二进制是否存在相邻bit](https://github.com/xuwenzhi/leetcode/blob/master/integer/binary-number-with-alternating-bits.md) **c++** **2019-6-14**
+
 ## Math
 
 [[Easy]ugly-number](https://github.com/xuwenzhi/leetcode/blob/master/math/ugly-number.md) **c**
@@ -127,6 +131,11 @@
 [[Easy]excel-sheet-column-title - 数字转Excel行](https://github.com/xuwenzhi/leetcode/blob/master/string/excel-sheet-column-title.md) **c++** **2019-6-11**
 
 [[Easy]most-common-word - 出现最多次的单词](https://github.com/xuwenzhi/leetcode/blob/master/string/most-common-word.md) **c++** **2019-6-13**
+
+[[Easy]reverse-words-in-a-string-iii - 翻转字符串III](https://github.com/xuwenzhi/leetcode/blob/master/string/reverse-words-in-a-string-iii.md) **c++** **2019-6-13**
+
+[[Easy]robot-return-to-origin - 机器人回到原点](https://github.com/xuwenzhi/leetcode/blob/master/string/robot-return-to-origin.md) **c++** **2019-6-14**
+
 
 
 ## Array
