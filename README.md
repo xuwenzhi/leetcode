@@ -60,6 +60,7 @@
 
 [[Easy]valid-perfect-square - 有效的完全平方数](https://github.com/xuwenzhi/leetcode/blob/master/math/valid-perfect-square.md) **c** **binary search**
 
+
 ## String
 
 [[Medium]length-of-last-word](https://github.com/xuwenzhi/leetcode/blob/master/string/length-of-last-word.md) **c**
@@ -73,6 +74,10 @@
 [[Medium]letter-combinations-of-a-phone-number](https://github.com/xuwenzhi/leetcode/blob/master/string/letter-combinations-of-a-phone-number.md) **c++** **recursive** **2019-3-26**
 
 [[Easy]reverse-string](https://github.com/xuwenzhi/leetcode/blob/master/string/reverse-string.md) **c++** **2019-3-26** **reverse**
+
+[[Easy]reverse-string-ii](https://github.com/xuwenzhi/leetcode/blob/master/string/reverse-string-ii.md) **c++** **2019-6-14**
+
+[[Easy]reverse-words-in-a-string-iii - 翻转字符串III](https://github.com/xuwenzhi/leetcode/blob/master/string/reverse-words-in-a-string-iii.md) **c++** **2019-6-13**
 
 [[Easy]reverse-only-letters](https://github.com/xuwenzhi/leetcode/blob/master/string/reverse-only-letters.md) **c++** **2019-3-26** **reverse**
 
@@ -132,10 +137,13 @@
 
 [[Easy]most-common-word - 出现最多次的单词](https://github.com/xuwenzhi/leetcode/blob/master/string/most-common-word.md) **c++** **2019-6-13**
 
-[[Easy]reverse-words-in-a-string-iii - 翻转字符串III](https://github.com/xuwenzhi/leetcode/blob/master/string/reverse-words-in-a-string-iii.md) **c++** **2019-6-13**
-
 [[Easy]robot-return-to-origin - 机器人回到原点](https://github.com/xuwenzhi/leetcode/blob/master/string/robot-return-to-origin.md) **c++** **2019-6-14**
 
+[[Easy]find-common-characters - 找到公共字母](https://github.com/xuwenzhi/leetcode/blob/master/string/find-common-characters.md) **c++** **2019-6-17**
+
+[[Easy]intersection-of-two-arrays - 两个数组的共同点](https://github.com/xuwenzhi/leetcode/blob/master/string/intersection-of-two-arrays.md) **c++** **hashtable** **2019-6-17**
+
+[[Easy]intersection-of-two-arrays-ii - 两个数组的共同点](https://github.com/xuwenzhi/leetcode/blob/master/string/intersection-of-two-arrays-ii.md) **c++** **hashtable** **2019-6-17**
 
 
 ## Array
@@ -286,6 +294,11 @@
 
 [[Easy]island-perimeter - 计算岛的周长](https://github.com/xuwenzhi/leetcode/blob/master/array/island-perimeter.md) **c++** **2019-6-13**
 
+[[Easy]sort-array-by-parity - 按奇偶排序数组](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-array-by-parity-.md) **c++** **2019-6-17**
+
+[[Easy]sort-array-by-parity-ii - 按奇偶排序数组II](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-array-by-parity-ii.md) **c++** **2pointer** **2019-6-17**
+
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
@@ -352,6 +365,7 @@
 
 [[Medium]insert-into-a-cyclic-sorted-list - 排序成环链表插值](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/insert-into-a-cyclic-sorted-list.md) **c++** **2019-6-10**
 
+[[Medium]linked-list-random-node - 链表随机值](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/linked-list-random-node.md) **c++** **2019-6-14**
 
 ## Stack
 
