@@ -298,6 +298,11 @@
 
 [[Easy]sort-array-by-parity-ii - 按奇偶排序数组II](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-array-by-parity-ii.md) **c++** **2pointer** **2019-6-17**
 
+[[Easy]largest-number-at-least-twice-of-others - 最大数比其他数大二倍](https://github.com/xuwenzhi/leetcode/blob/master/array/largest-number-at-least-twice-of-others.md) **c++** **map** **2019-6-17**
+
+[[Easy]maximize-distance-to-closest-person - 座位距离最远的位置](https://github.com/xuwenzhi/leetcode/blob/master/array/maximize-distance-to-closest-person.md) **c++** **2019-6-18**
+
+[[Medium]exam-room - 考试房间](https://github.com/xuwenzhi/leetcode/blob/master/array/exam-room.md) **c++** **set** **2019-6-18**
 
 ## Linked-List
 
@@ -545,6 +550,7 @@
 
 [[Medium]time-based-key-value-store - 时间戳k-v存储器](https://github.com/xuwenzhi/leetcode/blob/master/design/time-based-key-value-store.md) **c++** **hashtable** **2019-6-7**
 
+[[Hard]data-stream-as-disjoint-intervals - 合并邻接数据范围](https://github.com/xuwenzhi/leetcode/blob/master/design/data-stream-as-disjoint-intervals.md) **c++** **map** **2019-6-18**
 
 # Airbnb
 
