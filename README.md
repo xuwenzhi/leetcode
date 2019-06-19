@@ -552,6 +552,8 @@
 
 [[Hard]data-stream-as-disjoint-intervals - 合并邻接数据范围](https://github.com/xuwenzhi/leetcode/blob/master/design/data-stream-as-disjoint-intervals.md) **c++** **map** **2019-6-18**
 
+[[Hard]range-module - 范围模块](https://github.com/xuwenzhi/leetcode/blob/master/design/range-module.md) **c++** **map** **2019-6-19**
+
 # Airbnb
 
 [[Medium]longest-palindromic-substring - 最长回文子字符串](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/longest-palindromic-substring.md) **c++** **2019-4-21**
