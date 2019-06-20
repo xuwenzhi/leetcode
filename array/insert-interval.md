@@ -93,7 +93,6 @@ public:
 
 # refer
 
-[Elegant C++ STL solution, using "equal_range" to find overlapped intervals.
-](https://leetcode.com/problems/insert-interval/discuss/21599/)
+[Elegant C++ STL solution, using "equal_range" to find overlapped intervals.](https://leetcode.com/problems/insert-interval/discuss/21599/)
 
 [std::equal_range](http://www.cplusplus.com/reference/algorithm/equal_range/)

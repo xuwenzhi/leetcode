@@ -316,6 +316,7 @@
 
 [[Medium]max-consecutive-ones-iii - 最大连续1的长度III](https://github.com/xuwenzhi/leetcode/blob/master/array/max-consecutive-ones-iii.md) **c++** **sliding window** **2019-6-20**
 
+[[Medium]longest-repeating-character-replacement - 可替换K个字母的最大连续相同字母的长度](https://github.com/xuwenzhi/leetcode/blob/master/array/longest-repeating-character-replacement.md) **c++** **sliding window** **2019-6-20**
 
 ## Linked-List
 
