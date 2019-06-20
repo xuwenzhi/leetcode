@@ -310,6 +310,12 @@
 
 [[Medium]missing-ranges - 消失的区间](https://github.com/xuwenzhi/leetcode/blob/master/array/missing-ranges.md) **c++** **2019-6-19**
 
+[[Easy]max-consecutive-ones - 最大连续1的长度](https://github.com/xuwenzhi/leetcode/blob/master/array/max-consecutive-ones.md) **c++** **2019-6-20**
+
+[[Medium]max-consecutive-ones-ii - 最大连续1的长度II](https://github.com/xuwenzhi/leetcode/blob/master/array/max-consecutive-ones-ii.md) **c++** **2019-6-20**
+
+[[Medium]max-consecutive-ones-iii - 最大连续1的长度III](https://github.com/xuwenzhi/leetcode/blob/master/array/max-consecutive-ones-iii.md) **c++** **sliding window** **2019-6-20**
+
 
 ## Linked-List
 
