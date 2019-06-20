@@ -304,6 +304,13 @@
 
 [[Medium]exam-room - 考试房间](https://github.com/xuwenzhi/leetcode/blob/master/array/exam-room.md) **c++** **set** **2019-6-18**
 
+[[Hard]insert-interval - 插入区间](https://github.com/xuwenzhi/leetcode/blob/master/array/insert-interval.md) **c++** **map** **2019-6-19**
+
+[[Medium]summary-ranges - 数字范围摘要](https://github.com/xuwenzhi/leetcode/blob/master/array/summary-ranges.md) **c++** **2019-6-19**
+
+[[Medium]missing-ranges - 消失的区间](https://github.com/xuwenzhi/leetcode/blob/master/array/missing-ranges.md) **c++** **2019-6-19**
+
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
