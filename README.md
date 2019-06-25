@@ -338,6 +338,8 @@
 
 [[Hard]trapping-rain-water - 收集雨水](https://github.com/xuwenzhi/leetcode/blob/master/array/trapping-rain-water.md) **c++** **stack** **2 pointer** **2019-6-21**
 
+[[Medium]word-search - 单词搜索](https://github.com/xuwenzhi/leetcode/blob/master/array/word-search.md) **c++** **DFS** **2019-6-21**
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
