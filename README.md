@@ -294,6 +294,14 @@
 
 [[Easy]island-perimeter - 计算岛的周长](https://github.com/xuwenzhi/leetcode/blob/master/array/island-perimeter.md) **c++** **2019-6-13**
 
+[[Medium]number-of-islands - 岛的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/number-of-islands.md) **c++** **DFS** **BFS** **2019-6-24**
+
+[[Easy]flood-fill - 填充颜色](https://github.com/xuwenzhi/leetcode/blob/master/array/flood-fill.md) **c++** **BFS** **2019-6-24**
+
+[[Medium]max-area-of-island - 最大的岛的面积](https://github.com/xuwenzhi/leetcode/blob/master/array/max-area-of-island.md) **c++** **DFS** **2019-6-24**
+
+[[Medium]surrounded-regions - 被包围的区域](https://github.com/xuwenzhi/leetcode/blob/master/array/surrounded-regions.md) **c++** **DFS** **2019-6-24**
+
 [[Easy]sort-array-by-parity - 按奇偶排序数组](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-array-by-parity-.md) **c++** **2019-6-17**
 
 [[Easy]sort-array-by-parity-ii - 按奇偶排序数组II](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-array-by-parity-ii.md) **c++** **2pointer** **2019-6-17**
@@ -304,7 +312,9 @@
 
 [[Medium]exam-room - 考试房间](https://github.com/xuwenzhi/leetcode/blob/master/array/exam-room.md) **c++** **set** **2019-6-18**
 
-[[Hard]insert-interval - 插入区间](https://github.com/xuwenzhi/leetcode/blob/master/array/insert-interval.md) **c++** **map** **2019-6-19**
+[[Hard]insert-interval - 插入区间](https://github.com/xuwenzhi/leetcode/blob/master/array/insert-interval.md) **c++** **map** **range** **2019-6-19**
+
+[[Medium]interval-list-intersections - 两个区间的交集](https://github.com/xuwenzhi/leetcode/blob/master/array/interval-list-intersections.md) **c++** **range** **2019-6-20**
 
 [[Medium]summary-ranges - 数字范围摘要](https://github.com/xuwenzhi/leetcode/blob/master/array/summary-ranges.md) **c++** **2019-6-19**
 
@@ -317,6 +327,10 @@
 [[Medium]max-consecutive-ones-iii - 最大连续1的长度III](https://github.com/xuwenzhi/leetcode/blob/master/array/max-consecutive-ones-iii.md) **c++** **sliding window** **2019-6-20**
 
 [[Medium]longest-repeating-character-replacement - 可替换K个字母的最大连续相同字母的长度](https://github.com/xuwenzhi/leetcode/blob/master/array/longest-repeating-character-replacement.md) **c++** **sliding window** **2019-6-20**
+
+[[Medium]container-with-most-water - 容纳最大的水](https://github.com/xuwenzhi/leetcode/blob/master/array/container-with-most-water.md) **c++** **2 pointer** **2019-6-21**
+
+[[Hard]trapping-rain-water - 收集雨水](https://github.com/xuwenzhi/leetcode/blob/master/array/trapping-rain-water.md) **c++** **stack** **2 pointer** **2019-6-21**
 
 ## Linked-List
 
@@ -567,6 +581,10 @@
 [[Hard]data-stream-as-disjoint-intervals - 合并邻接数据范围](https://github.com/xuwenzhi/leetcode/blob/master/design/data-stream-as-disjoint-intervals.md) **c++** **map** **2019-6-18**
 
 [[Hard]range-module - 范围模块](https://github.com/xuwenzhi/leetcode/blob/master/design/range-module.md) **c++** **map** **2019-6-19**
+
+[[Easy]design-hashmap - 设计Hash表](https://github.com/xuwenzhi/leetcode/blob/master/design/design-hashmap.md) **c++**  **2019-6-25**
+
+[[Easy]design-hashset - 设计hash集合](https://github.com/xuwenzhi/leetcode/blob/master/design/design-hashset.md) **c++**  **2019-6-25**
 
 # Airbnb
 
