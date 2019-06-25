@@ -145,6 +145,12 @@
 
 [[Easy]intersection-of-two-arrays-ii - 两个数组的共同点](https://github.com/xuwenzhi/leetcode/blob/master/string/intersection-of-two-arrays-ii.md) **c++** **hashtable** **2019-6-17**
 
+[[Easy]isomorphic-strings - 两个相同模式的字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/isomorphic-strings.md) **c++** **hashtable** **2019-6-25**
+
+[[Easy]uncommon-words-from-two-sentences - 两个句子的非公共单词](https://github.com/xuwenzhi/leetcode/blob/master/string/uncommon-words-from-two-sentences.md) **c++** **hashtable** **2019-6-25**
+
+[[Easy]word-pattern - 单词匹配](https://github.com/xuwenzhi/leetcode/blob/master/string/word-pattern.md) **c++** **hashtable** **2019-6-25**
+
 
 ## Array
 
