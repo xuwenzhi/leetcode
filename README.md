@@ -12,6 +12,10 @@
 
 [[Medium]counting-bits](https://github.com/xuwenzhi/leetcode/blob/master/bit/counting-bits.md) **c++**
 
+[[Medium]bitwise-and-of-numbers-range 数字范围与](https://github.com/xuwenzhi/leetcode/blob/master/bit/bitwise-and-of-numbers-range.md) **c++**
+
+[[Easy]reverse-bits 数字范围相与](https://github.com/xuwenzhi/leetcode/blob/master/bit/reverse-bits.md) **c++**
+
 ## Integer
 
 :fire:[[Easy]reverse-integer](https://github.com/xuwenzhi/leetcode/blob/master/integer/reverse-integer.md) **golang**  **overflow**
@@ -265,6 +269,8 @@
 [[Medium]next-permutations - 下一个全排列](https://github.com/xuwenzhi/leetcode/blob/master/array/next-permutations.md) **c++** **permutations** **2019-5-14**
 
 [[Medium]previous-permutation-with-one-swap - 上一个全排列](https://github.com/xuwenzhi/leetcode/blob/master/array/previous-permutation-with-one-swap.md) **c++** **permutations** **2019-5-26**
+
+[[Easy]letter-case-permutation - 大小写字母全排列](https://github.com/xuwenzhi/leetcode/blob/master/array/letter-case-permutation.md) **c++** **permutations** **2019-6-26**
 
 [[Medium]permutation-sequence - 第K个全排列](https://github.com/xuwenzhi/leetcode/blob/master/array/permutation-sequence.md) **c++** **n!** **2019-5-15**
 
