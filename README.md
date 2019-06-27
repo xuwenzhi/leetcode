@@ -344,6 +344,8 @@
 
 [[Hard]trapping-rain-water - 收集雨水](https://github.com/xuwenzhi/leetcode/blob/master/array/trapping-rain-water.md) **c++** **stack** **2 pointer** **2019-6-21**
 
+[[Hard]largest-rectangle-in-histogram - 最大长方形面积](https://github.com/xuwenzhi/leetcode/blob/master/array/largest-rectangle-in-histogram.md) **c++** **stack** **dp** **2019-6-26**
+
 [[Medium]word-search - 单词搜索](https://github.com/xuwenzhi/leetcode/blob/master/array/word-search.md) **c++** **DFS** **2019-6-21**
 
 ## Linked-List
