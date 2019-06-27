@@ -348,6 +348,12 @@
 
 [[Medium]word-search - 单词搜索](https://github.com/xuwenzhi/leetcode/blob/master/array/word-search.md) **c++** **DFS** **2019-6-21**
 
+[[Medium]max-increase-to-keep-city-skyline - 增长城市天际线](https://github.com/xuwenzhi/leetcode/blob/master/array/max-increase-to-keep-city-skyline.md) **c++** **2019-6-27**
+
+[[Easy]k-diff-pairs-in-an-array - 计算有多少不同的pair](https://github.com/xuwenzhi/leetcode/blob/master/array/k-diff-pairs-in-an-array.md) **c++** **hashtable** **2019-6-27**
+
+[[Medium]longest-mountain-in-array - 最长的山](https://github.com/xuwenzhi/leetcode/blob/master/array/longest-mountain-in-array.md) **c++** **2019-6-27**
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
@@ -536,6 +542,10 @@
 [[Medium]find-bottom-left-tree-value - 寻找左下节点值](https://github.com/xuwenzhi/leetcode/blob/master/tree/find-bottom-left-tree-value.md) **c++** **2019-5-7**
 
 [[Medium]populating-next-right-pointers-in-each-node-ii - 层序连接二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/populating-next-right-pointers-in-each-node-ii.md) **c++** **bfs** **2019-6-7**
+
+[[Easy]range-sum-of-bst - 二叉树范围内的和](https://github.com/xuwenzhi/leetcode/blob/master/tree/range-sum-of-bst.md) **c++** **2019-6-27**
+
+[[Easy]minimum-absolute-difference-in-bst - 二叉搜索树相邻两值的最小值](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-absolute-difference-in-bst.md) **c++** **2019-6-27**
 
 # dynamic programing
 
