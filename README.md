@@ -354,6 +354,13 @@
 
 [[Medium]longest-mountain-in-array - 最长的山](https://github.com/xuwenzhi/leetcode/blob/master/array/longest-mountain-in-array.md) **c++** **2019-6-27**
 
+[[Medium]subarray-product-less-than-k - 子数组的积小于K](https://github.com/xuwenzhi/leetcode/blob/master/array/subarray-product-less-than-k.md) **c++** **slding window** **2019-6-28**
+
+[[Medium]rectangle-area - 长方形面积（除了重叠）](https://github.com/xuwenzhi/leetcode/blob/master/array/rectangle-area.md) **c++** **overlap** **2019-6-28**
+
+[[Easy]rectangle-overlap - 长方形是否重叠](https://github.com/xuwenzhi/leetcode/blob/master/array/rectangle-overlap.md) **c++** **overlap** **2019-6-28**
+
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
