@@ -360,6 +360,7 @@
 
 [[Easy]rectangle-overlap - 长方形是否重叠](https://github.com/xuwenzhi/leetcode/blob/master/array/rectangle-overlap.md) **c++** **overlap** **2019-6-28**
 
+[[Medium]sort-an-array - 对数组排序](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-an-array.md) **c++** **quick** **heap** **bubble** **insertion** **2019-7-1**
 
 ## Linked-List
 
