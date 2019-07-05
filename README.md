@@ -250,6 +250,8 @@
 
 [[Medium]subarray-sum-equals-k - 子数组和为K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/subarray-sum-equals-k.md) **c++** **presum** **hashtable** **2019-5-8**
 
+[[Medium]binary-subarrays-with-sum - 子数组和为K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/binary-subarrays-with-sum.md) **c++** **2019-7-3**
+
 [[Medium]maximum-size-subarray-sum-equals-k - 子数组和为K的长度](https://github.com/xuwenzhi/leetcode/blob/master/array/maximum-size-subarray-sum-equals-k.md) **c++** **presum** **hashtable** **2019-6-4**
 
 [[Medium]find-all-numbers-disappeared-in-an-array - 寻找消失的数字](https://github.com/xuwenzhi/leetcode/blob/master/array/find-all-numbers-disappeared-in-an-array.md) **c++** **2019-5-8**
@@ -362,6 +364,8 @@
 
 [[Medium]sort-an-array - 对数组排序](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-an-array.md) **c++** **quick** **heap** **bubble** **insertion** **2019-7-1**
 
+[[Easy]sort-array-by-parity - 偶数在前，奇数在后](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-array-by-parity.md) **c++** **2019-7-3**
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
@@ -446,6 +450,8 @@
 ## Tree
 
 [[Easy]same-tree - 是否相同的树](https://github.com/xuwenzhi/leetcode/blob/master/tree/same-tree.md) **c** **recursive**
+
+[[Easy]subtree-of-another-tree - 是否是子树](https://github.com/xuwenzhi/leetcode/blob/master/tree/subtree-of-another-tree.md) **c** **recursive**
 
 [[Easy]symmetric-tree - 是否是对称的树](https://github.com/xuwenzhi/leetcode/blob/master/tree/symmetric-tree.md) **c++** **recursive** **2019-4-5**
 
