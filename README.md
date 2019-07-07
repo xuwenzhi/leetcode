@@ -585,6 +585,7 @@
 
 [[Medium]longest-increasing-subsequence - 最长递增子序列](https://github.com/xuwenzhi/leetcode/blob/master/dp/longest-increasing-subsequence.md) **c++** **2019-5-10**
 
+[[Medium]partition-array-for-maximum-sum - 分解数组的最大值](https://github.com/xuwenzhi/leetcode/blob/master/dp/partition-array-for-maximum-sum.md) **c++** **2019-7-7**
 
 # design
 
