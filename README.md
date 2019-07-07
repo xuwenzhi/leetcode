@@ -652,6 +652,8 @@
 
 [[Easy]classes-more-than-5-students - 超过5个学生选择的课程](https://github.com/xuwenzhi/leetcode/blob/master/sql/classes-more-than-5-students.md) **sql** **groupby having** **2019-6-13**
 
+[[Easy]big-countries - 大国家](https://github.com/xuwenzhi/leetcode/blob/master/sql/big-countries.md) **sql** **2019-7-5**
+
 
 # should review
 
