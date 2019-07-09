@@ -42,7 +42,7 @@ All characters in given inputs are lowercase letters.
 ["kg","ggq","mo"]
 ["s","so","bfr"]
 ```
-也就是，后面出现的 1 实际上是比3小的（ **其实也可以先对indexes排序，不过响应的sources和targets对应的位置也需要跟着变，比较麻烦。** ） 。
+也就是，后面出现的 1 实际上是比3小的（ **其实也可以先对indexes排序，不过相应的sources和targets对应的位置也需要跟着变，比较麻烦。** ） 。
 
 所以就变换了思路，直接操作S走起，不过直接操作同样有个问题，就是如果前面进行过了替换，那么indexes的索引也得跟着变，不然索引就不起作用了。
 
