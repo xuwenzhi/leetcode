@@ -159,6 +159,11 @@
 
 [[Medium]custom-sort-string - 个性化排序字符串](https://github.com/xuwenzhi/leetcode/blob/master/custom-sort-string.md) **c++** **2019-7-8**
 
+[[Easy]number-of-segments-in-a-string - 字符串中片段的数量](https://github.com/xuwenzhi/leetcode/blob/master/number-of-segments-in-a-string.md) **c++** **2019-7-9**
+
+[[Medium]find-and-replace-in-string - 按照索引替换字符串](https://github.com/xuwenzhi/leetcode/blob/master/find-and-replace-in-string.md) **c++** **2019-7-9**
+
+
 ## Array
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
