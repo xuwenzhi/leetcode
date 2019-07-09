@@ -155,13 +155,13 @@
 
 [[Easy]word-pattern - 单词匹配](https://github.com/xuwenzhi/leetcode/blob/master/string/word-pattern.md) **c++** **hashtable** **2019-6-25**
 
-[[Easy]defanging-an-ip-address - 拔掉IP地址的点](https://github.com/xuwenzhi/leetcode/blob/master/defanging-an-ip-address.md) **c++** **2019-7-8**
+[[Easy]defanging-an-ip-address - 拔掉IP地址的点](https://github.com/xuwenzhi/leetcode/blob/master/string/defanging-an-ip-address.md) **c++** **2019-7-8**
 
-[[Medium]custom-sort-string - 个性化排序字符串](https://github.com/xuwenzhi/leetcode/blob/master/custom-sort-string.md) **c++** **2019-7-8**
+[[Medium]custom-sort-string - 个性化排序字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/custom-sort-string.md) **c++** **2019-7-8**
 
-[[Easy]number-of-segments-in-a-string - 字符串中片段的数量](https://github.com/xuwenzhi/leetcode/blob/master/number-of-segments-in-a-string.md) **c++** **2019-7-9**
+[[Easy]number-of-segments-in-a-string - 字符串中片段的数量](https://github.com/xuwenzhi/leetcode/blob/master/string/number-of-segments-in-a-string.md) **c++** **2019-7-9**
 
-[[Medium]find-and-replace-in-string - 按照索引替换字符串](https://github.com/xuwenzhi/leetcode/blob/master/find-and-replace-in-string.md) **c++** **2019-7-9**
+[[Medium]find-and-replace-in-string - 按照索引替换字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/find-and-replace-in-string.md) **c++** **2019-7-9**
 
 
 ## Array
