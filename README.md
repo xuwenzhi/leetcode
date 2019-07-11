@@ -163,6 +163,10 @@
 
 [[Medium]find-and-replace-in-string - 按照索引替换字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/find-and-replace-in-string.md) **c++** **2019-7-9**
 
+[[Medium]find-and-replace-pattern - 按照模式进行替换](https://github.com/xuwenzhi/leetcode/blob/master/string/find-and-replace-pattern.md) **c++** **hashtable** **2019-7-9**
+
+[[Easy]subdomain-visit-count - 按照模式进行替换](https://github.com/xuwenzhi/leetcode/blob/master/string/subdomain-visit-count.md) **c++** **hashtable** **2019-7-11**
+
 
 ## Array
 
@@ -373,6 +377,8 @@
 [[Medium]sort-an-array - 对数组排序](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-an-array.md) **c++** **quick** **heap** **bubble** **insertion** **2019-7-1**
 
 [[Easy]sort-array-by-parity - 偶数在前，奇数在后](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-array-by-parity.md) **c++** **2019-7-3**
+
+[[Easy]n-repeated-element-in-size-2n-array - 2N大小的数组中出现N次的数字](https://github.com/xuwenzhi/leetcode/blob/master/array/n-repeated-element-in-size-2n-array.md) **c++** **2019-7-11**
 
 ## Linked-List
 

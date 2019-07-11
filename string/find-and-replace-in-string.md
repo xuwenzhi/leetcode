@@ -96,3 +96,39 @@ public:
 //Runtime: 8 ms, faster than 69.45% of C++ online submissions for Find And Replace in String.
 //Memory Usage: 12.3 MB, less than 18.21% of C++ online submissions for Find And Replace in String.
 ```
+
+
+
+# solution (right to left)
+
+后来看到评论区，还有排序后从后向左的解法，这样其实就避开了从左向右导致原始索引发生变化了。
+
+这种是构造一个vector<pair<int,int>>，并且这个pair是这样的，{indexes[i], i}，这样对其排序的话就会按照indexes[i] 进行排序，也就达到了我们的效果。
+
+```c++
+class Solution {
+public:
+    string findReplaceString(string S, vector<int>& indexes, vector<string>& sources, vector<string>& targets) {
+        
+        vector<pair<int,int>> sorted;
+        for (int i=0;i<indexes.size();i++) {
+            sorted.push_back(make_pair(indexes[i], i));
+        }
+        
+        sort(sorted.rbegin(), sorted.rend());
+        for (auto idx : sorted) {
+            string s = sources[idx.second];
+            if (S.substr(idx.first, s.length()) == s) 
+                S = S.substr(0, idx.first) + targets[idx.second] + S.substr(idx.first+s.length());
+        }
+        
+        return S;
+    }
+};
+//Runtime: 8 ms, faster than 69.45% of C++ online submissions for Find And Replace in String.
+//Memory Usage: 12.6 MB, less than 9.25% of C++ online submissions for Find And Replace in String.
+```
+
+# refer
+
+[[C++/Java/Python] Replace S from right to left](https://leetcode.com/problems/find-and-replace-in-string/discuss/130587/C%2B%2BJavaPython-Replace-S-from-right-to-left)
