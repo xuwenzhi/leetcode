@@ -198,6 +198,8 @@
 
 [[Medium]rotate-image](https://github.com/xuwenzhi/leetcode/blob/master/array/rotate-image.md) **c** **matrix**
 
+[[Easy]flipping-an-image - 翻转画布](https://github.com/xuwenzhi/leetcode/blob/master/array/flipping-an-image.md) **c++** **matrix** **2019-07-16**
+
 :fire:[[Medium]spiral-matrix - 螺旋遍历矩阵](https://github.com/xuwenzhi/leetcode/blob/master/array/spiral-matrix.md) **c** **matrix**
 
 [[Medium]spiral-matrix-ii - 构造螺旋矩阵](https://github.com/xuwenzhi/leetcode/blob/master/array/spiral-matrix-ii.md) **c** **matrix**
@@ -356,9 +358,9 @@
 
 [[Medium]container-with-most-water - 容纳最大的水](https://github.com/xuwenzhi/leetcode/blob/master/array/container-with-most-water.md) **c++** **2 pointer** **2019-6-21**
 
-[[Hard]trapping-rain-water - 收集雨水](https://github.com/xuwenzhi/leetcode/blob/master/array/trapping-rain-water.md) **c++** **stack** **2 pointer** **2019-6-21**
+[[Hard]trapping-rain-water - 收集雨水](https://github.com/xuwenzhi/leetcode/blob/master/array/trapping-rain-water.md) **c++** **monotone stack** **2 pointer** **2019-6-21**
 
-[[Hard]largest-rectangle-in-histogram - 最大长方形面积](https://github.com/xuwenzhi/leetcode/blob/master/array/largest-rectangle-in-histogram.md) **c++** **stack** **dp** **2019-6-26**
+[[Hard]largest-rectangle-in-histogram - 最大长方形面积](https://github.com/xuwenzhi/leetcode/blob/master/array/largest-rectangle-in-histogram.md) **c++** **monotone stack** **dp** **2019-6-26**
 
 [[Medium]word-search - 单词搜索](https://github.com/xuwenzhi/leetcode/blob/master/array/word-search.md) **c++** **DFS** **2019-6-21**
 
@@ -379,6 +381,10 @@
 [[Easy]sort-array-by-parity - 偶数在前，奇数在后](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-array-by-parity.md) **c++** **2019-7-3**
 
 [[Easy]n-repeated-element-in-size-2n-array - 2N大小的数组中出现N次的数字](https://github.com/xuwenzhi/leetcode/blob/master/array/n-repeated-element-in-size-2n-array.md) **c++** **2019-7-11**
+
+[[Medium]queue-reconstruction-by-height - 根据身高重建队列](https://github.com/xuwenzhi/leetcode/blob/master/array/queue-reconstruction-by-height.md) **c++** **2019-7-15**
+
+[[Medium]daily-temperatures - 每日天气](https://github.com/xuwenzhi/leetcode/blob/master/array/daily-temperatures.md) **c++** **hashtable** **monotone stack** **2019-7-15**
 
 ## Linked-List
 
