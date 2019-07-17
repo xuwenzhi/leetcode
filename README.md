@@ -264,6 +264,8 @@
 
 [[Medium]subarray-sum-equals-k - 子数组和为K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/subarray-sum-equals-k.md) **c++** **presum** **hashtable** **2019-5-8**
 
+[[Medium]subarray-sums-divisible-by-k - 子数组之和可整除K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/subarray-sums-divisible-by-k.md) **c++** **presum** **hashtable** **2019-5-8**
+
 [[Medium]binary-subarrays-with-sum - 子数组和为K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/binary-subarrays-with-sum.md) **c++** **2019-7-3**
 
 [[Medium]maximum-size-subarray-sum-equals-k - 子数组和为K的长度](https://github.com/xuwenzhi/leetcode/blob/master/array/maximum-size-subarray-sum-equals-k.md) **c++** **presum** **hashtable** **2019-6-4**
@@ -385,6 +387,10 @@
 [[Medium]queue-reconstruction-by-height - 根据身高重建队列](https://github.com/xuwenzhi/leetcode/blob/master/array/queue-reconstruction-by-height.md) **c++** **2019-7-15**
 
 [[Medium]daily-temperatures - 每日天气](https://github.com/xuwenzhi/leetcode/blob/master/array/daily-temperatures.md) **c++** **hashtable** **monotone stack** **2019-7-15**
+
+[[Medium]keys-and-rooms - 钥匙和房间](https://github.com/xuwenzhi/leetcode/blob/master/array/keys-and-rooms.md) **c++** **DFS** **2019-7-17**
+
+[[Easy]relative-sort-array - 按相关性排序数组](https://github.com/xuwenzhi/leetcode/blob/master/array/relative-sort-array.md) **c++** **2019-7-17**
 
 ## Linked-List
 
