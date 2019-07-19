@@ -591,6 +591,8 @@
 
 [[Easy]minimum-absolute-difference-in-bst - 二叉搜索树相邻两值的最小值](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-absolute-difference-in-bst.md) **c++** **2019-6-27**
 
+[[Medium]delete-nodes-and-return-forest - 删除树的节点并收集出来](https://github.com/xuwenzhi/leetcode/blob/master/tree/delete-nodes-and-return-forest.md) **c++** **2019-7-7**
+
 # dynamic programing
 
 :fire:[[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/dp/climbing-stairs.md) **c++** **2019-4-18**
@@ -685,6 +687,7 @@
 
 [[Easy]big-countries - 大国家](https://github.com/xuwenzhi/leetcode/blob/master/sql/big-countries.md) **sql** **2019-7-5**
 
+[[Easy]not-boring-movies - 不无聊的电影](https://github.com/xuwenzhi/leetcode/blob/master/sql/not-boring-movies.md) **sql** **2019-7-19**
 
 # should review
 

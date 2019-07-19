@@ -31,7 +31,7 @@ Note:
 
 > We want to always choose the most common or second most common element to write next. What data structure allows us to query this effectively?
 
-然后想了一下，好像确实是这样，只要遍历出现次数最多的元素和第二次数多的元素就行了，但是同时也要对相应出现的次数做 **减1** 操作才行，这里我使用的是 **priority_queue<pair<int,int>>**，pair的第一个元素存储次数，第二个元素存储元素即可，然后依次遍历。
+然后想了一下，好像确实是这样，只要遍历出现次数最多的元素和第二次数多的元素就行了，但是同时也要对相应出现的次数做 **-1** 操作才行，这里我使用的是 **priority_queue<pair<int,int>>**，pair的第一个元素存储次数，第二个元素存储元素即可，然后依次遍历。
 
 # solution (priority queue)
 
