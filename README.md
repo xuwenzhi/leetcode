@@ -392,6 +392,10 @@
 
 [[Easy]relative-sort-array - 按相关性排序数组](https://github.com/xuwenzhi/leetcode/blob/master/array/relative-sort-array.md) **c++** **2019-7-17**
 
+[[Hard]maximum-gap - 最大间距](https://github.com/xuwenzhi/leetcode/blob/master/array/maximum-gap.md) **c++** **bucketsort** **2019-7-17**
+
+[[Medium]distant-barcodes - 遥远的二维码](https://github.com/xuwenzhi/leetcode/blob/master/array/distant-barcodes.md) **c++** **priority_queue** **2019-7-19**
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
