@@ -324,14 +324,6 @@
 
 [[Easy]island-perimeter - 计算岛的周长](https://github.com/xuwenzhi/leetcode/blob/master/array/island-perimeter.md) **c++** **2019-6-13**
 
-[[Medium]number-of-islands - 岛的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/number-of-islands.md) **c++** **DFS** **BFS** **2019-6-24**
-
-[[Easy]flood-fill - 填充颜色](https://github.com/xuwenzhi/leetcode/blob/master/array/flood-fill.md) **c++** **BFS** **2019-6-24**
-
-[[Medium]max-area-of-island - 最大的岛的面积](https://github.com/xuwenzhi/leetcode/blob/master/array/max-area-of-island.md) **c++** **DFS** **2019-6-24**
-
-[[Medium]surrounded-regions - 被包围的区域](https://github.com/xuwenzhi/leetcode/blob/master/array/surrounded-regions.md) **c++** **DFS** **2019-6-24**
-
 [[Easy]sort-array-by-parity - 按奇偶排序数组](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-array-by-parity-.md) **c++** **2019-6-17**
 
 [[Easy]sort-array-by-parity-ii - 按奇偶排序数组II](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-array-by-parity-ii.md) **c++** **2pointer** **2019-6-17**
@@ -387,8 +379,6 @@
 [[Medium]queue-reconstruction-by-height - 根据身高重建队列](https://github.com/xuwenzhi/leetcode/blob/master/array/queue-reconstruction-by-height.md) **c++** **2019-7-15**
 
 [[Medium]daily-temperatures - 每日天气](https://github.com/xuwenzhi/leetcode/blob/master/array/daily-temperatures.md) **c++** **hashtable** **monotone stack** **2019-7-15**
-
-[[Medium]keys-and-rooms - 钥匙和房间](https://github.com/xuwenzhi/leetcode/blob/master/array/keys-and-rooms.md) **c++** **DFS** **2019-7-17**
 
 [[Easy]relative-sort-array - 按相关性排序数组](https://github.com/xuwenzhi/leetcode/blob/master/array/relative-sort-array.md) **c++** **2019-7-17**
 
@@ -592,6 +582,20 @@
 [[Easy]minimum-absolute-difference-in-bst - 二叉搜索树相邻两值的最小值](https://github.com/xuwenzhi/leetcode/blob/master/tree/minimum-absolute-difference-in-bst.md) **c++** **2019-6-27**
 
 [[Medium]delete-nodes-and-return-forest - 删除树的节点并收集出来](https://github.com/xuwenzhi/leetcode/blob/master/tree/delete-nodes-and-return-forest.md) **c++** **2019-7-7**
+
+# graph
+
+[[Medium]number-of-islands - 岛的数量](https://github.com/xuwenzhi/leetcode/blob/master/graph/number-of-islands.md) **c++** **DFS** **BFS** **2019-6-24**
+
+[[Easy]flood-fill - 填充颜色](https://github.com/xuwenzhi/leetcode/blob/master/graph/flood-fill.md) **c++** **BFS** **2019-6-24**
+
+[[Medium]max-area-of-island - 最大的岛的面积](https://github.com/xuwenzhi/leetcode/blob/master/graph/max-area-of-island.md) **c++** **DFS** **2019-6-24**
+
+[[Medium]surrounded-regions - 被包围的区域](https://github.com/xuwenzhi/leetcode/blob/master/graph/surrounded-regions.md) **c++** **DFS** **2019-6-24**
+
+[[Medium]keys-and-rooms - 钥匙和房间](https://github.com/xuwenzhi/leetcode/blob/master/graph/keys-and-rooms.md) **c++** **DFS** **2019-7-17**
+
+[[Medium]all-paths-from-source-to-target - 从头到尾所有的路径](https://github.com/xuwenzhi/leetcode/blob/master/graph/all-paths-from-source-to-target.md) **c++** **dfs** **2019-7-22**
 
 # dynamic programing
 
