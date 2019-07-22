@@ -693,6 +693,8 @@
 
 [[Easy]not-boring-movies - 不无聊的电影](https://github.com/xuwenzhi/leetcode/blob/master/sql/not-boring-movies.md) **sql** **2019-7-19**
 
+[[Easy]swap-salary - 交换薪水](https://github.com/xuwenzhi/leetcode/blob/master/sql/swap-salary.md) **sql** **case when** **2019-7-22**
+
 # should review
 
 [search-a-2d-matrix-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix-ii.md) **c++** **matrix** **2 pointer**
