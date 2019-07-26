@@ -597,6 +597,8 @@
 
 [[Medium]all-paths-from-source-to-target - 从头到尾所有的路径](https://github.com/xuwenzhi/leetcode/blob/master/graph/all-paths-from-source-to-target.md) **c++** **dfs** **2019-7-22**
 
+[[Medium]shortest-path-in-binary-matrix - 最短路径](https://github.com/xuwenzhi/leetcode/blob/master/graph/shortest-path-in-binary-matrix.md) **c++** **bfs** **2019-7-26**
+
 # dynamic programing
 
 :fire:[[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/dp/climbing-stairs.md) **c++** **2019-4-18**
