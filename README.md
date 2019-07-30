@@ -372,6 +372,8 @@
 
 [[Medium]sort-an-array - 对数组排序](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-an-array.md) **c++** **quick** **heap** **bubble** **insertion** **2019-7-1**
 
+[[Medium]sort-colors - 排序颜色](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-colors.md) **c++** **counter** **multi quicksort** **2019-7-30**
+
 [[Easy]sort-array-by-parity - 偶数在前，奇数在后](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-array-by-parity.md) **c++** **2019-7-3**
 
 [[Easy]n-repeated-element-in-size-2n-array - 2N大小的数组中出现N次的数字](https://github.com/xuwenzhi/leetcode/blob/master/array/n-repeated-element-in-size-2n-array.md) **c++** **2019-7-11**
