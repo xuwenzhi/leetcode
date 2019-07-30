@@ -149,3 +149,42 @@ public:
 //Runtime: 84 ms, faster than 18.90% of C++ online submissions for Sort an Array.
 //Memory Usage: 12.5 MB, less than 65.56% of C++ online submissions for Sort an Array.
 ```
+
+
+# solution (three way quick sort)
+
+三路快排算法，是一种对快排算法的优化，这种三路快排更适合元素中重复元素很多的情况。
+
+具体思路为将整个序列分为3部分，以x为边界，左边区间比x小，中间区间与x相等，而右侧区间比x大，每次都这样处理，直至序列都排序完成。
+
+一个三路快排的应用 : [[Medium]sort-colors - 排序颜色](https://github.com/xuwenzhi/leetcode/blob/master/array/sort-colors.md)
+
+```c++
+class Solution {
+public:
+    
+    void threeWayQuickSort(std::vector<int>& nums, int first, int last) {
+        if (first > last) return ;
+        int l = first, r = last, i=first;
+        int x = nums[rand() % (last - first + 1) + first];
+        while (i <= r) {
+            if (nums[i] == x) {
+                i++;
+            } else if (nums[i] > x) {
+                swap(nums[i], nums[r--]);
+            } else {
+                swap(nums[i++], nums[l++]);
+            }
+        }
+        threeWayQuickSort(nums, first, l-1);
+        threeWayQuickSort(nums, r+1, last);
+    }
+    
+    vector<int> sortArray(vector<int>& nums) {
+        threeWayQuickSort(nums, 0, nums.size()-1);
+        return nums;
+    }
+};
+//Runtime: 64 ms, faster than 68.03% of C++ online submissions for Sort an Array.
+//Memory Usage: 12.7 MB, less than 51.97% of C++ online submissions for Sort an Array.
+```

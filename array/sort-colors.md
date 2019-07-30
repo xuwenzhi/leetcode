@@ -43,7 +43,7 @@ public:
 //Memory Usage: 8.6 MB, less than 67.31% of C++ online submissions for Sort Colors.
 ```
 
-# solution (3 road quick sort)
+# solution (3 Way Quick Sort)
 
 ![https://github.com/xuwenzhi/leetcode/raw/master/images/sort_colors1.jpg](https://github.com/xuwenzhi/leetcode/raw/master/images/sort_colors1.jpg)
 
