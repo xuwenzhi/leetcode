@@ -388,6 +388,8 @@
 
 [[Medium]distant-barcodes - 遥远的二维码](https://github.com/xuwenzhi/leetcode/blob/master/array/distant-barcodes.md) **c++** **priority_queue** **2019-7-19**
 
+[[Easy]peak-index-in-a-mountain-array - 山顶的位置](https://github.com/xuwenzhi/leetcode/blob/master/array/peak-index-in-a-mountain-array.md) **c++** **2019-8-5**
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
