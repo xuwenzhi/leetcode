@@ -280,8 +280,6 @@
 
 [[Medium]combinations - 组合项](https://github.com/xuwenzhi/leetcode/blob/master/array/combinations.md) **c++** **combination** **2019-5-10**
 
-[[Medium]letter-tile-possibilities - 字母组合的可能性](https://github.com/xuwenzhi/leetcode/blob/master/array/letter-tile-possibilities.md) **c++** **combination** **2019-8-5**
-
 [[Medium]permutations - 全排列](https://github.com/xuwenzhi/leetcode/blob/master/array/permutations.md) **c++** **permutations** **2019-5-14**
 
 [[Medium]permutations-ii - 全排列II](https://github.com/xuwenzhi/leetcode/blob/master/array/permutations-ii.md) **c++** **permutations** **2019-5-14**
@@ -293,6 +291,8 @@
 [[Easy]letter-case-permutation - 大小写字母全排列](https://github.com/xuwenzhi/leetcode/blob/master/array/letter-case-permutation.md) **c++** **permutations** **2019-6-26**
 
 [[Medium]permutation-sequence - 第K个全排列](https://github.com/xuwenzhi/leetcode/blob/master/array/permutation-sequence.md) **c++** **n!** **2019-5-15**
+
+[[Medium]letter-tile-possibilities - 字母组合的可能性](https://github.com/xuwenzhi/leetcode/blob/master/array/letter-tile-possibilities.md) **c++** **permutation** **2019-8-5**
 
 [[Medium]subsets - 子序列](https://github.com/xuwenzhi/leetcode/blob/master/array/subsets.md) **c++** **2019-5-29**
 

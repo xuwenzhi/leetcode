@@ -65,3 +65,35 @@ public:
 //Runtime: 40 ms, faster than 45.76% of C++ online submissions for Letter Tile Possibilities.
 //Memory Usage: 30.3 MB, less than 100.00% of C++ online submissions for Letter Tile Possibilities.
 ```
+
+# solution (dfs)
+
+```c++
+class Solution {
+public:
+    int numTilePossibilities(string tiles) {
+        int count[26] = {0};
+        for (char c :tiles) count[c-'A']++;
+        
+        return dfs(count);
+    }
+    
+    int dfs(int* count) {
+        int sum = 0;
+        for (int i=0;i<26;i++) {
+            if (count[i] == 0) continue;
+            count[i]--;
+            sum++;
+            sum += dfs(count);
+            count[i]++;
+        }
+        return sum;
+    }
+};
+//Runtime: 8 ms, faster than 72.12% of C++ online submissions for Letter Tile Possibilities.
+//Memory Usage: 8.1 MB, less than 100.00% of C++ online submissions for Letter Tile Possibilities.
+```
+
+# refer
+
+[Concise java solution](https://leetcode.com/problems/letter-tile-possibilities/discuss/308284/)
