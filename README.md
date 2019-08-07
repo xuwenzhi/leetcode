@@ -167,6 +167,7 @@
 
 [[Easy]subdomain-visit-count - 按照模式进行替换](https://github.com/xuwenzhi/leetcode/blob/master/string/subdomain-visit-count.md) **c++** **hashtable** **2019-7-11**
 
+[[Easy]di-string-match - 增长-降序匹配](https://github.com/xuwenzhi/leetcode/blob/master/string/di-string-match.md) **c++** **2019-8-7**
 
 ## Array
 
