@@ -678,7 +678,7 @@
 
 [[Medium]insert-delete-getrandom-o1 - O(1)级别的插入、删除及随机操作](https://github.com/xuwenzhi/leetcode/blob/master/design/insert-delete-getrandom-o1.md) **c++**  **2019-8-8**
 
-[[Medium]insert-delete-getrandom-o1-duplicates-allowed - O(1)级别的插入、删除及随机操作(允许重复元素)](https://github.com/xuwenzhi/leetcode/blob/master/design/insert-delete-getrandom-o1-duplicates-allowed.md) **c++** **HashTable** **priorityqueue**  **2019-8-8**
+[[Hard]insert-delete-getrandom-o1-duplicates-allowed - O(1)级别的插入、删除及随机操作(允许重复元素)](https://github.com/xuwenzhi/leetcode/blob/master/design/insert-delete-getrandom-o1-duplicates-allowed.md) **c++** **HashTable** **priorityqueue**  **2019-8-8**
 
 # Airbnb
 
