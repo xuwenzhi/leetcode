@@ -678,6 +678,8 @@
 
 [[Medium]insert-delete-getrandom-o1 - O(1)级别的插入、删除及随机操作](https://github.com/xuwenzhi/leetcode/blob/master/design/insert-delete-getrandom-o1.md) **c++**  **2019-8-8**
 
+[[Medium]insert-delete-getrandom-o1-duplicates-allowed - O(1)级别的插入、删除及随机操作(允许重复元素)](https://github.com/xuwenzhi/leetcode/blob/master/design/insert-delete-getrandom-o1-duplicates-allowed.md) **c++** **HashTable** **priorityqueue**  **2019-8-8**
+
 # Airbnb
 
 [[Medium]longest-palindromic-substring - 最长回文子字符串](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/longest-palindromic-substring.md) **c++** **2019-4-21**
