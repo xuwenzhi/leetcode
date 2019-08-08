@@ -169,6 +169,8 @@
 
 [[Easy]di-string-match - 增长-降序匹配](https://github.com/xuwenzhi/leetcode/blob/master/string/di-string-match.md) **c++** **2019-8-7**
 
+[[Easy]keyboard-row - 键盘行](https://github.com/xuwenzhi/leetcode/blob/master/string/keyboard-row.md) **c++** **2019-8-8**
+
 ## Array
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
