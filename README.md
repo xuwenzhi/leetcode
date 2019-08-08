@@ -676,6 +676,8 @@
 
 [[Easy]design-hashset - 设计hash集合](https://github.com/xuwenzhi/leetcode/blob/master/design/design-hashset.md) **c++**  **2019-6-25**
 
+[[Medium]insert-delete-getrandom-o1 - O(1)级别的插入、删除及随机操作](https://github.com/xuwenzhi/leetcode/blob/master/design/insert-delete-getrandom-o1.md) **c++**  **2019-8-8**
+
 # Airbnb
 
 [[Medium]longest-palindromic-substring - 最长回文子字符串](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/longest-palindromic-substring.md) **c++** **2019-4-21**

@@ -22,7 +22,7 @@ You may assume the input string will only contain letters of alphabet.
 
 # solution 
 
-```c++
+```c+
 class Solution {
 public:
     bool isSameRow(string word) {
