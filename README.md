@@ -173,6 +173,8 @@
 
 [[Easy]longest-word-in-dictionary - 字典中最长的单词](https://github.com/xuwenzhi/leetcode/blob/master/string/longest-word-in-dictionary.md) **c++** **2019-8-9**
 
+[[Medium]zigzag-conversion - 折叠式遍历字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/zigzag-conversion.md) **c++** **2019-8-9**
+
 ## Array
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
