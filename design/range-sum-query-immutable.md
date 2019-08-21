@@ -52,3 +52,46 @@ public:
 //Runtime: 32 ms, faster than 91.21% of C++ online submissions for Range Sum Query - Immutable.
 //Memory Usage: 17.6 MB, less than 10.36% of C++ online submissions for Range Sum Query - Immutable.
 ```
+
+# solution (c)
+
+```c
+typedef struct NumArray{
+    int* nums;
+} NumArray;
+
+
+NumArray* numArrayCreate(int* nums, int numsSize) {
+    for (int i = 0 ; i< numsSize; i++){
+        if(i == 0) 
+            nums[i] = nums[0];
+        else 
+            nums[i] += nums[i - 1];
+    }
+    NumArray* tmp = (struct NumArray*) malloc (sizeof(struct NumArray));
+    tmp->nums = nums;
+    return tmp;
+}
+
+int numArraySumRange(NumArray* obj, int i, int j) {
+    if (i < 1) {
+        return obj->nums[j];
+    } else{
+        return obj->nums[j] - obj->nums[i-1];
+    }
+}
+
+void numArrayFree(NumArray* obj) {
+    free(obj);
+}
+
+/**
+ * Your NumArray struct will be instantiated and called as such:
+ * NumArray* obj = numArrayCreate(nums, numsSize);
+ * int param_1 = numArraySumRange(obj, i, j);
+ 
+ * numArrayFree(obj);
+*/
+//Runtime: 24 ms, faster than 75.21% of C online submissions for Range Sum Query - Immutable.
+//Memory Usage: 12.4 MB, less than 100.00% of C online submissions for Range Sum Query - Immutable.
+```
