@@ -401,6 +401,8 @@
 
 [[Easy]peak-index-in-a-mountain-array - 山顶的位置](https://github.com/xuwenzhi/leetcode/blob/master/array/peak-index-in-a-mountain-array.md) **c++** **2019-8-5**
 
+[[Easy]unique-number-of-occurrences - 数字出现的次数是否唯一](https://github.com/xuwenzhi/leetcode/blob/master/array/unique-number-of-occurrences.md) **c++** **HashTable** **2019-10-3**
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
