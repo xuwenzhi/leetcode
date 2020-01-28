@@ -175,6 +175,8 @@
 
 [[Medium]zigzag-conversion - 折叠式遍历字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/zigzag-conversion.md) **c++** **2019-8-9**
 
+[[easy]is-subsequence - 是否是子序列](https://github.com/xuwenzhi/leetcode/blob/master/string/is-subsequence.md) **c++** **2020-1-27**
+
 ## Array
 
 :fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
