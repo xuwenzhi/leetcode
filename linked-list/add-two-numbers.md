@@ -95,3 +95,41 @@ public:
 };
 
 ```
+
+
+# solution (best)
+
+```c++
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        int sum = 0;
+        ListNode* l3 = new ListNode(0);
+        ListNode* result = l3;
+        while (l1 || l2 || sum) {
+            if (l1) {
+                sum += l1->val;
+                l1 = l1->next;
+            }
+            if (l2) {
+                sum += l2->val;
+                l2 = l2->next;
+            }
+            l3->next = new ListNode(sum % 10);
+            l3 = l3->next;
+            sum /= 10;
+        }
+        return result->next;
+    }
+};
+//Runtime: 20 ms, faster than 94.28% of C++ online submissions for Add Two Numbers.
+//Memory Usage: 11.9 MB, less than 5.14% of C++ online submissions for Add Two Numbers.
+```

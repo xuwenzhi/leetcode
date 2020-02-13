@@ -179,7 +179,7 @@
 
 ## Array
 
-:fire: [[Easy]2sum](https://github.com/xuwenzhi/leetcode/blob/master/array/2sum.md) **ruby** **2 pointer**
+:fire: [[Easy]two-sum](https://github.com/xuwenzhi/leetcode/blob/master/array/two-sum.md) **ruby** **2 pointer**
 
 :fire: [[Easy]two-sum-ii-input-array-is-sorted](https://github.com/xuwenzhi/leetcode/blob/master/array/two-sum-ii-input-array-is-sorted.md) **c++** **2 pointer**
 

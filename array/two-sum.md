@@ -1,4 +1,4 @@
-# 2sum
+# two-sum
 
 [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
 
@@ -47,22 +47,17 @@ end
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> map;
-        int i = 0;
-        vector<int> res{};
-        while (i < nums.size()) {
-            if(map.find(target - nums[i]) != map.end()){
-                return vector<int>{map.at(target-nums[i]), i};
+        unordered_map<int,int> m;
+        for (int i=0; i<nums.size(); i++) {
+            if (m.find(target - nums[i]) != m.end()) {
+                return {m[target-nums[i]], i};
             }
-            map.insert(std::pair(nums[i], i));
-            i++;
+            m.insert({nums[i], i});
         }
 
-        return res;
+        return {0, 0};
     }
 };
+//Runtime: 4 ms, faster than 99.72% of C++ online submissions for Two Sum.
+//Memory Usage: 10.1 MB, less than 50.95% of C++ online submissions for Two Sum.
 ```
-
-Runtime: 8 ms, faster than 99.94% of C++ online submissions for Two Sum.
-
-Memory Usage: 10.1 MB, less than 54.90% of C++ online submissions for Two Sum.
