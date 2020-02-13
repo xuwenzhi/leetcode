@@ -38,20 +38,20 @@ Note: 这个不论是BFS，还是DFS都能达到我们的要求。
 ```c++
 // O(m*n) Runtime, O(k) Space.
 class Solution {
-public:    
+public:
     bool isValidPixel(int sr, int sc, vector<vector<char>>& grid) {
-        return sr >= 0 
-            && sr < grid.size() 
-            && sc >= 0 
+        return sr >= 0
+            && sr < grid.size()
+            && sc >= 0
             && sc < grid[0].size()
             && grid[sr][sc] == '1';
     }
-    
+
     int numIslands(vector<vector<char>>& grid) {
         int l = grid.size();
         int res = 0;
         queue<pair<int,int>> q;
-        
+
         for (int i=0;i<l;i++) {
             for (int j=0;j<grid[i].size();j++) {
                 if (grid[i][j] == '0' || grid[i][j] == 'a') {
@@ -96,26 +96,26 @@ public:
 
 ```c++
 class Solution {
-public:    
+public:
     bool isValidPixel(int sr, int sc, int l, int ll) {
-        return sr >= 0 
+        return sr >= 0
             && sr < l
-            && sc >= 0 
+            && sc >= 0
             && sc < ll;
     }
-    
+
     void fill(vector<vector<char>>& grid, int i, int j) {
         if (!isValidPixel(i, j, grid.size(), grid[0].size())) return;
-        
+
         if (grid[i][j] != '1') return;
-        
+
         grid[i][j] = 'a';
         fill(grid, i-1, j);
         fill(grid, i, j-1);
         fill(grid, i+1, j);
         fill(grid, i, j+1);
     }
-    
+
     int numIslands(vector<vector<char>>& grid) {
         int l = grid.size();
         int res = 0;
@@ -132,4 +132,36 @@ public:
 };
 //Runtime: 8 ms, faster than 99.71% of C++ online submissions for Number of Islands.
 //Memory Usage: 10.5 MB, less than 99.31% of C++ online submissions for Number of Islands.
+```
+
+# solution (best) 2020.2.13
+
+```c++
+class Solution {
+public:
+    void numbersOfIslands(vector<vector<char>>& grid, int i, int j) {
+        if (i < 0 || i >= grid.size() || j < 0 || j >= grid[0].size()) return;
+        if (grid[i][j] == '0') return;
+        grid[i][j] = '0';
+        numbersOfIslands(grid, i-1, j);
+        numbersOfIslands(grid, i, j-1);
+        numbersOfIslands(grid, i, j+1);
+        numbersOfIslands(grid, i+1, j);
+    }
+
+    int numIslands(vector<vector<char>>& grid) {
+        int res = 0;
+        for (int i=0; i < grid.size();i++) {
+            for (int j=0;j <grid[0].size(); j++) {
+                if (grid[i][j] == '0') continue;
+                res++;
+                numbersOfIslands(grid, i, j);
+            }
+        }
+
+        return res;
+    }
+};
+//Runtime: 12 ms, faster than 92.96% of C++ online submissions for Number of Islands.
+//Memory Usage: 10.7 MB, less than 94.38% of C++ online submissions for Number of Islands.
 ```
