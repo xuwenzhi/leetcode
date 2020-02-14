@@ -71,6 +71,42 @@ struct ListNode* mergeTwoLists(struct ListNode* l1, struct ListNode* l2) {
 
 [https://leetcode.com/problems/merge-two-sorted-lists/discuss/10010/Recursive-C-solution-4ms](https://leetcode.com/problems/merge-two-sorted-lists/discuss/10010/Recursive-C-solution-4ms)
 
+# solution (best) 2020.2.13
+
+```c++
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+        ListNode *dummy = new ListNode(0);
+        ListNode *p = l1, *q = l2, *pre = dummy;
+
+        while (p && q) {
+            if (p->val <= q->val) {
+                pre->next = p;
+                p = p->next;
+            } else {
+                pre->next = q;
+                q = q->next;
+            }
+            pre = pre->next;
+        }
+        pre->next = p ? p : q;
+
+        return dummy->next;
+    }
+};
+//Runtime: 8 ms, faster than 87.36% of C++ online submissions for Merge Two Sorted Lists.
+//Memory Usage: 9.4 MB, less than 5.74% of C++ online submissions for Merge Two Sorted Lists.
+```
+
 # Summary
 
 1. Notice first element pointer.

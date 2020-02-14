@@ -18,7 +18,7 @@ Output: "bb"
 
 # solution (normal)
 
-考虑到回文字符串可为奇数和偶数的情况，所以就通过**s[pivot-gap] = s[pivot+gap]**这种进行常规解决.
+考虑到回文字符串可为奇数和偶数的情况，所以就通过 **s[pivot-gap] = s[pivot+gap]** 这种进行常规解决.
 
 ```c++
 // O(n^2) Runtime, O(1) Space.
