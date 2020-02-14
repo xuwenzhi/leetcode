@@ -405,6 +405,9 @@
 
 [[Easy]unique-number-of-occurrences - 数字出现的次数是否唯一](https://github.com/xuwenzhi/leetcode/blob/master/array/unique-number-of-occurrences.md) **c++** **HashTable** **2019-10-3**
 
+
+[[Easy]reorder-data-in-log-files - 排序日志文件](https://github.com/xuwenzhi/leetcode/blob/master/array/reorder-data-in-log-files.md) **c++** **sort** **2020-2-13**
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**

@@ -93,3 +93,54 @@ public:
 //Runtime: 36 ms, faster than 99.96% of C++ online submissions for Copy List with Random Pointer.
 //Memory Usage: 21.9 MB, less than 5.21% of C++ online submissions for Copy List with Random Pointer.
 ```
+
+
+# solution (best) 2020.2.13
+
+最近二刷，凭借着之前的印象做这道题的时候，貌似题目要求改了？不能改原链表了？
+
+验证了一下，确实是不能更改了，会报错 **Random pointer of node with label 1 from the original list was modified.** ，既然不能修改了，那么额外使用 **Hashtable** 来存储旧节点到新节点的映射就完事了。
+
+```c++
+/*
+// Definition for a Node.
+class Node {
+public:
+    int val;
+    Node* next;
+    Node* random;
+
+    Node(int _val) {
+        val = _val;
+        next = NULL;
+        random = NULL;
+    }
+};
+*/
+class Solution {
+public:
+    Node* copyRandomList(Node* head) {
+        if (!head) return head;
+        Node* dummy = new Node(0);
+        Node *p = head, *q = dummy;
+        unordered_map<Node*, Node*> m;
+        while (p) {
+            Node* n = new Node(p->val);
+            n->random = p->random;
+            q->next = n;
+            q = q->next;
+            m.insert({p, n});
+            p = p->next;
+        }
+        q = dummy->next;
+        while (q) {
+            q->random = m[q->random];
+            q = q->next;
+        }
+
+        return dummy->next;
+    }
+};
+//Runtime: 12 ms, faster than 56.42% of C++ online submissions for Copy List with Random Pointer.
+//Memory Usage: 13.7 MB, less than 100.00% of C++ online submissions for Copy List with Random Pointer.
+```
