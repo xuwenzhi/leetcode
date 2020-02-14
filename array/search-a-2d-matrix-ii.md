@@ -35,11 +35,10 @@ class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         int row_size = matrix.size();
-        if (row_size <= 0) return false;
-
-        int col_size = row_size > 0 ? matrix[0].size() : 0;
+        if (row_size < 1) return false;
+        int col_size = matrix[0].size();
         int i = 0, j = col_size - 1;
-        while (i <= row_size - 1 && j >= 0) {
+        while (i < row_size && j >= 0) {
             if (matrix[i][j] == target) {
                 return true;
             } else if (matrix[i][j] < target) {
@@ -52,12 +51,6 @@ public:
         return false;
     }
 };
+//Runtime: 60 ms, faster than 95.49% of C++ online submissions for Search a 2D Matrix II.
+//Memory Usage: 13 MB, less than 60.00% of C++ online submissions for Search a 2D Matrix II.
 ```
-
-Success
-
-Details
-
-Runtime: 68 ms, faster than 81.88% of C++ online submissions for Search a 2D Matrix II.
-
-Memory Usage: 12.9 MB, less than 53.96% of C++ online submissions for Search a 2D Matrix II.

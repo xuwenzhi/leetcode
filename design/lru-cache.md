@@ -25,7 +25,7 @@ cache.get(1);       // returns -1 (not found)
 cache.get(3);       // returns 3
 cache.get(4);       // returns 4
 ```
-# solution 
+# solution
 
 使用一个**list<pair<int,int>>**和一个**unordered_map<int, list<pair<int,int>>::iterator>** 解决，特别注意的是map的value是list的一个迭代器。
 
@@ -88,12 +88,12 @@ public:
 
         return it->second->second;
     }
-    
+
     void put(int key, int value) {
-        
+
         auto it = m.find(key);
         if (it != m.end()) l.erase(it->second);
-        
+
         l.push_front(make_pair(key, value));
         m[key] = l.begin();
         if (l.size() > _capacity) {
@@ -117,7 +117,7 @@ public:
 
 # points
 
-## begin(),end() 和 rbegin(),rend() 区别 
+## begin(),end() 和 rbegin(),rend() 区别
 
 > 首先要明白的一点是它们都是指针，其中begin()指向第一个元素，我们容易误认为end()是指向最后一个元素，其实不是的，end()是指向最后一个元素的下一个。
 
@@ -142,6 +142,54 @@ public:
        同样会取得较高的效率，但是指针的维护非常容易出错，因此不推荐使用。
 
 
+# solution 2020.2.13
+
+```c++
+class LRUCache {
+public:
+    LRUCache(int capacity) {
+        this->capacity = capacity;
+    }
+
+    int get(int key) {
+        if (m.find(key) == m.end()) return -1;
+
+        auto cur = m[key];
+        l.splice(l.begin(), l, cur);
+
+        return cur->second;
+    }
+
+    void put(int key, int value) {
+        if (m.find(key) != m.end()) {
+            auto it = m[key];
+            it->second = value;
+            l.splice(l.begin(), l, it);
+        } else {
+            l.push_front(make_pair(key, value));
+            m[key] = l.begin();
+            if (l.size() > this->capacity) {
+                m.erase(l.back().first);
+                l.pop_back();
+            }
+        }
+    }
+private:
+    list<pair<int,int>> l;
+    unordered_map<int, list<pair<int, int>>::iterator> m;
+    int capacity;
+};
+
+/**
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache* obj = new LRUCache(capacity);
+ * int param_1 = obj->get(key);
+ * obj->put(key,value);
+ */
+//Runtime: 104 ms, faster than 90.92% of C++ online submissions for LRU Cache.
+//Memory Usage: 38 MB, less than 79.27% of C++ online submissions for LRU Cache.
+```
+
 # refer
 
 [rbegin 和 end 区别](https://www.cnblogs.com/grandyang/p/4537277.html)
@@ -149,4 +197,3 @@ public:
 [C++三种容器：list、vector和deque的区别](https://blog.csdn.net/gogokongyin/article/details/51178378)
 
 [list::splice](http://www.cplusplus.com/reference/list/list/splice/)
-

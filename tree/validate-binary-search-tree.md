@@ -65,8 +65,42 @@ public:
         helper(root->right, vec);
     }
 };
+//Runtime: 20 ms, faster than 99.27% of C++ online submissions for Validate Binary Search Tree.
+//Memory Usage: 21 MB, less than 14.35% of C++ online submissions for Validate Binary Search Tree.
 ```
 
-Runtime: 20 ms, faster than 99.27% of C++ online submissions for Validate Binary Search Tree.
 
-Memory Usage: 21 MB, less than 14.35% of C++ online submissions for Validate Binary Search Tree.
+# solution 2020.2.13
+
+```c++
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    bool isValidBst(TreeNode* root, TreeNode* minNode, TreeNode* maxNode) {
+        if (!root) return true;
+        if ((minNode && root->val <= minNode->val) || (maxNode && root->val >= maxNode->val))
+            return false;
+
+        return isValidBst(root->left, minNode, root) && isValidBst(root->right, root, maxNode);
+    }
+
+    bool isValidBST(TreeNode* root) {
+        return isValidBst(root, nullptr, nullptr);
+    }
+};
+//Runtime: 20 ms, faster than 33.26% of C++ online submissions for Validate Binary Search Tree.
+//Memory Usage: 20.7 MB, less than 80.21% of C++ online submissions for Validate Binary Search Tree.
+```
+
+
+# reference
+
+[C++ simple recursive solution](https://leetcode.com/problems/validate-binary-search-tree/discuss/32141/)
