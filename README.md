@@ -408,6 +408,9 @@
 
 [[Easy]reorder-data-in-log-files - 排序日志文件](https://github.com/xuwenzhi/leetcode/blob/master/array/reorder-data-in-log-files.md) **c++** **sort** **2020-2-13**
 
+[[Medium]k-closest-points-to-origin - k个最接近原点的坐标](https://github.com/xuwenzhi/leetcode/blob/master/array/k-closest-points-to-origin.md) **c++** **priority_queue** **2020-2-13**
+
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
