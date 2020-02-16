@@ -39,12 +39,13 @@ public:
             m[i[0]]++;
             m[i[1]]--;
         }
-        
+
+		// note: rooms record room count , res is the true result.
         int rooms=0,res=0;
         for (auto i : m) {
             res = max(res, rooms += i.second);
         }
-        
+
         return res;
     }
 };
@@ -60,17 +61,17 @@ public:
 class Solution {
 public:
     int minMeetingRooms(vector<vector<int>>& intervals) {
-        sort(intervals.begin(), 
-            intervals.end(), 
+        sort(intervals.begin(),
+            intervals.end(),
             [](const vector<int> &a, const vector<int> &b){return a[0] < b[0];});
-        
+
         priority_queue<int, vector<int>, greater<int>> q;
-        
+
         for (int i=0;i<intervals.size();i++) {
             if (!q.empty() && q.top() <= intervals[i][0]) q.pop();
             q.push(intervals[i][1]);
         }
-        
+
         return q.size();
     }
 };

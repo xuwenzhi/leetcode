@@ -608,6 +608,8 @@
 
 [[Medium]delete-nodes-and-return-forest - 删除树的节点并收集出来](https://github.com/xuwenzhi/leetcode/blob/master/tree/delete-nodes-and-return-forest.md) **c++** **2019-7-7**
 
+[[Medium]binary-tree-vertical-order-traversal - 竖直遍历二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-vertical-order-traversal.md) **c++** **BFS** **2020-2-15**
+
 # graph
 
 [[Medium]number-of-islands - 岛的数量](https://github.com/xuwenzhi/leetcode/blob/master/graph/number-of-islands.md) **c++** **DFS** **BFS** **2019-6-24**
