@@ -55,7 +55,7 @@ public:
 
 # solution (Set)
 
-使用Set天生就排序的特点来解决这个问题更加.
+使用C++ 中 Set 天生就排序的特点来解决这个问题更佳.
 
 ```c++
 class Solution {

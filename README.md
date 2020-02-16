@@ -612,6 +612,8 @@
 
 [[Medium]number-of-islands - 岛的数量](https://github.com/xuwenzhi/leetcode/blob/master/graph/number-of-islands.md) **c++** **DFS** **BFS** **2019-6-24**
 
+[[Medium]number-of-distinct-islands - 唯一形状岛的数量](https://github.com/xuwenzhi/leetcode/blob/master/graph/number-of-distinct-islands.md) **c++** **DFS** **Set** **2020-2-15**
+
 [[Easy]flood-fill - 填充颜色](https://github.com/xuwenzhi/leetcode/blob/master/graph/flood-fill.md) **c++** **BFS** **2019-6-24**
 
 [[Medium]max-area-of-island - 最大的岛的面积](https://github.com/xuwenzhi/leetcode/blob/master/graph/max-area-of-island.md) **c++** **DFS** **2019-6-24**
