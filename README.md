@@ -410,6 +410,8 @@
 
 [[Medium]k-closest-points-to-origin - k个最接近原点的坐标](https://github.com/xuwenzhi/leetcode/blob/master/array/k-closest-points-to-origin.md) **c++** **priority_queue** **2020-2-13**
 
+[[Medium]shuffle-an-array - 打乱数组](https://github.com/xuwenzhi/leetcode/blob/master/array/shuffle-an-array.md) **c++** **rand** **2020-2-15**
+
 
 ## Linked-List
 
