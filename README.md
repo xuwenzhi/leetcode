@@ -412,6 +412,7 @@
 
 [[Medium]shuffle-an-array - 打乱数组](https://github.com/xuwenzhi/leetcode/blob/master/array/shuffle-an-array.md) **c++** **rand** **2020-2-15**
 
+[[Medium]minimum-cost-to-connect-sticks - 连接sticks的最小开销](https://github.com/xuwenzhi/leetcode/blob/master/array/minimum-cost-to-connect-sticks.md) **c++** **priority_queue** **2020-2-21**
 
 ## Linked-List
 
