@@ -58,11 +58,11 @@ public:
     vector<string> topKFrequent(vector<string>& words, int k) {
         unordered_map<string,int> m;
         priority_queue<pair<string, int>,vector<pair<string, int>>, classcomp> q;
-        
+
         for (int i=0;i<words.size();i++) {
             m[words[i]]++;
         }
-        
+
         vector<string> res(k);
         for (auto i:m) {
             q.push(i);
@@ -70,7 +70,7 @@ public:
                 q.pop();
             }
         }
-        
+
         for (int i=k-1;i>=0;i--) {
             res[i] = q.top().first;
             q.pop();
@@ -81,4 +81,41 @@ public:
 };
 //Runtime: 16 ms, faster than 94.61% of C++ online submissions for Top K Frequent Words.
 //Memory Usage: 11.4 MB, less than 78.32% of C++ online submissions for Top K Frequent Words.
+```
+
+# solution (different compare 2020.2.21)
+
+```c++
+class Solution {
+public:
+    vector<string> topKFrequent(vector<string>& words, int k) {
+        auto comp = [](const auto &a, const auto &b) {
+            return a.second > b.second || (a.second == b.second && a.first < b.first);
+        };
+        priority_queue<
+            pair<string, int>,
+            vector<pair<string, int>>,
+            decltype(comp)> pq(comp);
+
+        unordered_map<string, int> m;
+        for (auto word : words) {
+            m[word]++;
+        }
+
+        for (auto i : m) {
+            pq.push(i);
+            if (pq.size() > k)
+                pq.pop();
+        }
+        vector<string> res(k);
+        for (int i=k-1;i>=0;i--) {
+            res[i] = pq.top().first;
+            pq.pop();
+        }
+
+        return res;
+    }
+};
+//Runtime: 16 ms, faster than 82.41% of C++ online submissions for Top K Frequent Words.
+//Memory Usage: 11.3 MB, less than 94.44% of C++ online submissions for Top K Frequent Words.
 ```
