@@ -1,3 +1,4 @@
+
 # top-k-frequent-elements
 
 [https://leetcode.com/problems/top-k-frequent-elements/](https://leetcode.com/problems/top-k-frequent-elements/)
@@ -30,11 +31,11 @@ public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         unordered_map<int,int> m;
         multimap<int,int> map;
-        
+
         for (int i=0;i<nums.size();i++) {
             m[nums[i]]++;
         }
-        
+
         vector<int> res;
         for (auto i:m) {
             map.insert(std::pair<int,int>(i.second,i.first));
@@ -52,3 +53,14 @@ public:
 //Runtime: 16 ms, faster than 97.90% of C++ online submissions for Top K Frequent Elements.
 //Memory Usage: 11.9 MB, less than 15.50% of C++ online submissions for Top K Frequent Elements.
 ```
+
+# rethink(2020.2.21)
+
+今天想，为什么要用个 **multimap**？直接用 **map** 不行吗？
+好吧，还真是得用 **multimap**，原因请看这样的例子
+
+```
+[1,2]
+2
+```
+1和2出现的次数都是1，如果不使用 **multimap**，那就会丢失答案。

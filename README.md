@@ -179,7 +179,9 @@
 
 ## Array
 
-:fire: [[Easy]two-sum](https://github.com/xuwenzhi/leetcode/blob/master/array/two-sum.md) **ruby** **2 pointer**
+:fire: [[Easy]two-sum](https://github.com/xuwenzhi/leetcode/blob/master/array/two-sum.md) **c++** **hashtable**
+
+[[Easy]two-sum-less-than-k - 两数之和小于K的最大值](https://github.com/xuwenzhi/leetcode/blob/master/array/two-sum-less-than-k.md) **c++** **2 pointer** *2020-2-23**
 
 :fire: [[Easy]two-sum-ii-input-array-is-sorted](https://github.com/xuwenzhi/leetcode/blob/master/array/two-sum-ii-input-array-is-sorted.md) **c++** **2 pointer**
 
