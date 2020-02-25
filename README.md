@@ -633,6 +633,8 @@
 
 [[Medium]shortest-path-in-binary-matrix - 最短路径](https://github.com/xuwenzhi/leetcode/blob/master/graph/shortest-path-in-binary-matrix.md) **c++** **bfs** **2019-7-26**
 
+[[Medium]the-maze - 迷宫](https://github.com/xuwenzhi/leetcode/blob/master/graph/the-maze.md) **c++** **dfs** **2020-2-25**
+
 # dynamic programing
 
 :fire:[[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/dp/climbing-stairs.md) **c++** **2019-4-18**
