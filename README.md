@@ -416,6 +416,11 @@
 
 [[Medium]minimum-cost-to-connect-sticks - 连接sticks的最小开销](https://github.com/xuwenzhi/leetcode/blob/master/array/minimum-cost-to-connect-sticks.md) **c++** **priority_queue** **2020-2-21**
 
+
+[[Easy]how-many-numbers-are-smaller-than-the-current-number - 小于当前值的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/how-many-numbers-are-smaller-than-the-current-number.md) **c++** **hashtable** **2020-2-29**
+
+[[Medium]rank-teams-by-votes - 按照选票排队](https://github.com/xuwenzhi/leetcode/blob/master/array/rank-teams-by-votes.md) **c++** **sort** **2020-2-29**
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
