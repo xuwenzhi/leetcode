@@ -622,6 +622,8 @@
 
 [[Medium]linked-list-in-binary-tree - 二叉树中的链表](https://github.com/xuwenzhi/leetcode/blob/master/tree/linked-list-in-binary-tree.md) **c++** **preorder** **2020-3-1**
 
+[[Medium]validate-binary-tree-nodes - 是否是合法的二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/validate-binary-tree-nodes.md) **c++** **2020-3-1**
+
 # graph
 
 [[Medium]number-of-islands - 岛的数量](https://github.com/xuwenzhi/leetcode/blob/master/graph/number-of-islands.md) **c++** **DFS** **BFS** **2019-6-24**
