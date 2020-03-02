@@ -620,6 +620,8 @@
 
 [[Medium]binary-tree-vertical-order-traversal - 竖直遍历二叉树](https://github.com/xuwenzhi/leetcode/blob/master/tree/binary-tree-vertical-order-traversal.md) **c++** **BFS** **2020-2-15**
 
+[[Medium]linked-list-in-binary-tree - 二叉树中的链表](https://github.com/xuwenzhi/leetcode/blob/master/tree/linked-list-in-binary-tree.md) **c++** **preorder** **2020-3-1**
+
 # graph
 
 [[Medium]number-of-islands - 岛的数量](https://github.com/xuwenzhi/leetcode/blob/master/graph/number-of-islands.md) **c++** **DFS** **BFS** **2019-6-24**
