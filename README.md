@@ -103,18 +103,6 @@
 
 [[Easy]jewels-and-stones](https://github.com/xuwenzhi/leetcode/blob/master/string/jewels-and-stones.md) **c++**  **hash** **2019-5-29**
 
-[[Easy]valid-anagram - 是否是相同乱序字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/valid-anagram.md) **c++**  **hash** **slide window** **2019-4-30**
-
-[[Easy]find-all-anagrams-in-a-string - 找到所有乱序字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/find-all-anagrams-in-a-string.md) **c++**  **hash** **slide window** **2019-4-30**
-
-[[Medium]group-anagrams - 对乱序字符串分组](https://github.com/xuwenzhi/leetcode/blob/master/string/group-anagrams.md) **c++**  **hash** **slide window** **2019-5-7**
-
-[[Medium]grumpy-bookstore-owner - 坏脾气的书店老板](https://github.com/xuwenzhi/leetcode/blob/master/string/grumpy-bookstore-owner.md) **c++** **slide window** **2019-5-26**
-
-[[Medium]minimum-size-subarray-sum - 和为sum的最小连续子数组](https://github.com/xuwenzhi/leetcode/blob/master/string/minimum-size-subarray-sum.md) **c++** **slide window** **2019-6-4**
-
-[[Hard]sliding-window-median - 滑动窗口的中位数](https://github.com/xuwenzhi/leetcode/blob/master/string/sliding-window-median.md) **c++** **slide window** **2019-6-6**
-
 [[Easy]find-the-difference - 找到两个字符串的不同](https://github.com/xuwenzhi/leetcode/blob/master/string/find-the-difference.md) **c++** **counter** **2019-5-26**
 
 [[Medium]decode-string - 解压字符串](https://github.com/xuwenzhi/leetcode/blob/master/string/decode-string.md) **c++** **compress** **2019-6-4**
@@ -420,6 +408,22 @@
 [[Easy]how-many-numbers-are-smaller-than-the-current-number - 小于当前值的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/how-many-numbers-are-smaller-than-the-current-number.md) **c++** **hashtable** **2020-2-29**
 
 [[Medium]rank-teams-by-votes - 按照选票排队](https://github.com/xuwenzhi/leetcode/blob/master/array/rank-teams-by-votes.md) **c++** **sort** **2020-2-29**
+
+## Slide Window
+
+[[Easy]valid-anagram - 是否是相同乱序字符串](https://github.com/xuwenzhi/leetcode/blob/master/slidewindow/valid-anagram.md) **c++**  **hash** **slide window** **2019-4-30**
+
+[[Easy]find-all-anagrams-in-a-string - 找到所有乱序字符串](https://github.com/xuwenzhi/leetcode/blob/master/slidewindow/find-all-anagrams-in-a-string.md) **c++**  **hash** **slide window** **2019-4-30**
+
+[[Medium]group-anagrams - 对乱序字符串分组](https://github.com/xuwenzhi/leetcode/blob/master/slidewindow/group-anagrams.md) **c++**  **hash** **slide window** **2019-5-7**
+
+[[Medium]grumpy-bookstore-owner - 坏脾气的书店老板](https://github.com/xuwenzhi/leetcode/blob/master/slidewindow/grumpy-bookstore-owner.md) **c++** **slide window** **2019-5-26**
+
+[[Medium]minimum-size-subarray-sum - 和为sum的最小连续子数组](https://github.com/xuwenzhi/leetcode/blob/master/slidewindow/minimum-size-subarray-sum.md) **c++** **slide window** **2019-6-4**
+
+[[Hard]sliding-window-median - 滑动窗口的中位数](https://github.com/xuwenzhi/leetcode/blob/master/slidewindow/sliding-window-median.md) **c++** **slide window** **2019-6-6**
+
+[[Medium]number-of-substrings-containing-all-three-characters - 包含a/b/c三个字母的所有子串数量](https://github.com/xuwenzhi/leetcode/blob/master/slidewindow/number-of-substrings-containing-all-three-characters.md) **c++** **slide window** **2020-3-2**
 
 ## Linked-List
 
