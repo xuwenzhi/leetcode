@@ -425,6 +425,8 @@
 
 [[Medium]number-of-substrings-containing-all-three-characters - 包含a/b/c三个字母的所有子串数量](https://github.com/xuwenzhi/leetcode/blob/master/slidewindow/number-of-substrings-containing-all-three-characters.md) **c++** **slide window** **2020-3-2**
 
+[[Medium]find-k-length-substrings-with-no-repeated-characters - 非重复K个字符子串的数量](https://github.com/xuwenzhi/leetcode/blob/master/slidewindow/find-k-length-substrings-with-no-repeated-characters.md) **c++** **slide window** **2020-3-2**
+
 ## Linked-List
 
 [[Medium]rotate-list](https://github.com/xuwenzhi/leetcode/blob/master/linked-list/rotate-list.md) **c**
