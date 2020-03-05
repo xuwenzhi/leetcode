@@ -652,6 +652,8 @@
 
 [[Medium]the-maze - 迷宫](https://github.com/xuwenzhi/leetcode/blob/master/graph/the-maze.md) **c++** **dfs** **2020-2-25**
 
+[[Medium]battleships-in-a-board - 列队中的战舰](https://github.com/xuwenzhi/leetcode/blob/master/graph/battleships-in-a-board.md) **c++** **bfs** **2020-2-25**
+
 # dynamic programing
 
 :fire:[[Easy]climbing-stairs](https://github.com/xuwenzhi/leetcode/blob/master/dp/climbing-stairs.md) **c++** **2019-4-18**
