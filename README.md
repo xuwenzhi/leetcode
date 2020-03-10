@@ -726,6 +726,8 @@
 
 [[Medium]encode-and-decode-tinyurl - 设计短链接](https://github.com/xuwenzhi/leetcode/blob/master/design/encode-and-decode-tinyurl.md) **c++**  **2020-3-2**
 
+[[Medium]design-bounded-blocking-queue - 设计优先容量阻塞队列](https://github.com/xuwenzhi/leetcode/blob/master/design/design-bounded-blocking-queue.md) **c++** **multithreading**  **2020-3-10**
+
 # Airbnb
 
 [[Medium]longest-palindromic-substring - 最长回文子字符串](https://github.com/xuwenzhi/leetcode/blob/master/company/airbnb/longest-palindromic-substring.md) **c++** **2019-4-21**
