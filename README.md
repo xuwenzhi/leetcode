@@ -165,6 +165,8 @@
 
 [[easy]is-subsequence - 是否是子序列](https://github.com/xuwenzhi/leetcode/blob/master/string/is-subsequence.md) **c++** **2020-1-27**
 
+[[Medium]sort-characters-by-frequency - 按频率排序字母](https://github.com/xuwenzhi/leetcode/blob/master/string/sort-characters-by-frequency.md) **c++** **sort** **2020-3-10**
+
 ## Array
 
 :fire: [[Easy]two-sum](https://github.com/xuwenzhi/leetcode/blob/master/array/two-sum.md) **c++** **hashtable**
