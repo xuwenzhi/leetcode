@@ -634,6 +634,8 @@
 
 [[Medium]maximum-level-sum-of-a-binary-tree - 二叉树最大level的和的level](https://github.com/xuwenzhi/leetcode/blob/master/tree/maximum-level-sum-of-a-binary-tree.md) **c++** **BFS** **2020-3-1**
 
+[[Medium]inorder-successor-in-bst - 二叉搜索树中序遍历的successor](https://github.com/xuwenzhi/leetcode/blob/master/tree/inorder-successor-in-bst.md) **c++** **stack inorder** **BFS** **2020-3-10**
+
 # graph
 
 [[Medium]number-of-islands - 岛的数量](https://github.com/xuwenzhi/leetcode/blob/master/graph/number-of-islands.md) **c++** **DFS** **BFS** **2019-6-24**
