@@ -73,3 +73,34 @@ public:
 //Runtime: 16 ms, faster than 76.74% of C++ online submissions for Sort Characters By Frequency.
 //Memory Usage: 10.3 MB, less than 94.12% of C++ online submissions for Sort Characters By Frequency.
 ```
+
+
+# solution (hashtable + multimap)
+
+后来想到这个就很类似 [[Medium]top-k-frequent-elements - top-k个高频数字](https://github.com/xuwenzhi/leetcode/blob/master/array/top-k-frequent-elements.md)和[[Medium]top-k-frequent-words - top-k个高频词](https://github.com/xuwenzhi/leetcode/blob/master/array/top-k-frequent-words.md)，那么直接用 **multimap** 解决就完事了。
+
+```c++
+class Solution {
+public:
+    string frequencySort(string s) {
+        unordered_map<char, int> m;
+        for (auto c : s) {
+            m[c]++;
+        }
+
+        multimap<int, char> mmap;
+        for (auto p : m) {
+            mmap.insert(make_pair(p.second, p.first));
+        }
+
+        string res;
+        for (auto p : mmap) {
+            res = string(p.first, p.second) + res;
+        }
+
+        return res;
+    }
+};
+//Runtime: 16 ms, faster than 76.74% of C++ online submissions for Sort Characters By Frequency.
+//Memory Usage: 10.9 MB, less than 70.59% of C++ online submissions for Sort Characters By Frequency.
+```
