@@ -764,6 +764,9 @@
 
 [[Easy]swap-salary - 交换薪水](https://github.com/xuwenzhi/leetcode/blob/master/sql/swap-salary.md) **sql** **case when** **2019-7-22**
 
+[[Easy]replace-employee-id-with-the-unique-identifier](https://github.com/xuwenzhi/leetcode/blob/master/sql/replace-employee-id-with-the-unique-identifier.md) **sql** **left join** **2020-3-11**
+
+
 # should review
 
 [search-a-2d-matrix-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/search-a-2d-matrix-ii.md) **c++** **matrix** **2 pointer**
