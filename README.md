@@ -73,7 +73,7 @@
 
 :fire: [[Easy]implement-strstr](https://github.com/xuwenzhi/leetcode/blob/master/string/implement-strstr.md) **c** **KMP**
 
-:fire: [[Medium]longest-substring-without-repeating-characters](https://github.com/xuwenzhi/leetcode/blob/master/string/longest-substring-without-repeating-characters.md) **golang**
+:fire: [[Medium]longest-substring-without-repeating-characters](https://github.com/xuwenzhi/leetcode/blob/master/string/longest-substring-without-repeating-characters.md) **golang** **sliding window**
 
 [[Medium]letter-combinations-of-a-phone-number](https://github.com/xuwenzhi/leetcode/blob/master/string/letter-combinations-of-a-phone-number.md) **c++** **recursive** **2019-3-26**
 
