@@ -13,7 +13,7 @@ You may assume no duplicate exists in the array.
 
 Example 1:
 
-Input: [3,4,5,1,2] 
+Input: [3,4,5,1,2]
 Output: 1
 Example 2:
 
@@ -36,7 +36,7 @@ public:
         int len = nums.size();
         if (len == 0) return 0;
         if (len == 1 || nums[0] < nums[len-1]) return nums[0];
-        
+
         int low = 0, high = len-1;
         while (low < high) {
             if (nums[low] < nums[low+1]) {
@@ -50,7 +50,7 @@ public:
                 return nums[high];
             }
         }
-        
+
         return 0;
     }
 };
@@ -71,7 +71,7 @@ public:
         int len = nums.size();
         if (len == 0) return 0;
         if (len == 1 || nums[0] < nums[len-1]) return nums[0];
-        
+
         int low = 0, high = len-1;
         while (low < high && nums[low] > nums[high]) {
             int mid = (low + high) / 2;
@@ -81,7 +81,7 @@ public:
                 high = mid;
             }
         }
-        
+
         return nums[low];
     }
 };
@@ -89,3 +89,37 @@ public:
 //Memory Usage: 8.8 MB, less than 22.19% of C++ online submissions for Find Minimum in Rotated Sorted Array.
 ```
 
+# solution (2020.3.20)
+
+感觉这才是最好理解的。
+
+```c++
+class Solution {
+public:
+    int findMin(vector<int>& nums) {
+        int len = nums.size();
+        if (len == 0) return 0;
+        if (len == 1) return nums[0];
+        if (nums[0] < nums[len-1]) return nums[0];
+
+        int l=0, r = len-1;
+        while (l < r) {
+            int mid = l + (r-l) / 2;
+            if (mid > 0 && nums[mid] < nums[mid-1]) {
+                return nums[mid];
+            }
+			// [2,3,1] 这种case
+            if (mid < len-1 && nums[mid] > nums[mid+1]) {
+                return nums[mid+1];
+            }
+            if (nums[mid] > nums[l]) {
+                l = mid;
+            } else {
+                r = mid;
+            }
+        }
+
+        return -1;
+    }
+};
+```
