@@ -195,6 +195,10 @@
 
 [[Easy]remove-duplicates-from-sorted-array](https://github.com/xuwenzhi/leetcode/blob/master/array/remove-duplicates-from-sorted-array.md) **c**
 
+[[Easy]best-time-to-buy-and-sell-stock](https://github.com/xuwenzhi/leetcode/blob/master/array/best-time-to-buy-and-sell-stock.md) **c++** **2020.4.6**
+
+[[Easy]best-time-to-buy-and-sell-stock-ii](https://github.com/xuwenzhi/leetcode/blob/master/array/best-time-to-buy-and-sell-stock-ii.md) **c++** **2020.4.6**
+
 [[Easy]longest-common-prefix](https://github.com/xuwenzhi/leetcode/blob/master/array/longest-common-prefix.md) **golang** **overflow**
 
 [[Medium]rotate-image](https://github.com/xuwenzhi/leetcode/blob/master/array/rotate-image.md) **c** **matrix**
