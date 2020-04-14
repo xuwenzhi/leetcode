@@ -271,6 +271,8 @@
 
 [[Medium]subarray-sums-divisible-by-k - 子数组之和可整除K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/subarray-sums-divisible-by-k.md) **c++** **presum** **hashtable** **2019-5-8**
 
+[[Medium]contiguous-array - binary数组0和1出现次数一样的子数组长度](https://github.com/xuwenzhi/leetcode/blob/master/array/contiguous-array.md) **c++** **presum** **hashtable** **2020-4-13**
+
 [[Medium]binary-subarrays-with-sum - 子数组和为K的数量](https://github.com/xuwenzhi/leetcode/blob/master/array/binary-subarrays-with-sum.md) **c++** **2019-7-3**
 
 [[Medium]maximum-size-subarray-sum-equals-k - 子数组和为K的长度](https://github.com/xuwenzhi/leetcode/blob/master/array/maximum-size-subarray-sum-equals-k.md) **c++** **presum** **hashtable** **2019-6-4**
