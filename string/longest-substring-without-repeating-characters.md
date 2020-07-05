@@ -74,3 +74,26 @@ public:
 //Runtime: 28 ms, faster than 42.77% of C++ online submissions for Longest Substring Without Repeating Characters.
 //Memory Usage: 10.2 MB, less than 73.13% of C++ online submissions for Longest Substring Without Repeating Characters.
 ```
+
+# solution (best 2020.7.4)
+
+```c++
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        vector<int> m(256, -1);
+        int res = 0, start = -1;
+        for (int i=0;i<s.length();i++) {
+            if (m[s[i]] > start) {
+                start = m[s[i]];
+            }
+            m[s[i]] = i;
+            res = max(res, i - start);
+        }
+
+        return res;
+    }
+};
+//Runtime: 8 ms, faster than 98.70% of C++ online submissions for Longest Substring Without Repeating Characters.
+//Memory Usage: 8.5 MB, less than 64.68% of C++ online submissions for Longest Substring Without Repeating Characters.
+```
