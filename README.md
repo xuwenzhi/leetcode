@@ -167,6 +167,8 @@
 
 [[Medium]sort-characters-by-frequency - 按频率排序字母](https://github.com/xuwenzhi/leetcode/blob/master/string/sort-characters-by-frequency.md) **c++** **sort** **2020-3-10**
 
+[[Medium] search-suggestions-system - 搜索建议系统](https://github.com/xuwenzhi/leetcode/blob/master/string/search-suggestions-system.md) **c++** **string match** **trie** **2021-6-6**
+
 ## Array
 
 :fire: [[Easy]two-sum](https://github.com/xuwenzhi/leetcode/blob/master/array/two-sum.md) **c++** **hashtable**
