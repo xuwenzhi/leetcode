@@ -71,3 +71,29 @@ public:
 //Runtime: 4 ms, faster than 73.97% of C++ online submissions for Sort Colors.
 //Memory Usage: 8.5 MB, less than 77.33% of C++ online submissions for Sort Colors.
 ```
+
+```c++
+// O(n) Runtime, O(1) Space
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        int l = 0, r = nums.size() - 1;
+        int i = 0;
+        // 这里一定是小于等于，比如 [2, 0, 1] case，最后 i = 1, r = 1，此时数组为 [1, 0, 2]，
+        while (i <= r) {
+            if (nums[i] == 0) {
+                swap(nums[l], nums[i]);
+                l++;
+                i++;
+            } else if(nums[i] == 2) {
+                swap(nums[r], nums[i]);
+                r--;
+            } else {
+                i++;
+            }
+        }
+    }
+};
+//Runtime: 4 ms, faster than 48.66% of C++ online submissions for Sort Colors.
+//Memory Usage: 8.2 MB, less than 66.27% of C++ online submissions for Sort Colors.
+```

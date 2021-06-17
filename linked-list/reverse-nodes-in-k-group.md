@@ -53,3 +53,64 @@ struct ListNode* reverseKGroup(struct ListNode* head, int k) {
     return dummy->next;
 }
 ```
+
+
+# solution 
+
+```c++
+// O(n) Runtime, O(1) Space.
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        ListNode dummy;
+        dummy.next = head;
+        head = &dummy;
+        while (head != nullptr) {
+            head = reverseNextK(head, k);
+        }
+        
+        return dummy.next;
+    }
+    
+    // head -> n1 -> n2 -> ... -> nk
+    
+    // head -> nk -> ... -> n2 -> n1
+    ListNode* reverseNextK(ListNode* head, int k) {
+        ListNode* n1 = head->next;
+        ListNode* nk = head;
+        for (int i = 0; i < k; i++) {
+            nk = nk->next;
+            if (nk == nullptr) {
+                return nullptr;
+            }
+        }
+        
+        ListNode* nkplus = nk->next;
+        ListNode* curr = head->next;
+        ListNode* prev = head;
+        while (curr != nkplus) {
+            ListNode* tmp = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = tmp;
+        }
+        
+        head->next = nk;
+        n1->next = nkplus;
+        
+        return n1;
+    }
+};
+//Runtime: 16 ms, faster than 60.29% of C++ online submissions for Reverse Nodes in k-Group.
+//Memory Usage: 11.4 MB, less than 66.46% of C++ online submissions for Reverse Nodes in k-Group.
+```
