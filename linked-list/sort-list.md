@@ -79,12 +79,69 @@ public:
         return l->next;
     }
 };
+//Runtime: 56 ms, faster than 63.62% of C++ online submissions for Sort List.
+//Memory Usage: 24.8 MB, less than 27.62% of C++ online submissions for Sort List.
 ```
 
-Success
 
-Details
 
-Runtime: 56 ms, faster than 63.62% of C++ online submissions for Sort List.
-
-Memory Usage: 24.8 MB, less than 27.62% of C++ online submissions for Sort List.
+```c++
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* merge(ListNode* left, ListNode* right) {
+        ListNode *l = left, *r = right;
+        ListNode* dummy = new ListNode(0);
+        ListNode* p = dummy;
+        while (l && r) {
+            if (l->val <= r->val) {
+                p->next = l;
+                l = l->next;
+            } else {
+                p->next = r;
+                r = r->next;
+            }
+            p = p->next;
+        }
+        if (l) {
+            p->next = l;
+        }
+        if (r) {
+            p->next = r;
+        }
+        
+        return dummy->next;
+    }
+    
+    ListNode* mergeSort(ListNode* head) {
+        if (!head || !head->next) return head;
+        ListNode *slow = head, *fast = head, *prev;
+        while (fast && fast->next) {
+            prev = slow;
+            fast = fast->next->next;
+            slow = slow->next;
+        }
+        prev->next = nullptr;
+        
+        ListNode* l = mergeSort(head);
+        ListNode* r = mergeSort(slow);
+        
+        return merge(l, r);
+    }
+    
+    ListNode* sortList(ListNode* head) {
+        return mergeSort(head);
+    }
+};
+//Runtime: 96 ms, faster than 53.35% of C++ online submissions for Sort List.
+//Memory Usage: 48.8 MB, less than 10.10% of C++ online submissions for Sort List.
+```

@@ -27,33 +27,37 @@ NOTE: input types have been changed on April 15, 2019. Please reset to default c
 
 ```c++
 class Solution {
-private:
-    map<int,int> m;
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        for (int i=0;i<intervals.size();i++) {
-            m.insert({intervals[i][0], intervals[i][1]});
+        if (intervals.size() == 0) return {newInterval};
+        map<int, int> m;
+        for (auto interval: intervals) {
+            m[interval[0]] = interval[1];
         }
         
+        auto l = m.upper_bound(newInterval[0]);
+        auto r = m.upper_bound(newInterval[1]);
         int left = newInterval[0], right = newInterval[1];
-        auto l = m.upper_bound(left), r = m.upper_bound(right);
-        if (l!=m.begin() && (--l)->second < left) ++l;
+        
+        if (l != m.begin() && (--l)->second < left) {
+            ++l;
+        }
         
         if (l == r) {
             m.insert({left, right});
         } else {
             int i = min(l->first, left);
-            int j = max((--r)->second, right);
+            int j = max(right, (--r)->second);
             m.erase(l, ++r);
             m.insert({i, j});
         }
         
-        vector<vector<int>> res;
-        for (auto i:m) {
-            res.push_back({i.first, i.second});
+        vector<vector<int>> ans;
+        for (auto n: m) {
+            ans.push_back({n.first, n.second});
         }
         
-        return res;
+        return ans;
     }
 };
 //Runtime: 20 ms, faster than 53.02% of C++ online submissions for Insert Interval.
@@ -68,27 +72,29 @@ public:
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        vector<vector<int>> res;
-        auto comp = [](const vector<int> i1, const vector<int> i2) {
-            return i1[1] < i2[0];
+        int l = intervals.size();
+        if (l == 0) return {newInterval};
+        auto comp = [](const auto a, const auto b) {
+            return a[1] < b[0];
         };
-        auto range = equal_range(intervals.begin(), intervals.end(), newInterval ,comp);
-        auto itr1 = range.first, itr2 = range.second;
+        auto bounds = equal_range(intervals.begin(), intervals.end(), newInterval, comp);
+        auto it1 = bounds.first, it2 = bounds.second;
         
-        if (itr1 == itr2) {
-            intervals.insert(itr1, newInterval);
+        // it1 and it2 are in the tail of the vector
+        if (it1 == it2) {
+            intervals.insert(it1, newInterval);
         } else {
-            itr2--;
-            (*itr2)[0] = min(newInterval[0], (*itr1)[0]);
-            (*itr2)[1] = max(newInterval[1], (*itr2)[1]);
-            intervals.erase(itr1, itr2);
+            it2--;
+            (*it2)[0] = min((*it1)[0], newInterval[0]);
+            (*it2)[1] = max((*it2)[1], newInterval[1]);
+            intervals.erase(it1, it2); // remove all elements between itr1 and itr2
         }
         
         return intervals;
     }
 };
-//Runtime: 20 ms, faster than 53.02% of C++ online submissions for Insert Interval.
-//Memory Usage: 12.5 MB, less than 12.23% of C++ online submissions for Insert Interval.
+//Runtime: 12 ms, faster than 90.90% of C++ online submissions for Insert Interval.
+//Memory Usage: 17.1 MB, less than 41.25% of C++ online submissions for Insert Interval.
 ```
 
 # refer
